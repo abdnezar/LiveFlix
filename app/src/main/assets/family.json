@@ -1,0 +1,846 @@
+[
+  {
+    "name": "Family Flix",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2",
+    "url": "https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FamilyFlix.us",
+      "name": "Family Flix",
+      "url": ""
+    }
+  },
+  {
+    "name": "8 канал Крым",
+    "logo": null,
+    "url": "http://176.99.110.252/stream8/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "8KanalKrym.ru",
+      "name": "8 канал Крым",
+      "url": ""
+    }
+  },
+  {
+    "name": "Famili Channel",
+    "logo": "https://cdn.colombia.com/canales/famili-channel-5336.jpg",
+    "url": "https://rtmp02.portalexpress.es/thefchanel/thefchanel/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Colombia",
+        "code": "CO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "FamiliChannel.co",
+      "name": "Famili Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dove Channel",
+    "logo": "https://i.imgur.com/FVWqYQG.png",
+    "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DoveChannel.us",
+      "name": "Dove Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "AMG TV",
+    "logo": "http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AMGTV.us",
+      "name": "AMG TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "AVA Family",
+    "logo": null,
+    "url": "http://51.210.199.5/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "AVAFamily.ir",
+      "name": "AVA Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "CANAL IPE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png",
+    "url": "https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CANALIPE.pe",
+      "name": "CANAL IPE",
+      "url": ""
+    }
+  },
+  {
+    "name": "Chicos IPe",
+    "logo": "https://i.imgur.com/FI1Hd4E.png",
+    "url": "http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ChicosIPe.pe",
+      "name": "Chicos IPe",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Family Channel",
+    "logo": "https://i.imgur.com/iuQyJ7f.jpg",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSFamilyChannel.us",
+      "name": "TVS Family Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "СТС",
+    "logo": "https://i.imgur.com/pJNWVAz.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "STS.ru",
+      "name": "СТС",
+      "url": ""
+    }
+  },
+  {
+    "name": "СТС Love",
+    "logo": "https://i.imgur.com/GqaOhZp.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "STSLove.ru",
+      "name": "СТС Love",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Real Families",
+    "logo": "https://i.imgur.com/z8O4Dl6.png",
+    "url": "https://lds-realfamilies-plex.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "a9d5c8",
+      "name": "Real Families",
+      "url": ""
+    }
+  },
+  {
+    "name": "Real Families (Australia)",
+    "logo": "https://i.imgur.com/z8O4Dl6.png",
+    "url": "https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "RealFamiliesAustralia.us",
+      "name": "Real Families (Australia)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Santa and the Three Bears",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true",
+    "url": "https://cloudfront.tubi.video/21df8036-fa23-49ff-9877-8af983546d2b/elw3phlf/stream.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SantaandtheThreeBears.us",
+      "name": "Santa and the Three Bears",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Pet Collective",
+    "logo": "https://i.imgur.com/Mk28uUy.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ThePetCollective.us",
+      "name": "The Pet Collective",
+      "url": ""
+    }
+  },
+  {
+    "name": "Positiv TV",
+    "logo": "https://i.imgur.com/ULF3iOE.png",
+    "url": "https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PositivTV.us",
+      "name": "Positiv TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nile TV Family",
+    "logo": "http://www.niletc.tv/images/family/family.png",
+    "url": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileFamily/_definst_/liveevent/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NileTVFamily.eg",
+      "name": "Nile TV Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nick Teen",
+    "logo": "https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "NickTeen.br",
+      "name": "Nick Teen",
+      "url": ""
+    }
+  },
+  {
+    "name": "La Chaîne normande (LCN)",
+    "logo": "https://i.imgur.com/xDLwsbY.png",
+    "url": "http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "LaChaineNormande.fr",
+      "name": "La Chaîne normande (LCN)",
+      "url": ""
+    }
+  },
+  {
+    "name": "JOJ Family",
+    "logo": "https://i.imgur.com/GyoWsNb.png",
+    "url": "https://nn.geo.joj.sk/hls/family-540.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Slovak",
+        "code": "slk"
+      }
+    ],
+    "tvg": {
+      "id": "JOJFamily.sk",
+      "name": "JOJ Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ion Plus",
+    "logo": "https://i.imgur.com/d449jnv.png",
+    "url": "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IonPlus.us",
+      "name": "Ion Plus",
+      "url": ""
+    }
+  },
+  {
+    "name": "FilmRise Family",
+    "logo": "https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png",
+    "url": "http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FilmRiseFamily.us",
+      "name": "FilmRise Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animales",
+    "logo": "https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimales.us",
+      "name": "Pluto TV Animales",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animals",
+    "logo": "http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d767ae7b456c8cf265ce922&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=9015b970-057f-11eb-aeab-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimals.us",
+      "name": "Pluto TV Animals",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animals (England)",
+    "logo": "http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimalsEngland.us",
+      "name": "Pluto TV Animals (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animals (Germany)",
+    "logo": "http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ae7b456c8cf265ce922&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=301&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimalsGermany.us",
+      "name": "Pluto TV Animals (Germany)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animals+",
+    "logo": "http://images.pluto.tv/channels/56b27f85ff3037045055037e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=d548b050-1c0f-11eb-8801-b9710ba01352&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b6f8a12a-554c-4970-82ca-4dc1f84a4016&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimalsPlus.us",
+      "name": "Pluto TV Animals+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animaux",
+    "logo": "http://images.pluto.tv/channels/60925a44f0350600075a1fdc/solidLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc78c1-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cc06a56-861b-4448-84df-34ad224ceaa7",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimaux.us",
+      "name": "Pluto TV Animaux",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Family",
+    "logo": "https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFamily.us",
+      "name": "Pluto TV Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV BabyFirst",
+    "logo": null,
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Family",
+        "slug": "family"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBabyFirst.us",
+      "name": "Pluto TV BabyFirst",
+      "url": ""
+    }
+  }
+]

@@ -1,0 +1,508 @@
+[
+  {
+    "name": "ARABTV",
+    "logo": null,
+    "url": "https://livefocamundo.com:8081/arabtv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ARABTV.cl",
+      "name": "ARABTV",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Cultura 24",
+    "logo": "https://i.imgur.com/2mSwwpH.png",
+    "url": "https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Cultura24tv.pe",
+      "name": "Cultura 24",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cultura Online",
+    "logo": null,
+    "url": "https://v2.tustreaming.cl/culturaonline/index.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CulturaOnline.cl",
+      "name": "Cultura Online",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Salgalú TV",
+    "logo": "https://graph.facebook.com/salgalucomunicacionquenosacerca/picture?width=320&height=320",
+    "url": "https://6075e60da1f27.streamlock.net/live/wowza/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "SalgalúTV.pe",
+      "name": "Salgalú TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR The Bob Ross Channel",
+    "logo": "https://i0.wp.com/experience.bobross.com/wp-content/uploads/2019/04/cropped-bob-ross-signature-1.png",
+    "url": "https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRTheBobRossChannel.us",
+      "name": "STIRR The Bob Ross Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Bob Ross Channel",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true",
+    "url": "https://bobross-xumous-ingest.cinedigm.com/master.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheBobRossChannel.us",
+      "name": "The Bob Ross Channel",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Fox Soul",
+    "logo": "https://i.imgur.com/YIamDGn.png",
+    "url": "http://fox-foxsoul-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FoxSoul.us",
+      "name": "Fox Soul",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kweli TV",
+    "logo": "https://i.imgur.com/x9tjDhu.png",
+    "url": "https://a.jsrdn.com/broadcast/9c897f1973/+0000/c.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KweliTV.us",
+      "name": "Kweli TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Mədəniyyət TV",
+    "logo": "http://medeniyyettv.az/storage/settings/September2019/RDRVyTmdeB1NvyNm4UnF.png",
+    "url": "http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Azerbaijani",
+        "code": "aze"
+      }
+    ],
+    "tvg": {
+      "id": "MedeniyyetTV.az",
+      "name": "Mədəniyyət TV",
+      "url": "https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Nile TV Culture",
+    "logo": "http://www.niletc.tv/images/culture/culture.png",
+    "url": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCulture/_definst_/liveevent/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NileTVCulture.eg",
+      "name": "Nile TV Culture",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Suspenso",
+    "logo": "https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineSuspenso.us",
+      "name": "Pluto TV Cine Suspenso",
+      "url": ""
+    }
+  },{ "name": "Россия К",
+  "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a000001600801de5fbb57debf44353568ee/orig",
+  "url": "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Culture",
+      "slug": "culture"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Russia",
+      "code": "RU"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Russian",
+      "code": "rus"
+    }
+  ],
+  "tvg": {
+    "id": "RossiyaK.ru",
+    "name": "Россия К",
+    "url": ""
+  }
+},
+
+  {
+    "name": "Культура",
+    "logo": "https://i.imgur.com/jzhrYJq.png",
+    "url": "http://uiptv.do.am/1ufc/000000005/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Kultura.ru",
+      "name": "Культура",
+      "url": ""
+    }
+  },
+  {
+    "name": "ЛитКлуб ТВ Проза",
+    "logo": null,
+    "url": "http://hls-rossp.cdnvideo.ru/hls/5ace67f0dc96bf0a90d8a2b7/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "LitKlubTVProza.ru",
+      "name": "ЛитКлуб ТВ Проза",
+      "url": ""
+    }
+  },
+  {
+    "name": "ЛитКлуб ТВ Слово",
+    "logo": null,
+    "url": "http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "LitKlubTVSlovo.ru",
+      "name": "ЛитКлуб ТВ Слово",
+      "url": ""
+    }
+  },
+  {
+    "name": "ЛитКлуб ТВ Стихи",
+    "logo": null,
+    "url": "http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "LitKlubTVStihi.ru",
+      "name": "ЛитКлуб ТВ Стихи",
+      "url": ""
+    }
+  },
+  {
+    "name": "USMPTV",
+    "logo": "https://graph.facebook.com/USMPTV/picture?width=320&height=320",
+    "url": "http://200.48.236.2:8080/live/stream.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "USMPTV.pe",
+      "name": "USMPTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Zoomer Television",
+    "logo": "https://i.imgur.com/035XqOm.png",
+    "url": "https://zoomertelevision-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ca742a27efdc6a9d0afb06_zoomertelevision-live/571cd364-ab25-49c8-9052-3c8af0d9b1ef/2.m3u8",
+    "categories": [
+      {
+        "name": "Culture",
+        "slug": "culture"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ZoomerTelevision.us",
+      "name": "Zoomer Television",
+      "url": ""
+    }
+  }
+]

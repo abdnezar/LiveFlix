@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Adult Swim Off The Air",
+    "logo": "https://i.imgur.com/tFks0c6.jpg",
+    "url": "https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwimOffTheAir.us",
+      "name": "Adult Swim Off The Air",
+      "url": ""
+    }
+  },
+  {
+    "name": "Better Life Nature Channel",
+    "logo": "https://i.imgur.com/gmrVKEC.jpg",
+    "url": "https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BetterLifeNatureChannel.us",
+      "name": "Better Life Nature Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Animals Live",
+    "logo": "https://i.imgur.com/YbD8uHc.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVAnimalsLive.us",
+      "name": "Bumblebee TV Animals Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Aurora Live",
+    "logo": "https://i.imgur.com/1WIEWK7.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVAuroraLive.us",
+      "name": "Bumblebee TV Aurora Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Beaches Live",
+    "logo": "https://i.imgur.com/4rIbV7e.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVBeachesLive.us",
+      "name": "Bumblebee TV Beaches Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Forest Live",
+    "logo": "https://i.imgur.com/J84tZzN.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVForestLive.us",
+      "name": "Bumblebee TV Forest Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Lake Live",
+    "logo": "https://i.imgur.com/xAkuMa4.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVLakeLive.us",
+      "name": "Bumblebee TV Lake Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Mountain Live",
+    "logo": "https://i.imgur.com/2Ipv14J.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVMountainLive.us",
+      "name": "Bumblebee TV Mountain Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Rivers Live",
+    "logo": "https://i.imgur.com/ii2IDmA.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVRiversLive.us",
+      "name": "Bumblebee TV Rivers Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Sunset Live",
+    "logo": "https://i.imgur.com/K4GaruD.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVSunsetLive.us",
+      "name": "Bumblebee TV Sunset Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Tropics Live",
+    "logo": "https://i.imgur.com/8F9qPbt.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVTropicsLive.us",
+      "name": "Bumblebee TV Tropics Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Waterfalls Live",
+    "logo": "https://i.imgur.com/i43l93j.png",
+    "url": "https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVWaterfallsLive.us",
+      "name": "Bumblebee TV Waterfalls Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Screen Dreams",
+    "logo": "https://i.imgur.com/6hIfTMC.jpg",
+    "url": "https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ScreenDreams.us",
+      "name": "Screen Dreams",
+      "url": ""
+    }
+  },
+  {
+  "name": "Stingray Naturescape",
+  "logo": "https://i.imgur.com/7XsqSSZ.png",
+  "url": "https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8",
+  "categories": [
+    {
+      "name": "Relax",
+      "slug": "relax"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "StingrayNaturescape.us",
+    "name": "Stingray Naturescape",
+    "url": ""
+  }
+},
+  {
+  "name": "Fireplace Lounge",
+  "logo": "https://i.imgur.com/1VZZCZU.jpg",
+  "url": "https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8",
+  "categories": [
+    {
+      "name": "Relax",
+      "slug": "relax"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "FireplaceLounge.us",
+    "name": "Fireplace Lounge",
+    "url": ""
+  }
+},
+  {
+    "name": "Fireside",
+    "logo": "https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png",
+    "url": "https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Fireside.us",
+      "name": "Fireside",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fish Tank",
+    "logo": "https://i.imgur.com/L5JDAkh.png",
+    "url": "https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8",
+    "categories": [
+      {
+        "name": "Relax",
+        "slug": "relax"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FishTank.us",
+      "name": "Fish Tank",
+      "url": ""
+    }
+  },
+  {
+  "name": "Island Escape",
+  "logo": "https://i.imgur.com/ZvF6Yin.png",
+  "url": "https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8",
+  "categories": [
+    {
+      "name": "Relax",
+      "slug": "relax"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "IslandEscape.us",
+    "name": "Island Escape",
+    "url": ""
+  }
+}
+]

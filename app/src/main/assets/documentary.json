@@ -1,0 +1,2409 @@
+[
+  {
+    "name": "Al Jazeera Documentary",
+    "logo": "https://i.imgur.com/El2hhYb.png",
+    "url": "https://live-hls-web-ajd.getaj.net/AJD/index.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlJazeeraDocumentary.qa",
+      "name": "Al Jazeera Documentary",
+      "url": ""
+    }
+  },
+  {
+    "name": "AMC Absolute Reality",
+    "logo": "https://i.imgur.com/yngqRL8.png",
+    "url": "https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AMCAbsoluteReality.us",
+      "name": "AMC Absolute Reality",
+      "url": ""
+    }
+  },
+  {
+    "name": "Canal Savoir",
+    "logo": "https://i.imgur.com/dSvUExH.png",
+    "url": "https://hls.savoir.media/live/stream.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "CanalSavoir.ca",
+      "name": "Canal Savoir",
+      "url": ""
+    }
+  },
+  {
+    "name": "CCTV-9纪录",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png",
+    "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "CCTV9.cn",
+      "name": "CCTV-9纪录",
+      "url": ""
+    }
+  },
+  {
+    "name": "CGTN Documentary",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",
+    "url": "http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CGTNDocumentary.cn",
+      "name": "CGTN Documentary",
+      "url": ""
+    }
+  },
+  {
+    "name": "Court TV",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/60526b849849524498245b78",
+    "url": "https://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/index.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CourtTV.us",
+      "name": "Court TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Crime 360",
+    "logo": "https://i.imgur.com/fYXChY0.png",
+    "url": "https://aenetworks-crime360-1.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Crime360.us",
+      "name": "Crime 360",
+      "url": ""
+    }
+  },
+  {
+    "name": "Crime Time",
+    "logo": "https://i.imgur.com/cQxKMMJ.jpg",
+    "url": "https://crimetimebamca-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CrimeTime.us",
+      "name": "Crime Time",
+      "url": ""
+    }
+  },
+  {
+    "name": "Docurama",
+    "logo": "https://i.imgur.com/5X5Z5eg.png",
+    "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Docurama.us",
+      "name": "Docurama",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Pluto TV Mistérios",
+    "logo": "https://images.pluto.tv/channels/5fac52f142044f00078e2a51/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMisterios.br",
+      "name": "Pluto TV Mistérios",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV My5 Documentaries",
+    "logo": null,
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMy5Documentaries.us",
+      "name": "Pluto TV My5 Documentaries",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV N24 Doku",
+    "logo": "https://images.pluto.tv/channels/60080e8a4bf36000076a81b1/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Germany",
+        "code": "DE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVN24Doku.us",
+      "name": "Pluto TV N24 Doku",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Voyager Documentaries",
+    "logo": "http://images.pluto.tv/channels/589aa03df9ba56a84197a560/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=589aa03df9ba56a84197a560&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=681&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVVoyagerDocumentaries.us",
+      "name": "Pluto TV Voyager Documentaries",
+      "url": ""
+    }
+  },
+  {
+    "name": "Reelz",
+    "logo": "https://i.imgur.com/UQjtEqR.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Reelz.us",
+      "name": "Reelz",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "Reelz Channel (XUMO)",
+    "logo": "https://i.imgur.com/UQjtEqR.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ReelzChannelXUMO.us",
+      "name": "Reelz Channel (XUMO)",
+      "url": ""
+    }
+  },
+  {
+    "name": "RT Documentary",
+    "logo": "https://i.imgur.com/XJGki3v.png",
+    "url": "https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Antarctica",
+        "code": "AQ"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW"
+      },
+      {
+        "name": "Åland",
+        "code": "AX"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "code": "BL"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Bonaire",
+        "code": "BQ"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Bouvet Island",
+        "code": "BV"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      },
+      {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Curacao",
+        "code": "CW"
+      },
+      {
+        "name": "Christmas Island",
+        "code": "CX"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Falkland Islands",
+        "code": "FK"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "French Guiana",
+        "code": "GF"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "code": "IO"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Saint Martin",
+        "code": "MF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Macao",
+        "code": "MO"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Sint Maarten",
+        "code": "SX"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM"
+      },
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "VG"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "code": "VI"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      },
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "RTDocumentary.ru",
+      "name": "RT Documentary",
+      "url": "https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml"
+    }
+  },
+  {
+    "name": "RT Documentary Russian",
+    "logo": "https://i.imgur.com/C6fylkt.png",
+    "url": "https://hls.rt.com/hls/rtdru.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "RTDoc.ru",
+      "name": "RT Documentary Russian",
+      "url": ""
+    }
+  },
+  {
+    "name": "Sightline",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5f7b6665bf6bbf67610fbf02",
+    "url": "https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Sightline.us",
+      "name": "Sightline",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Docurama",
+    "logo": "https://i.imgur.com/5X5Z5eg.png",
+    "url": "https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRDocurama.us",
+      "name": "STIRR Docurama",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Viasat History Russia",
+    "logo": "https://i.imgur.com/YU2vfQX.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "ViasatHistoryRussia.se",
+      "name": "Viasat History Russia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Voyager Documentaries",
+    "logo": "https://i.imgur.com/vPlVuv8.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "VoyagerDocumentaries.us",
+      "name": "Voyager Documentaries",
+      "url": ""
+    }
+  },
+  {
+    "name": "Weather Gone Viral",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5fdd3d8b9f3978154b03b203",
+    "url": "https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WeatherGoneViral.us",
+      "name": "Weather Gone Viral",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "GEM Modern Economy",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/modern_economy.png",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMModernEconomy.ir",
+      "name": "GEM Modern Economy",
+      "url": ""
+    }
+  },
+  {
+    "name": "H2",
+    "logo": "https://www.img09.xyz/assets/img/ch_logo/hd-history2.png",
+    "url": "https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Thailand",
+        "code": "TH"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Thai",
+        "code": "tha"
+      }
+    ],
+    "tvg": {
+      "id": "H2.us",
+      "name": "H2",
+      "url": ""
+    }
+  },
+  {
+    "name": "HDL",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a00000165a45450d78511a9a90be1b893e7/160x160",
+    "url": "https://sc.id-tv.kz/hdl.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "HDL.ru",
+      "name": "HDL",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "History Asia (Thai)",
+    "logo": "http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg",
+    "url": "https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Thailand",
+        "code": "TH"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Thai",
+        "code": "tha"
+      }
+    ],
+    "tvg": {
+      "id": "HistoryAsia.us",
+      "name": "History Asia (Thai)",
+      "url": "https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml"
+    }
+  },
+  {
+    "name": "History East",
+    "logo": "http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg",
+    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HistoryEast.us",
+      "name": "History East",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "La 2",
+    "logo": "https://pbs.twimg.com/profile_images/1168862725369413632/pogqv5Ob_400x400.png",
+    "url": "https://rtvelivestreamv3.akamaized.net/rtvesec/la2_bkp_dvr.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Andorra",
+        "code": "AD"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "La2.es",
+      "name": "La 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "Law & Crime",
+    "logo": "https://i.imgur.com/HY64Nhe.png",
+    "url": "http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LawCrime.us",
+      "name": "Law & Crime",
+      "url": ""
+    }
+  },
+  {
+    "name": "Law & Crime (XUMO)",
+    "logo": "https://i.imgur.com/HY64Nhe.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LawCrimeXUMO.us",
+      "name": "Law & Crime (XUMO)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Magellan TV",
+    "logo": "https://i.imgur.com/oIy673i.png",
+    "url": "https://magellantv-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MagellanTV.us",
+      "name": "Magellan TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Monarch Channel",
+    "logo": "https://i.imgur.com/iSqYInb.png",
+    "url": "https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MonarchChannel.us",
+      "name": "Monarch Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "National Geographic",
+    "logo": "https://static.epg.best/id/NatGeo.id.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "NationalGeographicRussia.us",
+      "name": "National Geographic",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "National Geographic East",
+    "logo": "https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg",
+    "url": "https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NationalGeographicEast.us",
+      "name": "National Geographic East",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "National Geographic Wild Asia",
+    "logo": "https://static.epg.best/id/NatGeoWild.id.png",
+    "url": "http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NationalGeographicWildAsia.us",
+      "name": "National Geographic Wild Asia",
+      "url": "https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml"
+    }
+  },
+  {
+    "name": "Persiana Documentary",
+    "logo": null,
+    "url": "http://51.210.199.23/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaDocumentary.fr",
+      "name": "Persiana Documentary",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Biography",
+    "logo": "https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBiography.us",
+      "name": "Pluto TV Biography",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Documentaries",
+    "logo": "http://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b85a7582921777994caea63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=91&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDocumentaries.us",
+      "name": "Pluto TV Documentaries",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Forensic Files",
+    "logo": "http://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png",
+    "url": "http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVForensicFiles.us",
+      "name": "Pluto TV Forensic Files",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Forensic Files en ESP",
+    "logo": "http://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e94cd036cc69d0007e8a1ba&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=933&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Documentary",
+        "slug": "documentary"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVForensicFilesenESP.us",
+      "name": "Pluto TV Forensic Files en ESP",
+      "url": ""
+    }
+  }
+]

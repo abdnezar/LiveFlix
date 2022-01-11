@@ -1,0 +1,341 @@
+[
+  {
+    "name": "AccuWeather Now",
+    "logo": "https://od.lk/s/MF8yNDUzNzc0Mjlf/AccuWeather_500x500.png",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Weather",
+        "slug": "weather"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AccuWeather.us",
+      "name": "AccuWeather Now",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },{
+  "name": "Pluto TV WeatherNation",
+  "logo": "https://static.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png",
+  "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=",
+  "categories": [
+    {
+      "name": "Weather",
+      "slug": "weather"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "PlutoTVWeatherNation.us",
+    "name": "Pluto TV WeatherNation",
+    "url": ""
+  }
+},
+  {
+    "name": "The Weather Network",
+    "logo": "https://s1.twnmm.com/images/en_ca/mobile/logos/twn-mobile-logo.png",
+    "url": "http://encodercdn1.frontline.ca/kamino/output/The_Weather_Network_720p/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Weather",
+        "slug": "weather"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheWeatherNetwork.ca",
+      "name": "The Weather Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Weather Network Event",
+    "logo": "https://i.imgur.com/jOOkSCE.png",
+    "url": "https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8",
+    "categories": [
+      {
+        "name": "Weather",
+        "slug": "weather"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WeatherNetwork.ca",
+      "name": "The Weather Network Event",
+      "url": ""
+    }
+  },
+  {
+  "name": "Fox Weather",
+  "logo": "https://static.foxnews.com/static/orion/styles/img/fox-weather/s/logos/fox-weather-logo-stacked-color.svg",
+  "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+  "categories": [
+    {
+      "name": "Weather",
+      "slug": "weather"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "FoxWeather.us",
+    "name": "Fox Weather",
+    "url": ""
+  }
+},
+  {
+  "name": "Fox Weather",
+  "logo": "https://media-usla.mybtv.net/logos/7.2.png",
+  "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Weather.m3u8",
+  "categories": [
+  {
+  "name": "Weather",
+  "slug": "weather"
+  }
+  ],
+  "countries": [
+  {
+  "name": "United States",
+  "code": "US"
+  }
+  ],
+  "languages": [
+  {
+  "name": "English",
+  "code": "eng"
+  }
+  ],
+  "tvg": {
+  "id": "foxweather.us",
+  "name": "Fox Weather",
+  "url": ""
+  }
+  },
+  {
+  "name": "Pattrn",
+  "logo": "https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013",
+  "url": "https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8",
+  "categories": [
+  {
+  "name": "Weather",
+  "slug": "weather"
+  }
+  ],
+  "countries": [
+  {
+  "name": "United States",
+  "code": "US"
+  }
+  ],
+  "languages": [
+  {
+  "name": "English",
+  "code": "eng"
+  }
+  ],
+  "tvg": {
+  "id": "Pattrn.us",
+  "name": "Pattrn",
+  "url": ""
+  }
+  },
+  {
+  "name": "Pattrn",
+  "logo": "https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013",
+  "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8",
+  "categories": [
+    {
+    "name": "Weather",
+    "slug": "weather"
+    }
+  ],
+  "countries": [
+  {
+  "name": "United States",
+  "code": "US"
+  }
+  ],
+  "languages": [
+  {
+  "name": "English",
+  "code": "eng"
+  }
+  ],
+  "tvg": {
+  "id": "pattrn.us",
+  "name": "Pattrn",
+  "url": ""
+  }
+  },
+  {
+    "name": "中国气象",
+    "logo": null,
+    "url": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8",
+    "categories": [
+      {
+        "name": "Weather",
+        "slug": "weather"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "ZhongGuoQiXiang.cn",
+      "name": "中国气象",
+      "url": ""
+    }
+  },
+  {
+    "name": "Weather",
+    "slug": "weather"
+  },
+  {
+  "name": "Weathernation",
+  "logo": "",
+  "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-Weather-Nation.m3u8",
+  "categories": [
+  {
+  "name": "Weather",
+  "slug": "weather"
+  }
+  ],
+  "countries": [
+  {
+  "name": "United States",
+  "code": "US"
+  }
+  ],
+  "languages": [
+  {
+  "name": "English",
+  "code": "eng"
+  }
+  ],
+  "tvg": {
+  "id": "WeatherNation.us",
+  "name": "Weathernation",
+  "url": ""
+  }
+  },
+  {
+  "name": "WeatherNation (KCKS-LD6)",
+  "logo": "https://static.wikia.nocookie.net/logopedia/images/1/18/WeatherNation_icon.png",
+  "url": "https://cdn.igocast.com/channel6_hls/channel6_master.m3u8",
+  "categories": [
+  {
+  "name": "Weather",
+  "slug": "weather"
+  }
+  ],
+  "countries": [
+  {
+  "name": "United States",
+  "code": "US"
+  }
+  ],
+  "languages": [
+  {
+  "name": "English",
+  "code": "eng"
+  }
+  ],
+  "tvg": {
+  "id": "KCKSLD6.us",
+  "name": "WeatherNation (KCKS-LD6)",
+  "url": ""
+  }
+  },
+  {
+  "name": "WeatherSpy",
+  "logo": "https://i.imgur.com/SAZF1cq.jpg",
+  "url": "https://jukin-weatherspy-1.vizio.wurl.com/manifest/playlist.m3u8",
+  "categories": [
+    {
+    "name": "Weather",
+    "slug": "weather"
+    }
+  ],
+  "countries": [
+  {
+  "name": "United States",
+  "code": "US"
+  }
+  ],
+  "languages": [
+  {
+  "name": "English",
+  "code": "eng"
+  }
+  ],
+  "tvg": {
+  "id": "WeatherSpy.us",
+  "name": "WeatherSpy",
+  "url": ""
+  }
+  }
+]

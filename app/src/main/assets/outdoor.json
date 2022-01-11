@@ -1,0 +1,1085 @@
+[
+  {
+    "name": "30A Darcizzle Offshore",
+    "logo": "https://i.imgur.com/l2O0fY1.png",
+    "url": "https://30a-tv.com/darcizzle.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "30ADarcizzleOffshore.us",
+      "name": "30A Darcizzle Offshore",
+      "url": ""
+    }
+  },
+  {
+    "name": "AgroBrasil TV",
+    "logo": "https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png",
+    "url": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "AgroBrasilTV.br",
+      "name": "AgroBrasil TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "AgrotendenciaTV",
+    "logo": "https://graph.facebook.com/agrotendencia/picture?width=320&height=320",
+    "url": "https://inliveserver.com:1936/15506/15506/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "AgrotendenciaTV.cr",
+      "name": "AgrotendenciaTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "AKC TV",
+    "logo": "https://i.imgur.com/YNdQXDz.jpg",
+    "url": "https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AKCTV.us",
+      "name": "AKC TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "AKC TV Meet the Breeds",
+    "logo": "https://i.imgur.com/2nzRS60.png",
+    "url": "https://video.blivenyc.com/broadcast/prod/2061/61/desktop-playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AKCTVMeettheBreeds.us",
+      "name": "AKC TV Meet the Breeds",
+      "url": ""
+    }
+  },
+  {
+    "name": "AKC TV Puppies",
+    "logo": "https://i.imgur.com/2nzRS60.png",
+    "url": "https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AKCTVPuppies.us",
+      "name": "AKC TV Puppies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Chive TV",
+    "logo": "https://yt3.ggpht.com/a-/AN66SAz6Ssqjkt5Zn__8q2-hhZEPzoma1h3_IshrpQ=s900-mo-c-c0xffffffff-rj-k-no",
+    "url": "https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ChiveTV.us",
+      "name": "Chive TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "DC Eagle Cam",
+    "logo": "https://i.imgur.com/VPTRThD.png",
+    "url": "http://americaneagle-lh.akamaihd.net/i/AEF_DC1@31049/master.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DCEagleCam.us",
+      "name": "DC Eagle Cam",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Pluto TV Naturaleza",
+    "logo": "https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNaturaleza.us",
+      "name": "Pluto TV Naturaleza",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nature",
+    "logo": "https://images.pluto.tv/channels/5f8ed58b2db26f0007b4aa73/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1c3f9851dd5632e2c91b2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1e26d24e-0585-11eb-82fe-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNature.us",
+      "name": "Pluto TV Nature",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Outside TV",
+    "logo": "https://i.imgur.com/7WF7ca4.png",
+    "url": "https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRROutsideTV.us",
+      "name": "STIRR Outside TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Swamiji TV",
+    "logo": "https://i.imgur.com/ygkBFYT.jpg",
+    "url": "https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Austria",
+        "code": "AT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SwamijiTV.at",
+      "name": "Swamiji TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Terra Viva",
+    "logo": "https://i.imgur.com/hBaG4Ce.png",
+    "url": "http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TerraViva.br",
+      "name": "Terra Viva",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "The Boat Show",
+    "logo": "https://i.imgur.com/iYDR5VS.jpg",
+    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheBoatShow.us",
+      "name": "The Boat Show",
+      "url": ""
+    }
+  },
+
+  {
+  "name": "Horse & Country TV",
+  "logo": "https://horseandcountry.tv/wp-content/themes/hctv/img/hc_logo_header.png",
+  "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8",
+  "categories": [
+    {
+      "name": "Outdoor",
+      "slug": "outdoor"
+    }
+  ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HorseCountryTV.uk",
+      "name": "Horse & Country TV",
+      "url": "https://iptv-org.github.io/epg/guides/nl/delta.nl.epg.xml"
+    }
+  },
+  {
+    "name": "Hunt Channel",
+    "logo": "https://i.imgur.com/DkvWWbE.png",
+    "url": "https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HuntChannel.us",
+      "name": "Hunt Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Love Nature",
+    "logo": "https://i.imgur.com/LXpqmgn.jpg",
+    "url": "http://bamus-eng-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LoveNature.us",
+      "name": "Love Nature",
+      "url": ""
+    }
+  },
+  {
+    "name": "Love Nature Español",
+    "logo": "https://i.imgur.com/LXpqmgn.jpg",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-lnrcastilian-samsungspain/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "LoveNatureEspanol.us",
+      "name": "Love Nature Español",
+      "url": ""
+    }
+  },
+  {
+    "name": "National Geographic Abu Dhabi",
+    "logo": "https://i.imgur.com/baXbWro.jpg",
+    "url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NationalGeographicAbuDhabi.ae",
+      "name": "National Geographic Abu Dhabi",
+      "url": ""
+    }
+  },
+  {
+    "name": "Outdoor America",
+    "logo": "https://i.imgur.com/ldh9sFG.png",
+    "url": "https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OutdoorAmerica.us",
+      "name": "Outdoor America",
+      "url": ""
+    }
+  },
+  {
+    "name": "Outdoor Channel",
+    "logo": "http://i.mjh.nz/.images/tv.7outdoor.png",
+    "url": "http://ott.watch/stream/E7Q3UVKI5H/211.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OutdoorChannel.us",
+      "name": "Outdoor Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Outside TV",
+    "logo": "https://i.imgur.com/7WF7ca4.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OutsideTV.us",
+      "name": "Outside TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Outside TV Plus",
+    "logo": "https://i.imgur.com/7WF7ca4.png",
+    "url": "https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OutsideTVPlus.us",
+      "name": "Outside TV Plus",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Backcountry",
+    "logo": "http://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cabdf1437b88b26947346b2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=755&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBackcountry.us",
+      "name": "Pluto TV Backcountry",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Fishing",
+    "logo": "https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFishing.us",
+      "name": "Pluto TV Fishing",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Hunter",
+    "logo": "https://images.pluto.tv/channels/5c99f5810c95814ff92512f9/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVHunter.us",
+      "name": "Pluto TV Hunter",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Дайвинг.TV",
+    "logo": null,
+    "url": "https://strm.yandex.ru/kal/diving/diving0.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "DayvingTV.ru",
+      "name": "Дайвинг.TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Дикая охота",
+    "logo": "https://i.imgur.com/zO4fl6B.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Dikayaohota.ru",
+      "name": "Дикая охота",
+      "url": ""
+    }
+  },
+  {
+    "name": "Дикая рыбалка",
+    "logo": "https://i.imgur.com/SdenWkP.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Dikayarybalka.ru",
+      "name": "Дикая рыбалка",
+      "url": ""
+    }
+  },
+  {
+    "name": "Дикий",
+    "logo": "https://i.imgur.com/s9IkQPo.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Dikiy.ru",
+      "name": "Дикий",
+      "url": ""
+    }
+  },
+  {
+    "name": "Охотник и Рыболов",
+    "logo": "https://i.imgur.com/k1Gt1Rc.png",
+    "url": "http://ott-cdn.ucom.am/s62/index.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "OhotnikiRybolov.ru",
+      "name": "Охотник и Рыболов",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "Охотник и рыболов International",
+    "logo": null,
+    "url": "https://strm.yandex.ru/kal/ohotnik/ohotnik0.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "OhotnikirybolovInternational.ru",
+      "name": "Охотник и рыболов International",
+      "url": ""
+    }
+  },
+  {
+    "name": "Waypoint TV",
+    "logo": "https://i.imgur.com/6r2YHtv.png",
+    "url": "https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8",
+    "categories": [
+      {
+        "name": "Outdoor",
+        "slug": "outdoor"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WaypointTV.us",
+      "name": "Waypoint TV",
+      "url": ""
+    }
+  }
+]

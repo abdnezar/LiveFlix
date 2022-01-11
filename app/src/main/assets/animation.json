@@ -1,0 +1,926 @@
+[{
+  "name": "Adult Swim Aqua Teen Hunger Force",
+  "logo": "https://i.imgur.com/ixywxhs.jpg",
+  "url": "https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8",
+  "categories": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "AdultSwimAquaTeenHungerForce.us",
+    "name": "Adult Swim Aqua Teen Hunger Force",
+    "url": ""
+  }
+},
+  {
+    "name": "Adult Swim Rick and Morty",
+    "logo": "https://i.imgur.com/vLzXFTa.jpg",
+    "url": "https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwimRickAndMorty.us",
+      "name": "Adult Swim Rick and Morty",
+      "url": ""
+    }
+  },
+  {
+    "name": "Adult Swim Robot Chicken",
+    "logo": "https://i.imgur.com/bTWIjIw.jpg",
+    "url": "https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwimRobotChicken.us",
+      "name": "Adult Swim Robot Chicken",
+      "url": ""
+    }
+  },
+  {
+    "name": "Adult Swim Samurai Jack",
+    "logo": "https://i.imgur.com/zIjbwSa.jpg",
+    "url": "https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwimSamuraiJack.us",
+      "name": "Adult Swim Samurai Jack",
+      "url": ""
+    }
+  },
+  {
+    "name": "Adult Swim The Venture Bros",
+    "logo": "https://i.imgur.com/QQc2rh8.jpg",
+    "url": "https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwimTheVentureBros.us",
+      "name": "Adult Swim The Venture Bros",
+      "url": ""
+    }
+  },
+  {
+    "name": "Animax Japan",
+    "logo": "https://i.imgur.com/zpi6mQ3.png",
+    "url": "http://50.7.74.29:8080/hls/j00026/index.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Japan",
+        "code": "JP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "AnimaxJapan.jp",
+      "name": "Animax Japan",
+      "url": ""
+    }
+  },
+  {
+    "name": "Anime TV",
+    "logo": "https://i.imgur.com/rmAm6UE.png",
+    "url": "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "AnimeTV.br",
+      "name": "Anime TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Anime Zone TV",
+    "logo": "https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300",
+    "url": "http://azxtv.com/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "AnimeZoneTV.do",
+      "name": "Anime Zone TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "AT-X",
+    "logo": "https://www.at-x.com/favicon_android.png",
+    "url": "https://sub2.neetball.net/live/neet.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Japan",
+        "code": "JP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "ATX.jp",
+      "name": "AT-X",
+      "url": ""
+    }
+  },
+  {
+    "name": "CONtv Anime",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893",
+    "url": "https://contvanime-localnow.cinedigm.com/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CONtvAnime.us",
+      "name": "CONtv Anime",
+      "url": ""
+    }
+  },
+  {
+    "name": "DreikoTv",
+    "logo": "https://graph.facebook.com/dreikoartsstudio/picture?width=320&height=320",
+    "url": "https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Panama",
+        "code": "PA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "DreikoTv.pa",
+      "name": "DreikoTv",
+      "url": ""
+    }
+  },
+  {
+    "name": "FAN",
+    "logo": null,
+    "url": "http://194.9.27.164:8103/play/FAN/index.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "FAN.ru",
+      "name": "FAN",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Naruto",
+    "logo": "https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5da0c85bd2c9c10009370984&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=836&terminate=false&userId=",
+    "categories": [
+  {
+    "name": "Animation",
+    "slug": "animation"
+  }
+],
+"countries": [
+{
+"name": "United States",
+"code": "US"
+}
+],
+"languages": [
+{
+"name": "Spanish",
+"code": "spa"
+}
+],
+"tvg": {
+"id": "PlutoTVNaruto.us",
+"name": "Pluto TV Naruto",
+"url": ""
+}
+},
+  {
+"name": "Toonizaki",
+"logo": "https://graph.facebook.com/toonizaki/picture?width=300&height=300",
+"url": "https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8",
+  "categories": [
+    {
+    "name": "Animation",
+    "slug": "animation"
+    }
+  ],
+"countries": [
+{
+"name": "Argentina",
+"code": "AR"
+},
+{
+"name": "Bolivia",
+"code": "BO"
+},
+{
+"name": "Chile",
+"code": "CL"
+},
+{
+"name": "Colombia",
+"code": "CO"
+},
+{
+"name": "Costa Rica",
+"code": "CR"
+},
+{
+"name": "Cuba",
+"code": "CU"
+},
+{
+"name": "Dominican Republic",
+"code": "DO"
+},
+{
+"name": "Ecuador",
+"code": "EC"
+},
+{
+"name": "Guatemala",
+"code": "GT"
+},
+{
+"name": "Honduras",
+"code": "HN"
+},
+{
+"name": "Mexico",
+"code": "MX"
+},
+{
+"name": "Nicaragua",
+"code": "NI"
+},
+{
+"name": "Panama",
+"code": "PA"
+},
+{
+"name": "Peru",
+"code": "PE"
+},
+{
+"name": "Puerto Rico",
+"code": "PR"
+},
+{
+"name": "Paraguay",
+"code": "PY"
+},
+{
+"name": "El Salvador",
+"code": "SV"
+},
+{
+"name": "Uruguay",
+"code": "UY"
+},
+{
+"name": "Venezuela",
+"code": "VE"
+}
+],
+"languages": [
+{
+"name": "Spanish",
+"code": "spa"
+}
+],
+"tvg": {
+"id": "Toonizaki.ar",
+"name": "Toonizaki",
+"url": ""
+}
+},
+
+  {
+  "name": "Locomotion TV",
+  "logo": "https://i.imgur.com/auEJJvP.png",
+  "url": "http://51.222.85.85:81/hls/loco/index.m3u8",
+  "categories": [
+    {
+      "name": "Animation",
+      "slug": "animation"
+    }
+  ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "LocomotionTV.do",
+      "name": "Locomotion TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Naruto",
+    "logo": "https://images.pluto.tv/channels/5f6df5a173d7340007c559f7/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "Naruto.br",
+      "name": "Naruto",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Junior",
+    "logo": null,
+    "url": "http://51.210.199.18/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaJunior.fr",
+      "name": "Persiana Junior",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Anime",
+    "logo": "https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnime.br",
+      "name": "Pluto TV Anime",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Anime",
+    "logo": "https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnime.us",
+      "name": "Pluto TV Anime",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Anime Ação",
+    "logo": "https://images.pluto.tv/channels/604b79c558393100078faeef/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimeAcao.br",
+      "name": "Pluto TV Anime Ação",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animé Acción",
+    "logo": "https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimeAccion.us",
+      "name": "Pluto TV Animé Acción",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Anime All Ages",
+    "logo": "http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimeAllAges.us",
+      "name": "Pluto TV Anime All Ages",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Anime All Day",
+    "logo": "http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimeAllDay.us",
+      "name": "Pluto TV Anime All Day",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Anime Clásico",
+    "logo": "https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimeClasico.us",
+      "name": "Pluto TV Anime Clásico",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Tokyo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/320px-TV_Tokyo_logo_20110629.svg.png",
+    "url": "https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Animation",
+        "slug": "animation"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVTokyo.br",
+      "name": "TV Tokyo",
+      "url": ""
+    }
+  }
+]

@@ -1,0 +1,6589 @@
+[
+  {
+    "name": ".black Russia",
+    "logo": "https://i.imgur.com/rzrOS3N.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "BlackRussia.us",
+      "name": ".black Russia",
+      "url": ""
+    }
+  },
+  {
+    "name": ".red Russia",
+    "logo": "https://i.imgur.com/xUGWmyh.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "RedRussia.us",
+      "name": ".red Russia",
+      "url": ""
+    }
+  },
+  {
+    "name": "1TvPersian",
+    "logo": null,
+    "url": "https://1-215-11778-1.b.cdn13.com/onetvpersia001.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "1TvPersian.ir",
+      "name": "1TvPersian",
+      "url": ""
+    }
+  },
+  {
+    "name": "2x2",
+    "logo": "https://i.ibb.co/DrvTgDc/2x2.png",
+    "url": "http://176.114.16.54/2x2/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "2x2.ru",
+      "name": "2x2",
+      "url": ""
+    }
+  },
+  {
+    "name": "3 Tamil TV",
+    "logo": "https://i.imgur.com/WfAU7pB.png",
+    "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "3TamilTV.in",
+      "name": "3 Tamil TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "4U TV",
+    "logo": "https://i.imgur.com/Icob3E3.jpg",
+    "url": "http://116.202.255.113:1935/4utv/livehd/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "4UTV.ir",
+      "name": "4U TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "9 Волна",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a0000016fe6167945ca56e4f444cb0015ad/z",
+    "url": "https://strm.yandex.ru/kal/acb/acb0.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "9Volna.ru",
+      "name": "9 Волна",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "21TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/21_TV_Armenia_logo.svg/785px-21_TV_Armenia_logo.svg.png",
+    "url": "http://ott-cdn.ucom.am/s10/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Armenia",
+        "code": "AM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Armenian",
+        "code": "hye"
+      }
+    ],
+    "tvg": {
+      "id": "21TV.am",
+      "name": "21TV",
+      "url": "https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml"
+    }
+  },
+  {
+    "name": "30A Sidewalks",
+    "logo": "https://www.sidewalkstv.com/wp-content/uploads/2013/10/sw-tep-large-300x125.png",
+    "url": "https://30a-tv.com/sidewalks.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "30ASidewalks.us",
+      "name": "30A Sidewalks",
+      "url": ""
+    }
+  },
+  {
+    "name": "Aathavan TV",
+    "logo": "https://i.imgur.com/IgwQ7o5.png",
+    "url": "http://45.77.66.224:1935/athavantv/live/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "AathavanTV.in",
+      "name": "Aathavan TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Absolute Reality by WE TV",
+    "logo": "https://i.imgur.com/oOFjyYf.png",
+    "url": "https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AbsoluteRealitybyWETV.us",
+      "name": "Absolute Reality by WE TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Adult Swim",
+    "logo": "https://i.imgur.com/ixywxhs.jpg",
+    "url": "http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwim.ca",
+      "name": "Adult Swim",
+      "url": ""
+    }
+  },
+  {
+    "name": "Adult Swim Channel 5",
+    "logo": "https://i.imgur.com/sCRPkPk.jpg",
+    "url": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwimChannel5.us",
+      "name": "Adult Swim Channel 5",
+      "url": ""
+    }
+  },
+  {
+    "name": "AFN TV",
+    "logo": null,
+    "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "AFNTV.ir",
+      "name": "AFN TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alrai TV",
+    "logo": "https://i.imgur.com/eqCEXk6.png",
+    "url": "https://media.streambrothers.com:1936/8724/8724/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlraiTV.kw",
+      "name": "Alrai TV",
+      "url": "https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml"
+    }
+  },
+  {
+    "name": "AMC Presents",
+    "logo": "https://i.imgur.com/yngqRL8.png",
+    "url": "https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AMCPresents.us",
+      "name": "AMC Presents",
+      "url": ""
+    }
+  },
+  {
+    "name": "AMC Slightly Off",
+    "logo": "https://i.imgur.com/yngqRL8.png",
+    "url": "https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AMCSlightlyOff.us",
+      "name": "AMC Slightly Off",
+      "url": ""
+    }
+  },
+  {
+    "name": "Amrita TV",
+    "logo": "https://i.imgur.com/xxWaGyn.jpg",
+    "url": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "AmritaTV.in",
+      "name": "Amrita TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Arte",
+    "logo": null,
+    "url": "http://stream.tvtap.net:8081/live/fr-arte.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "arte.fr",
+      "name": "Arte",
+      "url": ""
+    }
+  },
+  {
+    "name": "Arte Deutsch",
+    "logo": "https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Germany",
+        "code": "DE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "ARTEDeutsch.fr",
+      "name": "Arte Deutsch",
+      "url": "https://iptv-org.github.io/epg/guides/at/tvheute.at.epg.xml"
+    }
+  },
+  {
+    "name": "ARTE Français",
+    "logo": "https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",
+    "url": "https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "ARTEFrancais.fr",
+      "name": "ARTE Français",
+      "url": "https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml"
+    }
+  },
+  {
+    "name": "Asianet Middle East",
+    "logo": "https://i.imgur.com/du9iZ0s.png",
+    "url": "http://14.199.164.20:4001/play/a0k6/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "AsianetMiddleEast.in",
+      "name": "Asianet Middle East",
+      "url": ""
+    }
+  },
+  {
+    "name": "Audio Dungeon",
+    "logo": "https://www.prunderground.com/wp-content/uploads/2019/04/Audio-Dungeon-1.png",
+    "url": "https://content.uplynk.com/channel/5688add7ce704ce1a27ab62bb44044b9.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AudioDungeon.us",
+      "name": "Audio Dungeon",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bee Theater",
+    "logo": "https://i.postimg.cc/43sPGSLV/beetheater.jpg",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC32M9DWf0zgMhBYGd_MOiIw/live",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "BeeTheater.ae",
+      "name": "Bee Theater",
+      "url": ""
+    }
+  },
+  {
+    "name": "BET Being Mary Jane",
+    "logo": "https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "BetBeingMaryJane.br",
+      "name": "BET Being Mary Jane",
+      "url": ""
+    }
+  },
+  {
+    "name": "BET Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "BetPlutoTV.br",
+      "name": "BET Pluto TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Blaze TV",
+    "logo": "https://i.imgur.com/HcRKP5P.jpg",
+    "url": "https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BlazeTV.us",
+      "name": "Blaze TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Thinknoodles (Test for Bitcentral)",
+    "logo": "https://i.imgur.com/puiUDbS.png",
+    "url": "https://2459f78c2f5d42c996bb24407b76877a.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60f88620abf1e257404a9250/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVThinknoodles.us",
+      "name": "Bumblebee TV Thinknoodles (Test for Bitcentral)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Buzzr",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/8/84/NewBUZZRLogo2021.png",
+    "url": "https://buzzr-roku-us.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Buzzr.us",
+      "name": "Buzzr",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cable Hits",
+    "logo": "https://i.imgur.com/zl7Gzwm.png",
+    "url": "https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CableHits.us",
+      "name": "Cable Hits",
+      "url": ""
+    }
+  },
+  {
+    "name": "Canal RCN Novelas",
+    "logo": null,
+    "url": "http://45.179.140.242:8000/play/a0jf",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Colombia",
+        "code": "CO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CanalRCNNovelas.co",
+      "name": "Canal RCN Novelas",
+      "url": ""
+    }
+  },
+  {
+    "name": "Captain TV",
+    "logo": "https://i.imgur.com/UXg6sac.png",
+    "url": "http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "CaptainTV.in",
+      "name": "Captain TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "CCTV-3综艺",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png",
+    "url": "http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "CCTV3.cn",
+      "name": "CCTV-3综艺",
+      "url": ""
+    }
+  },
+  {
+    "name": "Circle",
+    "logo": "https://web.opendrive.com/api/v1/download/file.json/MF8yMjY2MjYwMTlf?inline=1",
+    "url": "https://circle-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Circle.us",
+      "name": "Circle",
+      "url": ""
+    }
+  },
+  {
+    "name": "Classic Reruns TV",
+    "logo": "https://classicreruns.com/wp-content/uploads/2021/01/CRTV-1024x1024-logo-nobkg-e1629529582672.png",
+    "url": "https://dai.google.com/linear/hls/event/wnQPvAN9QBODw9hP-H0rZA/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ClassicRerunsTV.us",
+      "name": "Classic Reruns TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Colosal TV",
+    "logo": "https://i.imgur.com/4kxxSCq.png",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bengali",
+        "code": "ben"
+      }
+    ],
+    "tvg": {
+      "id": "ColosalTV.bd",
+      "name": "Colosal TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Comet",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png",
+    "url": "http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Comet.us",
+      "name": "Comet",
+      "url": ""
+    }
+  },
+  {
+    "name": "CONtv",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483",
+    "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CONtv.us",
+      "name": "CONtv",
+      "url": ""
+    }
+  },
+  {
+    "name": "Crossing TV (Crossing Contenidos)",
+    "logo": null,
+    "url": "https://vivo.solumedia.com:19360/crossing/crossing.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CrossingTVCrossingContenidos.ar",
+      "name": "Crossing TV (Crossing Contenidos)",
+      "url": ""
+    }
+  },
+  {
+    "name": "CSTAR",
+    "logo": "https://i.imgur.com/kPvRgcY.png",
+    "url": "http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "CSTAR.fr",
+      "name": "CSTAR",
+      "url": ""
+    }
+  },
+  {
+    "name": "CW Seed",
+    "logo": "https://i.imgur.com/PZrtfPb.png",
+    "url": "https://cwseedlive.cwtv.com/ingest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CWSeed.us",
+      "name": "CW Seed",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dabangg",
+    "logo": "https://i.imgur.com/hpizqP6.png",
+    "url": "http://14.199.164.20:4001/play/a0nb/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bhojpuri",
+        "code": "bho"
+      }
+    ],
+    "tvg": {
+      "id": "Dabangg.in",
+      "name": "Dabangg",
+      "url": ""
+    }
+  },
+  {
+    "name": "DD Bangla",
+    "logo": null,
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-ddbangla",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "DDBangla.in",
+      "name": "DD Bangla",
+      "url": ""
+    }
+  },
+  {
+    "name": "DD Malayalam",
+    "logo": "https://i.imgur.com/9HfMVKs.jpg",
+    "url": "http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "DDMalayalam.in",
+      "name": "DD Malayalam",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "DD National",
+    "logo": "https://i.imgur.com/MohlE5B.png",
+    "url": "http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "DDNational.in",
+      "name": "DD National",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dishum",
+    "logo": "https://i.imgur.com/k4j2QJX.png",
+    "url": "https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bhojpuri",
+        "code": "bho"
+      }
+    ],
+    "tvg": {
+      "id": "Dishum.in",
+      "name": "Dishum",
+      "url": ""
+    }
+  },
+  {
+    "name": "Disney Channel Japan",
+    "logo": "https://i.imgur.com/H2O9F2E.png",
+    "url": "https://redlabmcdn.s.llnwi.net/jp04/bs13hd/index.mpd",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Japan",
+        "code": "JP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "DisneyChannelJapan.us",
+      "name": "Disney Channel Japan",
+      "url": ""
+    }
+  },
+  {
+    "name": "DocuBay TV",
+    "logo": "https://od.lk/s/MF8yMzAxMjQ1MzBf/Docubay_750x750.png",
+    "url": "https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "DocuBayTV.in",
+      "name": "DocuBay TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dream TV",
+    "logo": "https://i.imgur.com/VdcG0i6.png",
+    "url": "https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "DreamTV.in",
+      "name": "Dream TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dreamz TV",
+    "logo": "https://i.imgur.com/yXHmKtT.png",
+    "url": "http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "DreamzTV.in",
+      "name": "Dreamz TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dum TV Kannada",
+    "logo": "https://i.imgur.com/e43ysdo.png",
+    "url": "http://14.199.164.20:4001/play/a0sq/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kannada",
+        "code": "kan"
+      }
+    ],
+    "tvg": {
+      "id": "DumTVKannada.in",
+      "name": "Dum TV Kannada",
+      "url": ""
+    }
+  },
+  {
+    "name": "E24",
+    "logo": "https://i.imgur.com/VBu7r0A.png",
+    "url": "http://14.199.164.20:4001/play/a0pc/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "E24.in",
+      "name": "E24",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ecran TV",
+    "logo": null,
+    "url": "http://51.210.199.40/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "EcranTV.ir",
+      "name": "Ecran TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "EET TV",
+    "logo": "https://i.imgur.com/f7J37yv.png",
+    "url": "https://live.streamjo.com/eetlive/eettv.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "EETTV.in",
+      "name": "EET TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Electric Now",
+    "logo": "https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ElectricNow.us",
+      "name": "Electric Now",
+      "url": ""
+    }
+  },
+  {
+    "name": "EnerGeek",
+    "logo": "https://graph.facebook.com/EnerGeek.chile/picture?width=300&height=300",
+    "url": "https://stmv1.voxhdnet.com/energeek/energeek/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "EnerGeek.cl",
+      "name": "EnerGeek",
+      "url": ""
+    }
+  },
+  {
+    "name": "Enter10 Bangla",
+    "logo": "https://i.imgur.com/fkOxQtS.png",
+    "url": "http://14.199.164.20:4001/play/a0j5/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "Enter10Bangla.in",
+      "name": "Enter10 Bangla",
+      "url": ""
+    }
+  },
+  {
+    "name": "Enter10 Rangeela",
+    "logo": "https://i.imgur.com/419CJW8.png",
+    "url": "http://14.199.164.20:4001/play/a0tp/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "Enter10Rangeela.in",
+      "name": "Enter10 Rangeela",
+      "url": ""
+    }
+  },
+  {
+    "name": "eScapes (XUMO)",
+    "logo": "https://i.imgur.com/lb0ddYv.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "eScapesXUMO.us",
+      "name": "eScapes (XUMO)",
+      "url": ""
+    }
+  },
+  {
+    "name": "ESR 24x7 eSports Network",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/605d2f4c46818164091e1fd4",
+    "url": "https://eyeonesports.com/ES2RA-628g.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ESR24x7eSportsNetwork.us",
+      "name": "ESR 24x7 eSports Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Estrella TV East",
+    "logo": "https://i.imgur.com/4PiLKrm.png",
+    "url": "https://estrellatv-plex.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "EstrellaTVEast.us",
+      "name": "Estrella TV East",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "ET Live",
+    "logo": "https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/et-live-us.png",
+    "url": "https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ETLive.us",
+      "name": "ET Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fakt Marathi",
+    "logo": "https://i.imgur.com/y0VS4QN.png",
+    "url": "http://14.199.164.20:4001/play/a0q8/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Marathi",
+        "code": "mar"
+      }
+    ],
+    "tvg": {
+      "id": "FaktMarathi.in",
+      "name": "Fakt Marathi",
+      "url": ""
+    }
+  },{
+  "name": "Pluto TV MinecrafTV",
+  "logo": "http://images.pluto.tv/channels/5812b821249444e05d09cc4c/colorLogoPNG.png",
+  "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b821249444e05d09cc4c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b821249444e05d09cc4c&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=815&terminate=false&userId=",
+  "categories": [
+    {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "PlutoTVMinecrafTV.us",
+    "name": "Pluto TV MinecrafTV",
+    "url": ""
+  }
+},
+
+  {
+    "name": "Pluto TV People TV",
+    "logo": null,
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59c2c3ae40e64939daad8b76/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59c2c3ae40e64939daad8b76&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=192&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVPeopleTV.us",
+      "name": "Pluto TV People TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV TROL",
+    "logo": "https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb8a8b2619a000710605c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTROL.us",
+      "name": "Pluto TV TROL",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Unbeaten Esports",
+    "logo": "https://images.pluto.tv/channels/5dc2a961bac1f70009ca7524/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2a961bac1f70009ca7524/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVUnbeatenEsports.us",
+      "name": "Pluto TV Unbeaten Esports",
+      "url": ""
+    }
+  },
+  {
+    "name": "Polimer TV",
+    "logo": "https://i.imgur.com/FeLT0mK.jpg",
+    "url": "http://cdn.asianetmobiletvplus.com/channels/polimertv_rpvpvdefkpxbafsouzockpitjldtogrr/chunks.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "PolimerTV.in",
+      "name": "Polimer TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pop TV",
+    "logo": "https://getlogo.net/wp-content/uploads/2020/10/pop-tv-logo-vector.png",
+    "url": "http://n1.klowdtv.net/live2/pop_720p/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PopTV.us",
+      "name": "Pop TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Public TV",
+    "logo": "https://i.imgur.com/tmXFHhk.png",
+    "url": "http://14.199.164.20:4001/play/a0ld/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kannada",
+        "code": "kan"
+      }
+    ],
+    "tvg": {
+      "id": "PublicTV.in",
+      "name": "Public TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Sana TV",
+    "logo": "https://i.imgur.com/D03gyp2.png",
+    "url": "http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "SanaTV.in",
+      "name": "Sana TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "SNN TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SNN_Logo.svg/320px-SNN_Logo.svg.png",
+    "url": "https://live.snn.ir/hls/snn/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "SNN.ir",
+      "name": "SNN TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Charge!",
+    "logo": "https://media.localbtv.com/images/atlantabtv/logos/charge.png",
+    "url": "https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRCharge.us",
+      "name": "STIRR Charge!",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Cinehouse",
+    "logo": "https://play-lh.googleusercontent.com/soWUYAlbr7JPirYYf-65YApRsk0X_OXlGZ36_0A4KnmmWf7n7PwvjxdBK6iK5LrqkCJD",
+    "url": "https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRCinehouse.us",
+      "name": "STIRR Cinehouse",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Comet",
+    "logo": "https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/comet-us.png",
+    "url": "https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRComet.us",
+      "name": "STIRR Comet",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Electric Now",
+    "logo": "https://komonews.com/resources/media2/3x1/full/119/center/90/6e9b5b43-d409-47a5-a13a-fdba785d466b-small3x1_STIRR_Logo_0320_ElectricNOW_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",
+    "url": "https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRElectricNow.us",
+      "name": "STIRR Electric Now",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR evrgrn",
+    "logo": "https://komonews.com/resources/media2/3x1/full/119/center/90/84a96620-2c59-4a44-bfed-bdec3fdf7451-small3x1_STIRR_Logo_0520_EVRGRN_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",
+    "url": "https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRevrgrn.us",
+      "name": "STIRR evrgrn",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Midnight Pulp",
+    "logo": "https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/USAJ3000011S4_20210525T051716.png",
+    "url": "https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRMidnightPulp.us",
+      "name": "STIRR Midnight Pulp",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR People TV",
+    "logo": "https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/people-tv-us.png",
+    "url": "https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRPeopleTV.us",
+      "name": "STIRR People TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "SurvivorNetTV",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/607723ec19daa1553816098b",
+    "url": "https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SurvivorNetTV.us",
+      "name": "SurvivorNetTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Surya TV",
+    "logo": "https://i.imgur.com/ENrptYg.png",
+    "url": "https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "SuryaTV.in",
+      "name": "Surya TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "TangoTV",
+    "logo": "https://graph.facebook.com/tangotvchannel/picture?width=320&height=320",
+    "url": "https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "TangoTV.us",
+      "name": "TangoTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tankee",
+    "logo": "https://i.imgur.com/oMWbZ8n.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=com.plexapp.desktop&app_domain=app.plex.tv&app_name=plex&content_series=5f12332eeca6a20040b328e5&content_title=MorUy57ijWhGe4ixZb_T&coppa=1&custom4=plex&device_make=Windows&device_model=Firefox&did=df8e1a36-847d-5096-86a7-3803ed330ede&gdpr=1&h=691&live=1&network_id=39&us_privacy=1---&w=1224",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Tankee.us",
+      "name": "Tankee",
+      "url": ""
+    }
+  },
+  {
+    "name": "TBD.",
+    "logo": "https://i.imgur.com/Fbzbq1y.png",
+    "url": "https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TBD.us",
+      "name": "TBD.",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Love Destination",
+    "logo": "https://i.imgur.com/eXBQfaP.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheLoveDestination.us",
+      "name": "The Love Destination",
+      "url": ""
+    }
+  },
+  {
+    "name": "Time Line Australia",
+    "logo": "https://i.imgur.com/J8qVUjM.png",
+    "url": "https://lds-timeline-samsungau.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Australia",
+        "code": "AU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TimeLineAustralia.us",
+      "name": "Time Line Australia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Timeline",
+    "logo": "https://i.imgur.com/J8qVUjM.png",
+    "url": "https://lds-timeline-plex.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Timeline.us",
+      "name": "Timeline",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tin TV",
+    "logo": null,
+    "url": "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "TinTV.ir",
+      "name": "Tin TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "TMZ",
+    "logo": "https://i.imgur.com/wzBD6fy.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TMZ.us",
+      "name": "TMZ",
+      "url": ""
+    }
+  },{
+  "name": "Fear This!",
+  "logo": "https://f9q4g5j6.ssl.hwcdn.net/60417731dc00887af0275acb",
+  "url": "https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Entertainment",
+      "slug": "entertainment"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "LocalNowFearThis.us",
+    "name": "Fear This!",
+    "url": ""
+  }
+},
+  {
+    "name": "Fear This! Classics",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/605d20ef2189b2698a380ff2",
+    "url": "https://linear-153.frequency.stream/dist/localnow/153/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Classic",
+        "slug": "classic"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowFearThisClassics.us",
+      "name": "Fear This! Classics",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fear This! Sci-Fi",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/60627a97603dcd03ae7ed472",
+    "url": "https://linear-163.frequency.stream/dist/localnow/163/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowFearThisSciFi.us",
+      "name": "Fear This! Sci-Fi",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fido TV",
+    "logo": "https://i.imgur.com/kvdqP3H.jpg",
+    "url": "https://fidotv-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FidoTV.us",
+      "name": "Fido TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Filmon 360 Experimental",
+    "logo": "https://i.imgur.com/48iMZ7c.png",
+    "url": "https://www.filmon.com/vr-streams/4136.high/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Antarctica",
+        "code": "AQ"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW"
+      },
+      {
+        "name": "Åland",
+        "code": "AX"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "code": "BL"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Bonaire",
+        "code": "BQ"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Bouvet Island",
+        "code": "BV"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      },
+      {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Curacao",
+        "code": "CW"
+      },
+      {
+        "name": "Christmas Island",
+        "code": "CX"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Falkland Islands",
+        "code": "FK"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "French Guiana",
+        "code": "GF"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "code": "IO"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Saint Martin",
+        "code": "MF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Macao",
+        "code": "MO"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Sint Maarten",
+        "code": "SX"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM"
+      },
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "VG"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "code": "VI"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      },
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Filmon360Experimental.us",
+      "name": "Filmon 360 Experimental",
+      "url": ""
+    }
+  },
+  {
+    "name": "Flowers TV",
+    "logo": "http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png",
+    "url": "http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "FlowersTV.in",
+      "name": "Flowers TV",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Food Food",
+    "logo": "https://i.imgur.com/J930pA1.png",
+    "url": "http://14.199.164.20:4001/play/a0qx/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "FoodFood.in",
+      "name": "Food Food",
+      "url": ""
+    }
+  },
+  {
+    "name": "Funoon",
+    "logo": null,
+    "url": "https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Funoon.kw",
+      "name": "Funoon",
+      "url": ""
+    }
+  },
+  {
+    "name": "Game Show Central East",
+    "logo": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png",
+    "url": "https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GameShowCentralEast.us",
+      "name": "Game Show Central East",
+      "url": ""
+    }
+  },
+  {
+    "name": "Game Show Network East",
+    "logo": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
+    "url": "http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GameShowNetworkEast.us",
+      "name": "Game Show Network East",
+      "url": ""
+    }
+  },
+  {
+    "name": "Gametoon",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/602dcef57b79a227b5568d84",
+    "url": "https://gametoon-localnow.cinedigm.com/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Gametoon.us",
+      "name": "Gametoon",
+      "url": "https://iptv-org.github.io/epg/guides/ao/zap.co.ao.epg.xml"
+    }
+  },
+  {
+    "name": "GEM Nature",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/gem_nature.png",
+    "url": "http://65.21.196.79/gem_nature/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMNature.ir",
+      "name": "GEM Nature",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM River",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/river.png?14",
+    "url": "http://65.21.196.79/gem_river/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMRiver.ir",
+      "name": "GEM River",
+      "url": ""
+    }
+  },
+  {
+    "name": "Global Got Talent",
+    "logo": "https://i.imgur.com/QHiOf7Z.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugottalentglobal/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GlobalGotTalent.us",
+      "name": "Global Got Talent",
+      "url": ""
+    }
+  },
+  {
+    "name": "Happy Channel",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c3/Happy_Channel_%282020-present%29.png",
+    "url": "https://iptv-all.lanesh4d0w.repl.co/romania/happy-channel",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Romania",
+        "code": "RO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Romanian",
+        "code": "ron"
+      }
+    ],
+    "tvg": {
+      "id": "HappyChannel.ro",
+      "name": "Happy Channel",
+      "url": "https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml"
+    }
+  },
+  {
+    "name": "HD Медиа",
+    "logo": "https://iptvx.one/icn/hd-media.png",
+    "url": "https://strm.yandex.ru/kal/hdmedia/hdmedia0.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "HDMedia.ru",
+      "name": "HD Медиа",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hi-YAH!",
+    "logo": "https://i.imgur.com/uMPu5HU.png",
+    "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HiYAH",
+      "name": "Hi-YAH!",
+      "url": ""
+    }
+  },
+  {
+    "name": "High Times",
+    "logo": "https://i.imgur.com/TaeeQnn.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HighTimes.us",
+      "name": "High Times",
+      "url": ""
+    }
+  },
+  {
+    "name": "Humor 24-7",
+    "logo": "https://graph.facebook.com/https://www.facebook.com/humor247cr/picture?width=320&height=320",
+    "url": "https://srv.panelcast.net/humor247/humor247/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Humor247.cr",
+      "name": "Humor 24-7",
+      "url": ""
+    }
+  },
+  {
+    "name": "Imayam",
+    "logo": "https://i.imgur.com/CzdM0pg.png",
+    "url": "https://idvd.multitvsolution.com/idvo/imayamtv.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "Imayam.in",
+      "name": "Imayam",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ind TV USA",
+    "logo": "https://i.imgur.com/gWPiYH9.png",
+    "url": "https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IndTVUSA.us",
+      "name": "Ind TV USA",
+      "url": ""
+    }
+  },
+  {
+    "name": "Island Luck TV",
+    "logo": "https://www.islandluck.com/images/logo.png",
+    "url": "https://wowzaprod225-i.akamaihd.net/hls/live/1006296/23aa8a88/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IslandLuckTV.bs",
+      "name": "Island Luck TV",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "ITC TV",
+    "logo": null,
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/f05d55e42dc746c8bd36edafbace7cc1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "ITCTV.ca",
+      "name": "ITC TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "ITN",
+    "logo": null,
+    "url": "http://51.210.199.31/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "ITN.ir",
+      "name": "ITN",
+      "url": ""
+    }
+  },
+  {
+    "name": "Jaihind TV",
+    "logo": "https://i.imgur.com/Jw0M6Kp.jpg",
+    "url": "http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "JaihindTV.in",
+      "name": "Jaihind TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Jovem Pan Pluto TV",
+    "logo": "https://images.pluto.tv/channels/602e80c762306a0007179876/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "JovemPanPlutoTV.br",
+      "name": "Jovem Pan Pluto TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kairali Arabia",
+    "logo": "https://i.imgur.com/dp6BvWJ.png",
+    "url": "https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KairaliArabia.in",
+      "name": "Kairali Arabia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kairali TV",
+    "logo": "https://i.imgur.com/8Di4h6t.png",
+    "url": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KairaliTV.in",
+      "name": "Kairali TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kairali We",
+    "logo": "https://i.imgur.com/Z626hKz.jpg",
+    "url": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KairaliWe.in",
+      "name": "Kairali We",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kasthuri",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/7/78/Kasthuri-TV-logo.jpg",
+    "url": "http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kannada",
+        "code": "kan"
+      }
+    ],
+    "tvg": {
+      "id": "KasthuriTV.in",
+      "name": "Kasthuri",
+      "url": ""
+    }
+  },
+  {
+    "name": "KCL TV",
+    "logo": "https://i.imgur.com/bkp9dIm.png",
+    "url": "http://kcltv.livebox.co.in/kclhls/live.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KCLTV.in",
+      "name": "KCL TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "KCV",
+    "logo": "https://i.imgur.com/9YD8u4H.png",
+    "url": "http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KCV.in",
+      "name": "KCV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kerala Vision",
+    "logo": "https://i.imgur.com/0XF3nLw.png",
+    "url": "http://14.199.164.20:4001/play/a0ni/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KeralaVision.in",
+      "name": "Kerala Vision",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kix",
+    "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/705_300.png",
+    "url": "https://livecdn.fptplay.net/hda/kixhd_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malay",
+        "code": "msa"
+      }
+    ],
+    "tvg": {
+      "id": "Kix.hk",
+      "name": "Kix",
+      "url": "https://iptv-org.github.io/epg/guides/ao/zap.co.ao.epg.xml"
+    }
+  },
+  {
+    "name": "Kora TV",
+    "logo": "https://graph.facebook.com/JJRODRIGUEZKORARTV/picture?width=320&height=320",
+    "url": "https://megastreamm.com:3129/live/koratvlive.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "KoraTV.pe",
+      "name": "Kora TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "La Voz 24h",
+    "logo": "https://i.imgur.com/Vp26cr1.jpg",
+    "url": "https://pull12.atresmedia.com/lavoz/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "LaVoz24h.es",
+      "name": "La Voz 24h",
+      "url": ""
+    }
+  },
+  {
+    "name": "LatinoKids",
+    "logo": "https://graph.facebook.com/LatinoKidsTvUruguay/picture?width=300&height=300",
+    "url": "https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "LatinoKids.uy",
+      "name": "LatinoKids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Adrenaline Rush",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b",
+    "url": "https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowAdrenalineRush.us",
+      "name": "Local Now Adrenaline Rush",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Fireside",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5fdd3cad46f6084ed5257102",
+    "url": "https://linear-127.frequency.stream/dist/localnow/127/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowFireside.us",
+      "name": "Local Now Fireside",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Movies of the 2000s",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/607df5a93273c1288c732f59",
+    "url": "https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowMoviesofthe2000s.us",
+      "name": "Local Now Movies of the 2000s",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Movies of the 2010s",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/607df6d8ec9c645c921ecaa3",
+    "url": "https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowMoviesofthe2010s.us",
+      "name": "Local Now Movies of the 2010s",
+      "url": ""
+    }
+  },
+  {
+    "name": "M6",
+    "logo": "https://static.epg.best/fr/M6.fr.png",
+    "url": "http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "M6.fr",
+      "name": "M6",
+      "url": "https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml"
+    }
+  },
+  {
+    "name": "M6 International",
+    "logo": "https://static.epg.best/fr/M6.fr.png",
+    "url": "https://shls-m6-int-prod-dub.shahid.net/out/v1/587631773e55495a8aa3dd4050318f6e/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "M6International.fr",
+      "name": "M6 International",
+      "url": ""
+    }
+  },
+  {
+    "name": "Magna Vision",
+    "logo": "https://i.imgur.com/yRdGchJ.jpg",
+    "url": "https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "Magnavision.uk",
+      "name": "Magna Vision",
+      "url": ""
+    }
+  },
+  {
+    "name": "Marutam TV",
+    "logo": "https://i.imgur.com/cFNw4Af.png",
+    "url": "http://mntv.livebox.co.in/mntvhls/mntv.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "MarutamTV.in",
+      "name": "Marutam TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "MasterChef",
+    "logo": "https://images.pluto.tv/channels/6077045b6031bd00078de127/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "Masterchef.br",
+      "name": "MasterChef",
+      "url": ""
+    }
+  },
+  {
+    "name": "Mazhavil Manorama",
+    "logo": "https://i.imgur.com/xCHQrH0.png",
+    "url": "http://14.199.164.20:4001/play/a0kd/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "MazhavilManorama.in",
+      "name": "Mazhavil Manorama",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Mazhavil Manorama HD",
+    "logo": "https://i.imgur.com/xCHQrH0.png",
+    "url": "http://14.199.164.20:4001/play/a0p9/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "MazhavilManoramaHD.in",
+      "name": "Mazhavil Manorama HD",
+      "url": ""
+    }
+  },
+  {
+    "name": "Midnight Pulp",
+    "logo": "https://od.lk/s/MF8yMjQwMDkyNjVf/MidnightPulp_200x200.png",
+    "url": "https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=263&ads.wurl_name=MidnightPulp",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MidnightPulp.us",
+      "name": "Midnight Pulp",
+      "url": ""
+    }
+  },
+  {
+    "name": "MK TV",
+    "logo": "https://i.imgur.com/UxxbaR3.png",
+    "url": "http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "MKTV.in",
+      "name": "MK TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Msign Media",
+    "logo": "http://expressott.in/uploads/tv_image/m-sign-media.PNG",
+    "url": "http://cloud.logicwebs.in:1935/msign/msignmedia/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "MSignMedia.in",
+      "name": "Msign Media",
+      "url": ""
+    }
+  },
+  {
+    "name": "MST3K",
+    "logo": "https://i.imgur.com/1xJJB7C.jpg",
+    "url": "https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MST3K.us",
+      "name": "MST3K",
+      "url": ""
+    }
+  },
+  {
+    "name": "MTV Are you the One?",
+    "logo": "https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "MTVAreYouTheOne.br",
+      "name": "MTV Are you the One?",
+      "url": ""
+    }
+  },
+  {
+    "name": "MTV Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "MTVPlutoTV.br",
+      "name": "MTV Pluto TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "NBCLX",
+    "logo": "https://i.imgur.com/JSCsJc5.png",
+    "url": "https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NBCLX.us",
+      "name": "NBCLX",
+      "url": ""
+    }
+  },
+  {
+    "name": "Negah TV",
+    "logo": null,
+    "url": "https://iptv.negahtv.com/negahtv/playlist2/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "NegahTV.us",
+      "name": "Negah TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nokshi TV",
+    "logo": "https://i.imgur.com/QWJNqS5.jpeg",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bengali",
+        "code": "ben"
+      }
+    ],
+    "tvg": {
+      "id": "NokshiTV.bd",
+      "name": "Nokshi TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nosey Casos",
+    "logo": "https://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "NoseyCasos.br",
+      "name": "Nosey Casos",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nosey Escândalos",
+    "logo": "https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "NoseyEscandalos.br",
+      "name": "Nosey Escândalos",
+      "url": ""
+    }
+  },
+  {
+    "name": "O Encantador de Cães",
+    "logo": "https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "OEncantadorDeCaes.br",
+      "name": "O Encantador de Cães",
+      "url": ""
+    }
+  },
+  {
+    "name": "Omide Iran",
+    "logo": null,
+    "url": "http://51.210.199.38/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "OmideIran.ir",
+      "name": "Omide Iran",
+      "url": ""
+    }
+  },
+  {
+    "name": "OML on Revry",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5fc810e0f000c90dd9563252",
+    "url": "https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OMLonRevry.us",
+      "name": "OML on Revry",
+      "url": ""
+    }
+  },
+  {
+    "name": "One TV",
+    "logo": "https://i.imgur.com/ssMOeaj.png",
+    "url": "http://137.59.86.218:1935/live/onetv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "OneTv.in",
+      "name": "One TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Party Tyme Karaoke",
+    "logo": "https://i.imgur.com/Jj4zvOK.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PartyTymeKaraoke.us",
+      "name": "Party Tyme Karaoke",
+      "url": ""
+    }
+  },
+  {
+    "name": "Payam Javan TV",
+    "logo": "https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png",
+    "url": "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PayamJavanTV.ir",
+      "name": "Payam Javan TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS | World Channel",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBSWorld_972x972.png?raw=true",
+    "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WorldChannel.us",
+      "name": "PBS | World Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS Create Los Angeles CA (KLCS-DT3)",
+    "logo": "https://i.imgur.com/jmaNzgg.jpg",
+    "url": "https://d1mxoeplf1ak5a.cloudfront.net/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KLCSDT3.us",
+      "name": "PBS Create Los Angeles CA (KLCS-DT3)",
+      "url": ""
+    }
+  },
+  {
+    "name": "People are Awesome",
+    "logo": "https://images.pluto.tv/channels/5f515d080e738d000739e19c/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PeopleAreAwesome.br",
+      "name": "People are Awesome",
+      "url": ""
+    }
+  },
+  {
+    "name": "People are Awesome",
+    "logo": "https://i.imgur.com/msHBlDz.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-peopleareawesome/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PeopleareAwesome.us",
+      "name": "People are Awesome",
+      "url": ""
+    }
+  },
+  {
+    "name": "People are Awesome Netherlands",
+    "logo": "https://i.imgur.com/msHBlDz.png",
+    "url": "https://jukin-peopleareawesome-2-nl.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PeopleareAwesomeNetherlands.us",
+      "name": "People are Awesome Netherlands",
+      "url": ""
+    }
+  },
+  {
+    "name": "People TV",
+    "logo": "https://i.imgur.com/7SarjaU.png",
+    "url": "https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PeopleTV.us",
+      "name": "People TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Game & Tech",
+    "logo": null,
+    "url": "http://51.210.199.25/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaGameTech.fr",
+      "name": "Persiana Game & Tech",
+      "url": ""
+    }
+  },
+  {
+    "name": "Play.Works",
+    "logo": "https://i.imgur.com/McoboB1.png",
+    "url": "https://b12eca572da7423284734ca3a6242ea2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PlayWorks/playlist.m3u8?ads.app_bundle=com.plexapp.desktop&ads.app_store_url=https://app.plex.tv&ads.consent=0&ads.gdpr=1&ads.plex_id=5f0ff263d71dcb00449ec01e&ads.plex_token=MorUy57ijWhGe4ixZb_T&ads.psid=df8e1a36-847d-5096-86a7-3803ed330ede&ads.targetopt=0&ads.ua=Mozilla/5.0+(Windows+NT+6.1;+rv:83.0)+Gecko/20100101+Firefox/83.0&ads.us_privacy=1---&ads.wurl_channel=512&ads.wurl_name=PlayWorks",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlayWorks.us",
+      "name": "Play.Works",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV All Reality by WE tv",
+    "logo": "http://images.pluto.tv/channels/5e82530945600e0007ca076c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca076c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAllRealitybyWEtv.us",
+      "name": "Pluto TV All Reality by WE tv",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV BET",
+    "logo": "http://images.pluto.tv/channels/5ca670f6593a5d78f0e85aed/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBET.us",
+      "name": "Pluto TV BET",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV BET Classics",
+    "logo": "https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBETClassics.us",
+      "name": "Pluto TV BET Classics",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV BET Her",
+    "logo": "http://images.pluto.tv/channels/5d51e6949ab8e2b35bdcaa9f/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e6949ab8e2b35bdcaa9f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e6949ab8e2b35bdcaa9f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=175&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBETHer.us",
+      "name": "Pluto TV BET Her",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV British TV",
+    "logo": "http://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b68a18823ecb93393cba2f1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=154&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBritishTV.us",
+      "name": "Pluto TV British TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV ET Live",
+    "logo": "http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc0c78281eddb0009a02d5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=190&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVETLive.us",
+      "name": "Pluto TV ET Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Game Show Central",
+    "logo": "http://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVGameShowCentral.us",
+      "name": "Pluto TV Game Show Central",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Gamer",
+    "logo": "http://images.pluto.tv/channels/5ca7f16c37b88b2694731c79/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca7f16c37b88b2694731c79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=801&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVGamer.us",
+      "name": "Pluto TV Gamer",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV GameSpot",
+    "logo": "http://images.pluto.tv/channels/5f186626dcd00d0007936443/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f186626dcd00d0007936443/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f186626dcd00d0007936443&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=806&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVGameSpot.us",
+      "name": "Pluto TV GameSpot",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Gaming TV",
+    "logo": "https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eccd81062c300078a11df/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVGamingTV.us",
+      "name": "Pluto TV Gaming TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV IGN",
+    "logo": "https://images.pluto.tv/channels/5f8ecee24576bc0007a13b79/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVIGN.us",
+      "name": "Pluto TV IGN",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tvfaces Online",
+    "logo": "https://graph.facebook.com/110490054146572/picture?width=320&height=320",
+    "url": "https://tvdatta.com:3211/stream/play.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "TvfacesOnline.pe",
+      "name": "Tvfaces Online",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ратник",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a0000015edc52c7dc8869cca66117c5a828/z",
+    "url": "https://online-video.rbc.ru/online/rbctv.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Ratnik.ru",
+      "name": "Ратник",
+      "url": ""
+    }
+  },
+  {
+    "name": "ТНТ International",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a00000162f2e7fc95aee02fbc1efd20c3d6/214x121",
+    "url": "http://ott-cdn.ucom.am/s19/04.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "TNTInternational.ru",
+      "name": "ТНТ International",
+      "url": "https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Че",
+    "logo": "https://i.imgur.com/nRD61Dw.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Che.ru",
+      "name": "Че",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Ю",
+    "logo": "https://i.imgur.com/1j5q5Ff.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Yu.ru",
+      "name": "Ю",
+      "url": ""
+    }
+  },
+  {
+    "name": "Домашний",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Domashniy.ru",
+      "name": "Домашний",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "UNO PLAY",
+    "logo": "https://i.imgur.com/RReDi1C.png",
+    "url": "https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Colombia",
+        "code": "CO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "UNOPLAY.co",
+      "name": "UNO PLAY",
+      "url": ""
+    }
+  },
+  {
+    "name": "Velicham",
+    "logo": "https://i.imgur.com/YeR3mm9.png",
+    "url": "https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "Velicham.in",
+      "name": "Velicham",
+      "url": ""
+    }
+  },
+  {
+    "name": "VENN",
+    "logo": "https://i.imgur.com/zVoX1fM.jpg",
+    "url": "https://d80z5qf1qyhbf.cloudfront.net/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "VENN.us",
+      "name": "VENN",
+      "url": ""
+    }
+  },
+  {
+    "name": "VIP Premiere Russia",
+    "logo": "https://i.imgur.com/s33q57W.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "VIPPremiereRussia.se",
+      "name": "VIP Premiere Russia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Vorterix",
+    "logo": "https://graph.facebook.com/vorterix/picture?width=320&height=320",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvCTWHCbBC0b9UIeLeNs8ug/live",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Vorterix.ar",
+      "name": "Vorterix",
+      "url": ""
+    }
+  },
+  {
+    "name": "We TV All Weddings",
+    "logo": "https://i.imgur.com/d61oA0y.png",
+    "url": "https://amc-allweddings-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WeTVAllWeddings.us",
+      "name": "We TV All Weddings",
+      "url": ""
+    }
+  },
+  {
+    "name": "World Poker Tour",
+    "logo": "https://i.imgur.com/vfIsClb.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WorldPokerTour.us",
+      "name": "World Poker Tour",
+      "url": ""
+    }
+  },
+  {
+    "name": "WTV Canal 20",
+    "logo": "https://wmediosnicaragua.com/img/LOGO-CANAL.png",
+    "url": "https://cloudvideo.servers10.com:8081/8130/index.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "wtv.ni",
+      "name": "WTV Canal 20",
+      "url": ""
+    }
+  },
+  {
+    "name": "Xplore",
+    "logo": "https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png",
+    "url": "http://xlpore-samsungus.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Xplore.us",
+      "name": "Xplore",
+      "url": ""
+    }
+  },
+  {
+    "name": "Xplore Reisen",
+    "logo": "https://od.lk/s/MF8yMjU5MDAzNDRf/Xplore_307x307.png",
+    "url": "https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/1ecb875d-8be7-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "XploreReisen.us",
+      "name": "Xplore Reisen",
+      "url": ""
+    }
+  },
+  {
+    "name": "Young Hollywood",
+    "logo": "https://i.imgur.com/X27MGHd.png",
+    "url": "https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "YoungHollywood.us",
+      "name": "Young Hollywood",
+      "url": ""
+    }
+  },
+  {
+    "name": "YourTime TV",
+    "logo": "https://yourtime.tv/img/utv-logo.png",
+    "url": "https://hls.yourtime.live/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "YourTimeTV.ir",
+      "name": "YourTime TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Youtoo America",
+    "logo": "https://i.imgur.com/3se2VEB.png",
+    "url": "https://thegateway.app/YouToo/CueTones/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "YoutooAmerica.us",
+      "name": "Youtoo America",
+      "url": ""
+    }
+  },
+  {
+    "name": "Zona Play TV (ZPTV)",
+    "logo": null,
+    "url": "https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Entertainment",
+        "slug": "entertainment"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ZonaPlayTVZPTV.cl",
+      "name": "Zona Play TV (ZPTV)",
+      "url": ""
+    }
+  }
+]

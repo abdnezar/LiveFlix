@@ -1,0 +1,295 @@
+[
+  {
+    "name": ".sci-fi Russia",
+    "logo": "https://i.imgur.com/5ezLSwB.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8",
+    "categories": [ {
+      "name": "Science",
+      "slug": "science"
+    }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "SciFiRussia.us",
+      "name": ".sci-fi Russia",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Bumblebee TV CoronaVirus.Gov",
+    "logo": "https://i.imgur.com/yxq8ZsK.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Science",
+        "slug": "science"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVCoronaVirusGov.us",
+      "name": "Bumblebee TV CoronaVirus.Gov",
+      "url": ""
+    }
+  },{
+  "name": "Pluto TV Science",
+  "logo": "http://images.pluto.tv/channels/563a970aa1a1f7fe7c9daad7/colorLogoPNG.png",
+  "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=563a970aa1a1f7fe7c9daad7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=672&terminate=false&userId=",
+  "categories": [
+    {
+      "name": "Science",
+      "slug": "science"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "PlutoTVScience.us",
+    "name": "Pluto TV Science",
+    "url": ""
+  }
+},{
+  "name": "Hiperconectados Televisión",
+  "logo": "https://graph.facebook.com/hiperconectadostv/picture?width=320&height=320",
+  "url": "https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Science",
+      "slug": "science"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Argentina",
+      "code": "AR"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO"
+    },
+    {
+      "name": "Chile",
+      "code": "CL"
+    },
+    {
+      "name": "Colombia",
+      "code": "CO"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR"
+    },
+    {
+      "name": "Cuba",
+      "code": "CU"
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO"
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC"
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT"
+    },
+    {
+      "name": "Honduras",
+      "code": "HN"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX"
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI"
+    },
+    {
+      "name": "Panama",
+      "code": "PA"
+    },
+    {
+      "name": "Peru",
+      "code": "PE"
+    },
+    {
+      "name": "Puerto Rico",
+      "code": "PR"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY"
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY"
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Spanish",
+      "code": "spa"
+    }
+  ],
+  "tvg": {
+    "id": "HiperconectadosTV.cl",
+    "name": "Hiperconectados Televisión",
+    "url": ""
+  }
+},
+  {
+    "name": "NASA TV",
+    "logo": "https://i.imgur.com/bKVNdeh.jpg",
+    "url": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Science",
+        "slug": "science"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NASATV.us",
+      "name": "NASA TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "NASA TV ISS Views",
+    "logo": "https://i.imgur.com/bKVNdeh.jpg",
+    "url": "http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Science",
+        "slug": "science"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NASATVISSViews.us",
+      "name": "NASA TV ISS Views",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Ciencia",
+    "logo": "https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Science",
+        "slug": "science"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCiencia.us",
+      "name": "Pluto TV Ciencia",
+      "url": ""
+    }
+  },{
+  "name": "YTN SCIENCE",
+  "logo": "https://i.imgur.com/FIzME5L.jpg",
+  "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZdBJIbJz0P9xyFipgOj1fA/live",
+  "categories": [
+    {
+      "name": "Science",
+      "slug": "science"
+    }
+  ],
+  "countries": [
+    {
+      "name": "South Korea",
+      "code": "KR"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Korean",
+      "code": "kor"
+    }
+  ],
+  "tvg": {
+    "id": "YTNSCIENCE.kr",
+    "name": "YTN SCIENCE",
+    "url": ""
+  }
+}
+]

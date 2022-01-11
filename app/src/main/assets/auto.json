@@ -1,0 +1,474 @@
+[
+  {
+    "name": "100% Auto Moto TV",
+    "logo": "https://i.imgur.com/PjBm4Ic.jpg",
+    "url": "http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bulgarian",
+        "code": "bul"
+      },
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "100AutoMotoTV.bg",
+      "name": "100% Auto Moto TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV AutoMoto",
+    "logo": "https://i.imgur.com/Se1a8Mm.png",
+    "url": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVAutoMoto.us",
+      "name": "Bumblebee TV AutoMoto",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV MotorCyclist",
+    "logo": "https://i.imgur.com/QIEhpPp.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVMotorCyclist.us",
+      "name": "Bumblebee TV MotorCyclist",
+      "url": ""
+    }
+  },
+  {
+    "name": "Choppertown",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5f9c5eb78083e72bec0d0522",
+    "url": "https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Choppertown.us",
+      "name": "Choppertown",
+      "url": ""
+    }
+  },
+  {
+    "name": "El Garage TV",
+    "logo": "https://i.imgur.com/cd0hP5e.png",
+    "url": "http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ElGarageTV.ar",
+      "name": "El Garage TV",
+      "url": ""
+    }
+  },
+  {
+  "name": "Pluto TV Motor",
+  "logo": "https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png",
+  "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+  "categories": [
+    {
+      "name": "Auto",
+      "slug": "auto"
+    }
+  ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMotor.us",
+      "name": "Pluto TV Motor",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Motor (England)",
+    "logo": "https://images.pluto.tv/channels/5db0510962948d000961d3c6/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0510962948d000961d3c6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=576&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMotorEngland.us",
+      "name": "Pluto TV Motor (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rev'n (KCKS-LD7)",
+    "logo": "https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",
+    "url": "https://cdn.igocast.com/channel7_hls/channel7_master.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KCKSLD7.us",
+      "name": "Rev'n (KCKS-LD7)",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Choppertown",
+    "logo": "https://www.bikernet.com/docs/stories/13227/width500/choppertown-logo-600x191.jpg",
+    "url": "https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRChoppertown.us",
+      "name": "STIRR Choppertown",
+      "url": ""
+    }
+  },
+  {
+    "name": "Harley Davidson Factory TV",
+    "logo": "https://i.imgur.com/DQOp8Ft.png",
+    "url": "https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HarleyDavidsonFactoryTV.us",
+      "name": "Harley Davidson Factory TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Harley Davidson Racing TV",
+    "logo": "https://i.imgur.com/DQOp8Ft.png",
+    "url": "https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HarleyDavidsonRacingTV.us",
+      "name": "Harley Davidson Racing TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Harley Davidson Rides TV",
+    "logo": "https://i.imgur.com/DQOp8Ft.png",
+    "url": "https://hdtv.prod2.ioio.tv/broker/play/d4b0111a-3dcb-46fb-b2bb-1c27eca5df35.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HarleyDavidsonRidesTV.us",
+      "name": "Harley Davidson Rides TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Motorvision (XUMO)",
+    "logo": "https://i.imgur.com/WPklHVE.jpg",
+    "url": "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Auto",
+        "slug": "auto"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MotorvisionXUMO.us",
+      "name": "Motorvision (XUMO)",
+      "url": ""
+    }
+  },
+  {
+"name": "Pluto TV Full Custom Garage",
+"logo": "https://images.pluto.tv/channels/5e78faa05a0e200007a6f487/colorLogoPNG.png",
+"url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+"categories": [
+{
+"name": "Auto",
+"slug": "auto"
+}
+],
+"countries": [
+{
+"name": "United States",
+"code": "US"
+}
+],
+"languages": [
+{
+"name": "English",
+"code": "eng"
+}
+],
+"tvg": {
+"id": "PlutoTVFullCustomGarage.us",
+"name": "Pluto TV Full Custom Garage",
+"url": ""
+}
+}
+]

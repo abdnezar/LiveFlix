@@ -1,0 +1,9549 @@
+[
+  {
+    "name": "3ABN",
+    "logo": "https://i.imgur.com/GVZuKc7.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "3ABN.us",
+      "name": "3ABN",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "3ABN Dare to Dream",
+    "logo": "https://i.imgur.com/zI6jr9L.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "K17JIDT3.us",
+      "name": "3ABN Dare to Dream",
+      "url": ""
+    }
+  },
+  {
+    "name": "3ABN Français",
+    "logo": "https://i.imgur.com/V6bL5MJ.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "3ABNFrancais.us",
+      "name": "3ABN Français",
+      "url": ""
+    }
+  },
+  {
+    "name": "3ABN International",
+    "logo": "https://i.imgur.com/vhb8zvB.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "3ABNInternational.us",
+      "name": "3ABN International",
+      "url": ""
+    }
+  },
+  {
+    "name": "3ABN Kids",
+    "logo": "https://i.imgur.com/eOvzf3d.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "3ABNKids.us",
+      "name": "3ABN Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "3ABN Latino",
+    "logo": "https://i.imgur.com/4ydVVIA.png",
+    "url": "http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "K17JIDT4.us",
+      "name": "3ABN Latino",
+      "url": ""
+    }
+  },
+  {
+    "name": "3ABN Latino",
+    "logo": "https://i.imgur.com/4ydVVIA.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "K18JLD2.us",
+      "name": "3ABN Latino",
+      "url": "https://iptv-org.github.io/epg/guides/us-az/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "3ABN Praise Him Music Channel",
+    "logo": "https://i.imgur.com/t6Ydwqg.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "3ABNPraiseHimMusicChannel.us",
+      "name": "3ABN Praise Him Music Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "3ABN Proclaim!",
+    "logo": "https://i.imgur.com/KiMtKUL.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "K17JIDT2.us",
+      "name": "3ABN Proclaim!",
+      "url": ""
+    }
+  },
+  {
+    "name": "3ABN Russia",
+    "logo": "https://i.imgur.com/8fKWpo3.png",
+    "url": "https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "3ABNRussia.us",
+      "name": "3ABN Russia",
+      "url": ""
+    }
+  },
+  {
+    "name": "A2i Religion",
+    "logo": "https://i.imgur.com/tH7EZL4.jpg",
+    "url": "https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Senegal",
+        "code": "SN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Wolof",
+        "code": "wol"
+      },
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "A2iReligion.sn",
+      "name": "A2i Religion",
+      "url": ""
+    }
+  },
+  {
+    "name": "ABNsat",
+    "logo": "http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",
+    "url": "http://rtmp1.abnsat.com/hls/arabic.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "ABNsat.iq",
+      "name": "ABNsat",
+      "url": ""
+    }
+  },
+  {
+    "name": "Aghapy TV",
+    "logo": null,
+    "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AghapyTV.eg",
+      "name": "Aghapy TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ahlu Al Quran TV",
+    "logo": "https://www.ahlu.tv/uploads/logo.png",
+    "url": "https://ahlualquran.tv/live/ysfbfBvecZ/SaNVjgaYnE/8.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AhluAlQuranTV.sa",
+      "name": "Ahlu Al Quran TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ahlulbayt TV",
+    "logo": "https://i.imgur.com/qLqHPhK.png",
+    "url": "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AhlulbaytTV.uk",
+      "name": "Ahlulbayt TV",
+      "url": "https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+    }
+  },
+  {
+    "name": "Akaal TV",
+    "logo": "https://i.imgur.com/62IpVDn.png",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Punjabi",
+        "code": "pan"
+      },
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AkaalTV.uk",
+      "name": "Akaal TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Aqsa Channel",
+    "logo": "http://aqsatv.ps/style/atyaf/assets/images/logo-footer.png",
+    "url": "https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Palestine",
+        "code": "PS"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlAqsaChannel.ps",
+      "name": "Al Aqsa Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Hayat TV",
+    "logo": "https://i.imgur.com/9HocMyE.jpg",
+    "url": "http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlHayatTV.eg",
+      "name": "Al Hayat TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Horreya TV",
+    "logo": "https://i.imgur.com/VCfZB73.png",
+    "url": "http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlHorreyaTV.us",
+      "name": "Al Horreya TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Istiqama TV",
+    "logo": "https://i.imgur.com/H7D7dmK.png",
+    "url": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Oman",
+        "code": "OM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlIstiqamaTV.om",
+      "name": "Al Istiqama TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Maali TV",
+    "logo": "https://i.imgur.com/l7zer94.png",
+    "url": "https://video1.getstreamhosting.com:1936/8484_1/8484_1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlMaaliTV.kw",
+      "name": "Al Maali TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Maaref",
+    "logo": "http://almaaref.ch/wp-content/uploads/2018/10/almaaref-logo-2.png",
+    "url": "https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlMaaref.kw",
+      "name": "Al Maaref",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Quran Al Kareem TV (Mecca)",
+    "logo": "https://i.imgur.com/0aMNwQa.png",
+    "url": "https://iptv--iptv.repl.co/Arabic/Quran_TV",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlQuranAlKareemTV.sa",
+      "name": "Al Quran Al Kareem TV (Mecca)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Sunnah Al Nabawiyah TV (Medina)",
+    "logo": "https://i.imgur.com/84nqj99.png",
+    "url": "https://iptv--iptv.repl.co/Arabic/Sunnah_TV",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlSunnahAlNabawiyahTV.sa",
+      "name": "Al Sunnah Al Nabawiyah TV (Medina)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al Wilayah",
+    "logo": "https://i.imgur.com/OI1HQv5.png",
+    "url": "https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlWilayah.ir",
+      "name": "Al Wilayah",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al-Jawadain TV",
+    "logo": "https://i.imgur.com/tLekUZU.png",
+    "url": "https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlJawadain.iq",
+      "name": "Al-Jawadain TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Al-Resalah",
+    "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/resala.png",
+    "url": "https://hiplayer.hibridcdn.net/t/rotana-risala.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlResalah.sa",
+      "name": "Al-Resalah",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alerth Alnabawi",
+    "logo": "https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png",
+    "url": "http://82.212.74.2:8000/live/7307.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlerthAlnabawi.ye",
+      "name": "Alerth Alnabawi",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alfa Omega TV",
+    "logo": "https://i.imgur.com/StJg6Pu.png",
+    "url": "http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Romania",
+        "code": "RO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Romanian",
+        "code": "ron"
+      }
+    ],
+    "tvg": {
+      "id": "AlfaOmegaTV.ro",
+      "name": "Alfa Omega TV",
+      "url": "https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml"
+    }
+  },
+  {
+    "name": "Aliento Vision",
+    "logo": "https://i.imgur.com/0qwmBEm.png",
+    "url": "http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "AlientoVision.us",
+      "name": "Aliento Vision",
+      "url": "https://iptv-org.github.io/epg/guides/co/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "Aliman TV",
+    "logo": "https://i.imgur.com/817xRPg.png",
+    "url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlimanTV.lb",
+      "name": "Aliman TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkafeel: Between the two holy shrines",
+    "logo": "https://alkafeel.net/src/svg/logo_stripped.svg",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkafeelBetweenthetwoholyshrines.iq",
+      "name": "Alkafeel: Between the two holy shrines",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkafeel: The entrance of the holy sanctuary",
+    "logo": "https://alkafeel.net/src/svg/logo_stripped.svg",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkafeelTheentranceoftheholysanctuary.iq",
+      "name": "Alkafeel: The entrance of the holy sanctuary",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkafeel: The Holy Tomb",
+    "logo": "https://alkafeel.net/src/svg/logo_stripped.svg",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkafeelTheHolyTomb.iq",
+      "name": "Alkafeel: The Holy Tomb",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkafeel: The window of Al-Kafeel",
+    "logo": "https://alkafeel.net/src/svg/logo_stripped.svg",
+    "url": "https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkafeelThewindowofAlKafeel.iq",
+      "name": "Alkafeel: The window of Al-Kafeel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkarma TV Australia",
+    "logo": "https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-AU.png",
+    "url": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkarmaTVAustralia.us",
+      "name": "Alkarma TV Australia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkarma TV Family",
+    "logo": "https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Family.png",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkarmaTVFamily.us",
+      "name": "Alkarma TV Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkarma TV Middle East",
+    "logo": "https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-ME.png",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkarmaTVMiddleEast.us",
+      "name": "Alkarma TV Middle East",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkarma TV North America & Canada",
+    "logo": "https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-NA.png",
+    "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkarmaTVNorthAmericaCanada.us",
+      "name": "Alkarma TV North America & Canada",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkarma TV Praise",
+    "logo": "https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Praise.png",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkarmaTVPraise.us",
+      "name": "Alkarma TV Praise",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkarma TV Talmaza (Discipleship)",
+    "logo": "https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Talmaza.png",
+    "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkarmaTVTalmazaDiscipleship.us",
+      "name": "Alkarma TV Talmaza (Discipleship)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkarma TV Youth & English",
+    "logo": "https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/11/Logo-US-1024x576-1.png",
+    "url": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlkarmaTVYouthEnglish.us",
+      "name": "Alkarma TV Youth & English",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alkerazatv",
+    "logo": null,
+    "url": "https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Alkerazatv.us",
+      "name": "Alkerazatv",
+      "url": ""
+    }
+  },
+  {
+    "name": "Almagd TV Middle East",
+    "logo": "https://www.almagd.tv/en/images/logo.png",
+    "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlmagdTVMiddleEast.us",
+      "name": "Almagd TV Middle East",
+      "url": ""
+    }
+  },
+  {
+    "name": "Almagd TV North America",
+    "logo": "https://www.almagd.tv/en/images/logo.png",
+    "url": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlmagdTVNorthAmerica.us",
+      "name": "Almagd TV North America",
+      "url": ""
+    }
+  },
+  {
+    "name": "Amazing Discoveries TV",
+    "logo": "https://i.imgur.com/zXWgbVk.png",
+    "url": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AmazingDiscoveriesTV.ca",
+      "name": "Amazing Discoveries TV",
+      "url": "https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Avivamiento TV",
+    "logo": "https://i.imgur.com/7YB94Hf.png",
+    "url": "https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Colombia",
+        "code": "CO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "AvivamientoTV.co",
+      "name": "Avivamiento TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "BeitolAbbas TV",
+    "logo": null,
+    "url": "http://live.beitolabbas.tv/live/beitolabbastv.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "BeitolAbbasTV.ir",
+      "name": "BeitolAbbas TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bethel TV",
+    "logo": "https://cdn.mitvstatic.com/channels/hn_bethel_m.png",
+    "url": "https://ott.streann.com/loadbalancer/services/public/channels/5e0689c82cdcb4fdbcd79151/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "BethelTV.pe",
+      "name": "Bethel TV",
+      "url": "https://iptv-org.github.io/epg/guides/hn/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "Better Life TV",
+    "logo": "https://i.imgur.com/gmrVKEC.jpg",
+    "url": "https://uni5rtmp.tulix.tv/betterlife/betterlife/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BetterLifeTV.us",
+      "name": "Better Life TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bible Explorations",
+    "logo": "https://i.imgur.com/wwUtlBi.png",
+    "url": "http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BibleExplorations.us",
+      "name": "Bible Explorations",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bonum TV",
+    "logo": "https://i.imgur.com/dpGX5SH.png",
+    "url": "https://stream.y5.hu/stream/stream_bonum/stream.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Hungary",
+        "code": "HU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hungarian",
+        "code": "hun"
+      }
+    ],
+    "tvg": {
+      "id": "Bonum TV-HU",
+      "name": "Bonum TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "British Muslim TV",
+    "logo": "http://www.britishmuslim.tv/images/BMTV_Identity.svg",
+    "url": "https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BritishMuslimTV.uk",
+      "name": "British Muslim TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "canalLUZ",
+    "logo": "https://www.canalluz.org/assets/images/logo-2020-250x79.png",
+    "url": "https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "canalLUZ.ar",
+      "name": "canalLUZ",
+      "url": ""
+    }
+  },
+  {
+    "name": "Catholic TV",
+    "logo": "https://i.imgur.com/RI9GbLX.jpg",
+    "url": "http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CatholicTV.us",
+      "name": "Catholic TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "CBN Family",
+    "logo": "https://i.imgur.com/XpS19dt.png",
+    "url": "https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CBNFamily.us",
+      "name": "CBN Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "CBN News",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",
+    "url": "http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CBNNews.us",
+      "name": "CBN News",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ch4Teen",
+    "logo": "https://i.imgur.com/JeG9K1y.png",
+    "url": "https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Ch4Teen.kw",
+      "name": "Ch4Teen",
+      "url": ""
+    }
+  },
+  {
+    "name": "CharityTV",
+    "logo": "https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png",
+    "url": "http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "CharityTV.lb",
+      "name": "CharityTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Choluteca TV",
+    "logo": null,
+    "url": "https://emisoras.hn:8081/cholutecatv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Honduras",
+        "code": "HN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CholutecaTV.hn",
+      "name": "Choluteca TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Christian Youth Channel (CYC)",
+    "logo": "https://i.imgur.com/PfFJy5E.png",
+    "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ChristianYouthChannelCYC.us",
+      "name": "Christian Youth Channel (CYC)",
+      "url": ""
+    }
+  },
+  {
+    "name": "CNA (Chaîne Nord Africaine)",
+    "logo": "https://i.imgur.com/4s1NlRf.jpg",
+    "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "CNA.dz",
+      "name": "CNA (Chaîne Nord Africaine)",
+      "url": ""
+    }
+  },
+  {
+    "name": "CNL Европа",
+    "logo": "https://i.imgur.com/lozzdS7.png",
+    "url": "http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Ukrainian",
+        "code": "ukr"
+      }
+    ],
+    "tvg": {
+      "id": "CNLEvropa.ua",
+      "name": "CNL Европа",
+      "url": ""
+    }
+  },
+  {
+    "name": "Coptic TV",
+    "logo": "http://www.ctvchannel.tv/Images/Page/Logo.png",
+    "url": "https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "CopticTV.eg",
+      "name": "Coptic TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cornerstone TV",
+    "logo": "https://i.imgur.com/cV8FKR9.png",
+    "url": "http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CornerstoneTV.us",
+      "name": "Cornerstone TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "CSat TV",
+    "logo": "https://i.imgur.com/cigpFzt.png",
+    "url": "http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CSatTV.us",
+      "name": "CSat TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "CTN",
+    "logo": "https://i.imgur.com/Bj37ZMY.png",
+    "url": "http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CTN.us",
+      "name": "CTN",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "CTN 61 Riviera Beach FL (WFGC)",
+    "logo": "https://i.imgur.com/UtaBUfH.png",
+    "url": "http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WFGCDT1.us",
+      "name": "CTN 61 Riviera Beach FL (WFGC)",
+      "url": ""
+    }
+  },
+  {
+    "name": "CTNi (Christian Television Network International)",
+    "logo": "http://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png",
+    "url": "https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CTNiChristianTelevisionNetworkInternational.pr",
+      "name": "CTNi (Christian Television Network International)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Daawah TV",
+    "logo": "http://www.daawah.tv/img/logo.png",
+    "url": "http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "",
+      "name": "Daawah TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dios Te Ve",
+    "logo": null,
+    "url": "https://emisoras.hn:8081/diostevetv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Honduras",
+        "code": "HN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "DiosTeVe.hn",
+      "name": "Dios Te Ve",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dios Te Ve Infantil",
+    "logo": null,
+    "url": "https://emisoras.hn:8081/diostevekids/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Honduras",
+        "code": "HN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "DiosTeVeInfantil.hn",
+      "name": "Dios Te Ve Infantil",
+      "url": ""
+    }
+  },
+  {
+    "name": "Divine Vision",
+    "logo": "https://i.imgur.com/wjCFvLR.png",
+    "url": "https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DivineVision.us",
+      "name": "Divine Vision",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dr. Gene Scott",
+    "logo": "https://i.imgur.com/FppLahc.jpg",
+    "url": "https://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DrGeneScott.us",
+      "name": "Dr. Gene Scott",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dua TV",
+    "logo": "https://i.imgur.com/nntvc3o.png",
+    "url": "https://live.ishiacloud.com/W67H7ddMzVHyXPrG.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "DuaTV.iq",
+      "name": "Dua TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "El Futuro en tu mano",
+    "logo": null,
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCZSw3jfFZo_8I9BHSMlT2Fg/live",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ElFuturoentumano.es",
+      "name": "El Futuro en tu mano",
+      "url": ""
+    }
+  },
+  {
+    "name": "El Maqar",
+    "logo": "",
+    "url": "http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "ElMaqar.us",
+      "name": "El Maqar",
+      "url": ""
+    }
+  },
+  {
+    "name": "El Sembrador Nueva Evangelización (ESNE)",
+    "logo": "https://i.imgur.com/APhSi1Y.jpg",
+    "url": "https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ElSembradorNuevaEvangelizacionESNE.us",
+      "name": "El Sembrador Nueva Evangelización (ESNE)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Elbeshara GTV",
+    "logo": "https://i.imgur.com/wup8DKR.jpg",
+    "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "ElbesharaGTV.us",
+      "name": "Elbeshara GTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Eman Channel",
+    "logo": "https://i.imgur.com/NWljgKa.png",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "EmanChannel.uk",
+      "name": "Eman Channel",
+      "url": "https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+    }
+  },
+  {
+    "name": "EMCI TV",
+    "logo": "https://i.imgur.com/HRqcIcR.png",
+    "url": "https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "EMCITV.ca",
+      "name": "EMCI TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Enlace Juvenil (EJTV)",
+    "logo": "https://graph.facebook.com/ejtvla/picture?width=320&height=320",
+    "url": "https://api.new.livestream.com/accounts/ejtvla/events/2294538/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "EJTV.cr",
+      "name": "Enlace Juvenil (EJTV)",
+      "url": ""
+    }
+  },
+  {
+    "name": "EnlaceTV",
+    "logo": "https://graph.facebook.com/enlacetv/picture?width=320&height=320",
+    "url": "https://v4.tustreaming.cl/enlacebpbtv/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "EnlaceTV.cr",
+      "name": "EnlaceTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "ESNE TV",
+    "logo": "https://i.imgur.com/VbxfLY5.png",
+    "url": "https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ESNETV.es",
+      "name": "ESNE TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Espérance TV",
+    "logo": "https://i.imgur.com/wnz50vR.png",
+    "url": "https://hcinteram.mmdlive.lldns.net/hcinteram/5fb30e8b271544039e79f93d4d496b25/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "EsperanceTV.mq",
+      "name": "Espérance TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Esperanza TV",
+    "logo": "https://i.imgur.com/U5vTVsL.jpg",
+    "url": "http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "EsperanzaTV.us",
+      "name": "Esperanza TV",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "EWTN Asia-Pacific",
+    "logo": "https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png",
+    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "EWTNAsiaPacific.us",
+      "name": "EWTN Asia-Pacific",
+      "url": ""
+    }
+  },
+  {
+    "name": "EWTN Canada",
+    "logo": "https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png",
+    "url": "https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "EWTNCanada.us",
+      "name": "EWTN Canada",
+      "url": ""
+    }
+  },
+  {
+    "name": "EWTN el Canal Católico",
+    "logo": "https://cdn.mitvstatic.com/channels/cl_ewtn_m.png",
+    "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "EWTNelCanalCatolico.us",
+      "name": "EWTN el Canal Católico",
+      "url": ""
+    }
+  },
+  {
+    "name": "EWTN Europe",
+    "logo": "https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png",
+    "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "EWTNEurope.us",
+      "name": "EWTN Europe",
+      "url": ""
+    }
+  },
+  {
+    "name": "EWTN katholisches TV",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ewtnkatholischestv.png",
+    "url": "https://cdn3.wowza.com/1/NWFLbEVOVjNsQWhP/YnpVbld5/hls/live/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Germany",
+        "code": "DE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "EWTNkatholischesTV.us",
+      "name": "EWTN katholisches TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "EWTN US",
+    "logo": "https://od.lk/s/MF8yMjQyNTQ1MzNf/EWTN_450x450.png",
+    "url": "https://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "EWTNUS.us",
+      "name": "EWTN US",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "Fadak TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/FadakTV.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ddrricky/live",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "FadakTV.uk",
+      "name": "Fadak TV",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Pluto TV TBN",
+    "logo": "http://images.pluto.tv/channels/5d486b2eeddd9576d66f9066/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d486b2eeddd9576d66f9066/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTBN.us",
+      "name": "Pluto TV TBN",
+      "url": ""
+    }
+  },
+  {
+    "name": "PUC TV Goiás",
+    "logo": "http://www.puctvgoias.com.br/img/logo.png",
+    "url": "http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PUCTVGoias.br",
+      "name": "PUC TV Goiás",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVTV",
+    "logo": "https://i.imgur.com/X9LBFzK.jpg",
+    "url": "https://qvmstream.tulix.tv/720p/720p/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVTV.us",
+      "name": "QVTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Radio y Tv Filadelfia",
+    "logo": "https://graph.facebook.com/iglesiafiladelfialadp/picture?width=320&height=320",
+    "url": "https://streamlive7.hearthis.at/hls/9355343.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "RadioyTvFiladelfia.pe",
+      "name": "Radio y Tv Filadelfia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Radio Yaqeen Jordan: City View",
+    "logo": null,
+    "url": "http://188.247.86.66/MixFM/CityView1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Jordan",
+        "code": "JO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "RadioYaqeenJordanCityView.jo",
+      "name": "Radio Yaqeen Jordan: City View",
+      "url": ""
+    }
+  },
+  {
+    "name": "Radio Yaqeen Jordan: Control Studio",
+    "logo": null,
+    "url": "http://188.247.86.66/MixFM/ControlStudio1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Jordan",
+        "code": "JO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "RadioYaqeenJordanControlStudio.jo",
+      "name": "Radio Yaqeen Jordan: Control Studio",
+      "url": ""
+    }
+  },
+  {
+    "name": "Radio Yaqeen Jordan: Studio",
+    "logo": null,
+    "url": "http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Jordan",
+        "code": "JO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "RadioYaqeenJordanStudio.jo",
+      "name": "Radio Yaqeen Jordan: Studio",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rede Brasil de Comunicação",
+    "logo": "http://portal.rbc1.com.br/public/portal/img/layout/logorbc.png",
+    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RedeBrasildeComunicacao.br",
+      "name": "Rede Brasil de Comunicação",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rede Gospel",
+    "logo": "https://i.imgur.com/yvxG9m5.png",
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RedeGospel.br",
+      "name": "Rede Gospel",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "Rede Mão Amiga",
+    "logo": "https://i.imgur.com/cqD6DNY.png",
+    "url": "http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RedeMaoAmiga.br",
+      "name": "Rede Mão Amiga",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rede Século 21",
+    "logo": "https://i.imgur.com/vvrCWVo.jpg",
+    "url": "https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RedeSeculo21.br",
+      "name": "Rede Século 21",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "Rede Super",
+    "logo": "https://i.imgur.com/3ODbxcM.png",
+    "url": "https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RedeSuper.br",
+      "name": "Rede Super",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "Rede Vida",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Rede_Vida_logo.png/267px-Rede_Vida_logo.png",
+    "url": "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RedeVida.br",
+      "name": "Rede Vida",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "Reformed 21",
+    "logo": "http://image.azuza.web.id/images/agus-1545452020.jpg",
+    "url": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "Reformed21.id",
+      "name": "Reformed 21",
+      "url": ""
+    }
+  },
+  {
+    "name": "Revelation TV",
+    "logo": "https://i.imgur.com/sOVdYJZ.png",
+    "url": "https://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "RevelationTV.us",
+      "name": "Revelation TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Salt + Light Television",
+    "logo": "https://i.imgur.com/mpJICdg.png",
+    "url": "https://zm6gdaxeyn93-hls-live.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SaltPlusLightTelevision.ca",
+      "name": "Salt + Light Television",
+      "url": ""
+    }
+  },
+  {
+    "name": "Salt TV",
+    "logo": "http://thedronemedia.ug/wp-content/uploads/2017/07/salt.png",
+    "url": "https://dcunilive38-lh.akamaihd.net/i/dclive_1@692676/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Uganda",
+        "code": "UG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SaltTV.ug",
+      "name": "Salt TV",
+      "url": "https://iptv-org.github.io/epg/guides/ug/dstv.com.epg.xml"
+    }
+  },
+  {
+    "name": "SAT-7 ARABIC",
+    "logo": "https://i.imgur.com/xvJw3qt.png",
+    "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "SAT7ARABIC.cy",
+      "name": "SAT-7 ARABIC",
+      "url": ""
+    }
+  },
+  {
+    "name": "SAT-7 PARS",
+    "logo": "https://i.imgur.com/wrOg8vL.png",
+    "url": "https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "SAT7PARS.cy",
+      "name": "SAT-7 PARS",
+      "url": ""
+    }
+  },
+  {
+    "name": "SAT-7 TÜRK",
+    "logo": "https://i.imgur.com/zia9ehv.jpg",
+    "url": "https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Turkey",
+        "code": "TR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Turkish",
+        "code": "tur"
+      }
+    ],
+    "tvg": {
+      "id": "SAT7TURK.cy",
+      "name": "SAT-7 TÜRK",
+      "url": ""
+    }
+  },
+  {
+    "name": "Sharjah 2",
+    "logo": "https://i.imgur.com/ob1GhbC.jpg",
+    "url": "https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Sharjah2.ae",
+      "name": "Sharjah 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "Sharjah Radio Quran",
+    "logo": null,
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCn8lMRYDANs_1yAL3iuw7_g/live",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "SharjahRadioQuran.ae",
+      "name": "Sharjah Radio Quran",
+      "url": ""
+    }
+  },
+  {
+    "name": "Sharjah TV",
+    "logo": "https://i.imgur.com/FAp0RtO.png",
+    "url": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "SharjahTV.ae",
+      "name": "Sharjah TV",
+      "url": "https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml"
+    }
+  },
+  {
+    "name": "Shubhsandesh",
+    "logo": "https://i.imgur.com/ibnqDAD.png",
+    "url": "https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "Shubhsandesh.in",
+      "name": "Shubhsandesh",
+      "url": ""
+    }
+  },
+  {
+    "name": "Sobrenatural TV",
+    "logo": "https://i.imgur.com/jYIf7Mz.png",
+    "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "SobrenaturalTV.pt",
+      "name": "Sobrenatural TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "SonLife Broadcasting (SBN)",
+    "logo": "https://i.imgur.com/h9Gxavk.png",
+    "url": "https://sonlife5-i.akamaihd.net/hls/live/584631/ch5/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "SBN.us",
+      "name": "SonLife Broadcasting (SBN)",
+      "url": ""
+    }
+  },
+  {
+    "name": "SonLife Broadcasting Global (SBN)",
+    "logo": "https://i.imgur.com/h9Gxavk.png",
+    "url": "https://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SBNGlobal.us",
+      "name": "SonLife Broadcasting Global (SBN)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Spirit TV",
+    "logo": "https://i.imgur.com/jR24flK.png",
+    "url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SpiritTV.us",
+      "name": "Spirit TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Sri Sankara",
+    "logo": null,
+    "url": "https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "SriSankara.in",
+      "name": "Sri Sankara",
+      "url": ""
+    }
+  },
+  {
+    "name": "Suboro TV",
+    "logo": "https://i.imgur.com/PrNVVOu.png",
+    "url": "https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Syria",
+        "code": "SY"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "SuboroTV.sy",
+      "name": "Suboro TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Suyapa TV",
+    "logo": "https://pbs.twimg.com/profile_images/1455219661927337988/0EAAn3OP.jpg",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://dai.ly/x833e2b",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Honduras",
+        "code": "HN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "SuyapaTV.hn",
+      "name": "Suyapa TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tarotéame",
+    "logo": "https://i.imgur.com/OgEeQzl.jpg",
+    "url": "http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Taroteame.es",
+      "name": "Tarotéame",
+      "url": "https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml"
+    }
+  },
+  {
+    "name": "TBN Asia",
+    "logo": "https://i.imgur.com/QyMAyrs.jpg",
+    "url": "http://210.210.155.35/qwr9ew/s/s39/02.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TBNAsia.us",
+      "name": "TBN Asia",
+      "url": ""
+    }
+  },
+  {
+    "name": "TBN Baltia",
+    "logo": "https://inet-static.mw.elion.ee/images/channels/300x300/261.png",
+    "url": "http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Estonia",
+        "code": "EE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "TBNBaltia.ee",
+      "name": "TBN Baltia",
+      "url": "https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml"
+    }
+  },
+  {
+    "name": "TBN Inspire",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TBN_Hillsong_360x360.png?raw=true",
+    "url": "https://api.new.livestream.com/accounts/27460990/events/8266909/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TBNInspire.us",
+      "name": "TBN Inspire",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Islamic Network",
+    "logo": "https://i.imgur.com/Z2Io8n4.png",
+    "url": "http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheIslamicNetwork.tt",
+      "name": "The Islamic Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Kingdom Sat",
+    "logo": "https://i.imgur.com/6xa14aQ.png",
+    "url": "https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "TheKingdomSat.eg",
+      "name": "The Kingdom Sat",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Now Network",
+    "logo": "https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg",
+    "url": "https://link.frontlayer.com/services/hls2/fl619843/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheNowNetwork.us",
+      "name": "The Now Network",
+      "url": ""
+    }
+  },
+{
+"name": "Towheed TV",
+"logo": "https://i.imgur.com/nsxrqta.jpg",
+"url": "http://51.210.199.1/hls/stream.m3u8",
+"categories": [
+{
+"name": "Religious",
+"slug": "religious"
+}
+],
+"countries": [
+{
+"name": "United Arab Emirates",
+"code": "AE"
+},
+{
+"name": "Iran",
+"code": "IR"
+}
+],
+"languages": [
+{
+"name": "Persian",
+"code": "fas"
+}
+],
+"tvg": {
+"id": "TowheedTV.ae",
+"name": "Towheed TV",
+"url": ""
+}
+},
+  {
+  "name": "TV Pai Eterno",
+  "logo": "https://www.paieterno.com.br/wp-content/uploads/2019/05/cropped-logo-portal-01-192x192.png",
+  "url": "https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8",
+  "categories": [
+  {
+    "name": "Religious",
+    "slug": "religious"
+  }
+],
+  "countries": [
+  {
+    "name": "Brazil",
+    "code": "BR"
+  }
+],
+  "languages": [
+  {
+    "name": "Portuguese",
+    "code": "por"
+  }
+],
+  "tvg": {
+  "id": "TVPaiEterno.br",
+  "name": "TV Pai Eterno",
+  "url": ""
+}
+  },
+  {
+    "name": "TV Terceiro Anjo",
+    "logo": "https://www.terceiroanjo.com/static/img/logo-2019-gif.gif",
+    "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVTerceiroAnjo.br",
+      "name": "TV Terceiro Anjo",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Universal (Ecuador)",
+    "logo": null,
+    "url": "https://59c3c7bda15f4.streamlock.net:444/universal/smil:universal.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "TVUniversal.ec",
+      "name": "TV Universal (Ecuador)",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVGracia",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/co-tv-gracia.jpg",
+    "url": "https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Colombia",
+        "code": "CO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "TVGracia.co",
+      "name": "TVGracia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Союз",
+    "logo": "https://tv-soyuz.ru/static/img/logo.png",
+    "url": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Soyuz.ru",
+      "name": "Союз",
+      "url": ""
+    }
+  },
+  {
+    "name": "СПАС",
+    "logo": "https://i.imgur.com/6IcWl5r.png",
+    "url": "http://spas.mediacdn.ru/cdn/spas/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Spas.ru",
+      "name": "СПАС",
+      "url": ""
+    }
+  },
+  {
+    "name": "唯心電視",
+    "logo": "http://epg.51zmt.top:8000/tb1/gt/weixin.png",
+    "url": "http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "WeiXingDianShi.tw",
+      "name": "唯心電視",
+      "url": ""
+    }
+  },
+  {
+    "name": "Каббала ТВ",
+    "logo": "http://kab.tv/static/images/kab_tv_rus.gif",
+    "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "KabbalaTV.ru",
+      "name": "Каббала ТВ",
+      "url": ""
+    }
+  },
+  {
+    "name": "Надежда",
+    "logo": "https://hopetv.ru/wp-content/themes/hope.ua/public/img/header-hopeLogo.png",
+    "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Nadezhda.ru",
+      "name": "Надежда",
+      "url": ""
+    }
+  },
+  {
+    "name": "Небеса ТВ7",
+    "logo": "https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png",
+    "url": "https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "NebesaTV7.fi",
+      "name": "Небеса ТВ7",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Aparecida",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",
+    "url": "https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVAparecida.br",
+      "name": "TV Aparecida",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "TV Evangelizar",
+    "logo": "https://i.imgur.com/4LG6sA0.png",
+    "url": "https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVEvangelizar.br",
+      "name": "TV Evangelizar",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Fátima",
+    "logo": "https://i.imgur.com/hCFVc5S.jpg",
+    "url": "http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVFatima.pt",
+      "name": "TV Fátima",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Gideoes",
+    "logo": "https://www.gideoes.com.br/wp-content/uploads/2018/12/logotipo-tvgideoes.png",
+    "url": "https://streaming01.zas.media/gideoes/programacao/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVGideoes.br",
+      "name": "TV Gideoes",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV MANA (ENG)",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVMANAENG.pt",
+      "name": "TV MANA (ENG)",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV MANA (ESP)",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "TVMANAESP.pt",
+      "name": "TV MANA (ESP)",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV MANA (FR)",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "TVMANAFR.pt",
+      "name": "TV MANA (FR)",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV MANA (RU)",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "TVMANARU.pt",
+      "name": "TV MANA (RU)",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Maná 1",
+    "logo": "https://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVMana1BRA.pt",
+      "name": "TV Maná 1",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Maná 2",
+    "logo": "https://www.tvmana1.com/wp-content/uploads/2020/04/logo_tv_mana_1.png",
+    "url": "http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVMana2BRA.pt",
+      "name": "TV Maná 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Maná Córdoba",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "TVManaCordoba.pt",
+      "name": "TV Maná Córdoba",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV MANA MAPUTO",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://csvl03.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVMANAMAPUTO.pt",
+      "name": "TV MANA MAPUTO",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Maná Moçambique",
+    "logo": "https://i.imgur.com/5UIy5tD.png",
+    "url": "http://c3.manasat.com:1935/tvmz/tvmz3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVManaMocambique.mz",
+      "name": "TV Maná Moçambique",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV MANA-1 PORTUGAL",
+    "logo": "http://igrejamana.com/int/imagens/mana_logo_novo_lrg.png",
+    "url": "http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVMANA1PORTUGAL.pt",
+      "name": "TV MANA-1 PORTUGAL",
+      "url": ""
+    }
+  },
+  {
+    "name": "Unidad Evangelica TV",
+    "logo": null,
+    "url": "https://v2.tustreaming.cl/unidadevangelica/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "UnidadEvangelicaTV.cl",
+      "name": "Unidad Evangelica TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Vida TV",
+    "logo": null,
+    "url": "http://45.161.188.242:88/vidatv/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "VidaTV.cl",
+      "name": "Vida TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Vida TV",
+    "logo": null,
+    "url": "http://184.173.181.2:1935/8070/8070/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Honduras",
+        "code": "HN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "VidaTV.hn",
+      "name": "Vida TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Virgen de Natividad de Paruro",
+    "logo": "https://graph.facebook.com/danzasvirgendenatividadparuro/picture?width=320&height=320",
+    "url": "https://srv6.zcast.com.br/virgennatividad/virgennatividad/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "VirgendeNatividadParuro.pe",
+      "name": "Virgen de Natividad de Paruro",
+      "url": ""
+    }
+  },
+  {
+    "name": "Voz de Poder",
+    "logo": null,
+    "url": "https://v2.tustreaming.cl/vozdepoder/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "VozdePoder.cl",
+      "name": "Voz de Poder",
+      "url": ""
+    }
+  },
+  {
+    "name": "Religious",
+    "slug": "religious"
+  },
+{"name": "Wesal TV",
+"logo": "https://i.imgur.com/SfG32dL.png",
+"url": "http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Religious",
+      "slug": "religious"
+    }
+  ],
+"countries": [
+{
+"name": "Saudi Arabia",
+"code": "SA"
+}
+],
+"languages": [
+{
+"name": "Arabic",
+"code": "ara"
+}
+],
+"tvg": {
+"id": "WesalTV.sa",
+"name": "Wesal TV",
+"url": ""
+}
+},
+{
+"name": "ZAD TV",
+"logo": null,
+"url": "https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/live",
+"categories": [
+{
+"name": "Religious",
+"slug": "religious"
+}
+],
+"countries": [
+{
+"name": "Saudi Arabia",
+"code": "SA"
+}
+],
+"languages": [
+{
+"name": "Arabic",
+"code": "ara"
+}
+],
+"tvg": {
+"id": "ZADTV.sa",
+"name": "ZAD TV",
+"url": ""
+}
+},
+  {
+    "name": "Fonte TV",
+    "logo": "https://i.imgur.com/4lnSlOZ.png",
+    "url": "http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "FonteTV.br",
+      "name": "Fonte TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Genesis TV",
+    "logo": "https://i2.wp.com/alfamedianetwork.com/wp-content/uploads/2018/08/genesistelevisionlogo.png",
+    "url": "http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "GenesisTV.us",
+      "name": "Genesis TV",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Peace TV Bangla",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/bangla.jpg",
+    "url": "http://199.223.252.162:8032/bangla_adaptive/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bengali",
+        "code": "ben"
+      }
+    ],
+    "tvg": {
+      "id": "PeaceTVBangla.ae",
+      "name": "Peace TV Bangla",
+      "url": ""
+    }
+  },
+  {
+    "name": "Peace TV Chinese",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg",
+    "url": "http://199.223.252.162:8032/chinese_adaptive/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "PeaceTVChinese.ae",
+      "name": "Peace TV Chinese",
+      "url": ""
+    }
+  },
+  {
+    "name": "Peace TV English",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg",
+    "url": "http://199.223.252.162:8032/english_adaptive/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Antarctica",
+        "code": "AQ"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW"
+      },
+      {
+        "name": "Åland",
+        "code": "AX"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "code": "BL"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Bonaire",
+        "code": "BQ"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Bouvet Island",
+        "code": "BV"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      },
+      {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Curacao",
+        "code": "CW"
+      },
+      {
+        "name": "Christmas Island",
+        "code": "CX"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Falkland Islands",
+        "code": "FK"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "French Guiana",
+        "code": "GF"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "code": "IO"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Saint Martin",
+        "code": "MF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Macao",
+        "code": "MO"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Sint Maarten",
+        "code": "SX"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM"
+      },
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "VG"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "code": "VI"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      },
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PeaceTVEnglish.ae",
+      "name": "Peace TV English",
+      "url": "https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml"
+    }
+  },
+  {
+    "name": "Peace TV Urdu",
+    "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
+    "url": "http://199.223.252.162:8032/urdu_adaptive/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Urdu",
+        "code": "urd"
+      }
+    ],
+    "tvg": {
+      "id": "PeaceTVUrdu.ae",
+      "name": "Peace TV Urdu",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Faith TV",
+    "logo": "http://images.pluto.tv/channels/5c58a539fae3812612f33ca3/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c58a539fae3812612f33ca3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFaithTV.us",
+      "name": "Pluto TV Faith TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Hillsong Channel",
+    "logo": "http://images.pluto.tv/channels/5d486b87428fe37d8cadba44/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486b87428fe37d8cadba44/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486b87428fe37d8cadba44&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=898&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVHillsongChannel.us",
+      "name": "Pluto TV Hillsong Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "God TV UK",
+    "logo": "https://ocdn.eu/program-tv-transforms/1/dXCktlEYWRtL2IzNzk5OGMwYTExODlhNWNmYzA4ZWY5OTQwNTllNTQ4N2Q3N2U2Y2RkMWVlMTIxMGU4NTRmYjdiYzllNmNmNjKSlQJkAMLDlQIAKMLD",
+    "url": "https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GodTVUK.uk",
+      "name": "God TV UK",
+      "url": "https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+    }
+  },
+  {
+    "name": "God TV US",
+    "logo": "https://i.imgur.com/ZMYRG9h.jpg",
+    "url": "https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GodTV.uk",
+      "name": "God TV US",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH1 綜合台",
+    "logo": "https://app.streamingfast.net/uploads/channel/1_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech1.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH1ZongHeTai.tw",
+      "name": "GOOD TV CH1 綜合台",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH2 真理台",
+    "logo": "https://app.streamingfast.net/uploads/channel/2_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech2.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH2ZhenLiTai.tw",
+      "name": "GOOD TV CH2 真理台",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH3 真情部落格 短版",
+    "logo": "https://app.streamingfast.net/uploads/channel/3_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech3.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH3ZhenQingBuLuoGeDuanBan.tw",
+      "name": "GOOD TV CH3 真情部落格 短版",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH5 共享觀點 短版",
+    "logo": "https://app.streamingfast.net/uploads/channel/5_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech5.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH5GongXiangGuanDianDuanBan.tw",
+      "name": "GOOD TV CH5 共享觀點 短版",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH6 親近神 詩歌音樂",
+    "logo": "https://app.streamingfast.net/uploads/channel/6_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech6.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH6QinJinShenShiGeYinLe.tw",
+      "name": "GOOD TV CH6 親近神 詩歌音樂",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH7 禱告大軍 信息",
+    "logo": "https://app.streamingfast.net/uploads/channel/7_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech7.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH7DaoGaoDaJunXinXi.tw",
+      "name": "GOOD TV CH7 禱告大軍 信息",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH8 幸福學堂 短版",
+    "logo": "https://app.streamingfast.net/uploads/channel/8_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech8.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH8XingFuXueTangDuanBan.tw",
+      "name": "GOOD TV CH8 幸福學堂 短版",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH9 愛+好醫生 短版",
+    "logo": "https://app.streamingfast.net/uploads/channel/9_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech9.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH9AiPlusHaoYiShengDuanBan.tw",
+      "name": "GOOD TV CH9 愛+好醫生 短版",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH10 烤箱讀書會 短版",
+    "logo": "https://app.streamingfast.net/uploads/channel/10_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech10.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH10KaoXiangDuShuHuiDuanBan.tw",
+      "name": "GOOD TV CH10 烤箱讀書會 短版",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH12 維他命施",
+    "logo": "https://app.streamingfast.net/uploads/channel/12_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech12.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH12WeiTaMingShi.tw",
+      "name": "GOOD TV CH12 維他命施",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH13 健康新煮流 短版",
+    "logo": "https://app.streamingfast.net/uploads/channel/13_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech13.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH13JianKangXinZhuLiuDuanBan.tw",
+      "name": "GOOD TV CH13 健康新煮流 短版",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH14 真情部落格",
+    "logo": "https://app.streamingfast.net/uploads/channel/14_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech14.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH14ZhenQingBuLuoGe.tw",
+      "name": "GOOD TV CH14 真情部落格",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH15 真情之夜",
+    "logo": "https://app.streamingfast.net/uploads/channel/15_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech15.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH15ZhenQingZhiYe.tw",
+      "name": "GOOD TV CH15 真情之夜",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH16 葉光明",
+    "logo": "https://app.streamingfast.net/uploads/channel/16_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech16.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH16XieGuangMing.tw",
+      "name": "GOOD TV CH16 葉光明",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH17 大衛鮑森",
+    "logo": "https://app.streamingfast.net/uploads/channel/17_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech17.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH17DaWeiBaoSen.tw",
+      "name": "GOOD TV CH17 大衛鮑森",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH18 國際講員",
+    "logo": "https://app.streamingfast.net/uploads/channel/18_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech18.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH18GuoJiJiangYuan.tw",
+      "name": "GOOD TV CH18 國際講員",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH19 共享觀點",
+    "logo": "https://app.streamingfast.net/uploads/channel/19_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech19.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH19GongXiangGuanDian.tw",
+      "name": "GOOD TV CH19 共享觀點",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH20 恩典時分",
+    "logo": "https://app.streamingfast.net/uploads/channel/20_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech20.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH20EnDianShiFen.tw",
+      "name": "GOOD TV CH20 恩典時分",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH21 華語講員",
+    "logo": "https://app.streamingfast.net/uploads/channel/21_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech21.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH21HuaYuJiangYuan.tw",
+      "name": "GOOD TV CH21 華語講員",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH22 職場新視野",
+    "logo": "https://app.streamingfast.net/uploads/channel/22_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech22.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH22ZhiChangXinShiYe.tw",
+      "name": "GOOD TV CH22 職場新視野",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH23 空中主日學 生活",
+    "logo": "https://app.streamingfast.net/uploads/channel/23_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech23.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH23KongZhongZhuRiXueShengHuo.tw",
+      "name": "GOOD TV CH23 空中主日學 生活",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH24 劉三講古",
+    "logo": "https://app.streamingfast.net/uploads/channel/24_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech24.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Min Nan Chinese",
+        "code": "nan"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH24LiuSanJiangGu.tw",
+      "name": "GOOD TV CH24 劉三講古",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH25 福氣人生",
+    "logo": "https://app.streamingfast.net/uploads/channel/25_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech25.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Min Nan Chinese",
+        "code": "nan"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH25FuQiRenSheng.tw",
+      "name": "GOOD TV CH25 福氣人生",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH26 空中主日學 查經",
+    "logo": "https://app.streamingfast.net/uploads/channel/26_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech26.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH26KongZhongZhuRiXueChaJing.tw",
+      "name": "GOOD TV CH26 空中主日學 查經",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH27 空中聖經學院",
+    "logo": "https://app.streamingfast.net/uploads/channel/27_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech27.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH27KongZhongShengJingXueYuan.tw",
+      "name": "GOOD TV CH27 空中聖經學院",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH28 現代詩歌",
+    "logo": "https://app.streamingfast.net/uploads/channel/28_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech28.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH28XianDaiShiGe.tw",
+      "name": "GOOD TV CH28 現代詩歌",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH29 經典音樂河",
+    "logo": "https://app.streamingfast.net/uploads/channel/29_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech29.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH29JingDianYinLeHe.tw",
+      "name": "GOOD TV CH29 經典音樂河",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH30 天堂敬拜",
+    "logo": "https://app.streamingfast.net/uploads/channel/30_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech30.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH30TianTangJingBai.tw",
+      "name": "GOOD TV CH30 天堂敬拜",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH31 福音佈道音樂會",
+    "logo": "https://app.streamingfast.net/uploads/channel/31_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech31.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH31FuYinBuDaoYinLeHui.tw",
+      "name": "GOOD TV CH31 福音佈道音樂會",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH32 特會系列：禱告與轉化",
+    "logo": "https://app.streamingfast.net/uploads/channel/32_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech32.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH32TeHuiXiLieDaoGaoYuZhuanHua.tw",
+      "name": "GOOD TV CH32 特會系列：禱告與轉化",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH33 特會系列：研經培靈",
+    "logo": "https://app.streamingfast.net/uploads/channel/33_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech33.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH33TeHuiXiLieYanJingPeiLing.tw",
+      "name": "GOOD TV CH33 特會系列：研經培靈",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH36 特會系列：超自然大能．醫治釋放",
+    "logo": "https://app.streamingfast.net/uploads/channel/36_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech36.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH36TeHuiXiLieChaoZiRanDaNengYiZhiShiFang.tw",
+      "name": "GOOD TV CH36 特會系列：超自然大能．醫治釋放",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH37 特會系列：以色列專題",
+    "logo": "https://app.streamingfast.net/uploads/channel/37_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech37.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH37TeHuiXiLieYiSeLieZhuanTi.tw",
+      "name": "GOOD TV CH37 特會系列：以色列專題",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH38 特會系列：青年特會",
+    "logo": "https://app.streamingfast.net/uploads/channel/38_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech38.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH38TeHuiXiLieQingNianTeHui.tw",
+      "name": "GOOD TV CH38 特會系列：青年特會",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH40 家庭8點檔轉轉發現愛",
+    "logo": "https://app.streamingfast.net/uploads/channel/40_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech40.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH40JiaTing8DianDangZhuanZhuanFaXianAi.tw",
+      "name": "GOOD TV CH40 家庭8點檔轉轉發現愛",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH41 幸福學堂",
+    "logo": "https://app.streamingfast.net/uploads/channel/41_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech41.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH41XingFuXueTang.tw",
+      "name": "GOOD TV CH41 幸福學堂",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH44 烤箱讀書會",
+    "logo": "https://app.streamingfast.net/uploads/channel/44_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech44.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH44KaoXiangDuShuHui.tw",
+      "name": "GOOD TV CH44 烤箱讀書會",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH45 卡通",
+    "logo": "https://app.streamingfast.net/uploads/channel/45_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech45.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH45QiaTong.tw",
+      "name": "GOOD TV CH45 卡通",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH47 牧者頻道",
+    "logo": "https://app.streamingfast.net/uploads/channel/47_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech47.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH47MuZhePinDao.tw",
+      "name": "GOOD TV CH47 牧者頻道",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH49 禱告頻道",
+    "logo": "https://app.streamingfast.net/uploads/channel/49_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech49.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH49DaoGaoPinDao.tw",
+      "name": "GOOD TV CH49 禱告頻道",
+      "url": ""
+    }
+  },
+  {
+    "name": "GOOD TV CH50 國際講員 中文發音",
+    "logo": "https://app.streamingfast.net/uploads/channel/50_file.jpg",
+    "url": "https://live.streamingfast.net/osmflivech50.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GOODTVCH50GuoJiJiangYuanZhongWenFaYin.tw",
+      "name": "GOOD TV CH50 國際講員 中文發音",
+      "url": ""
+    }
+  },
+  {
+    "name": "GoodLife 45",
+    "logo": "https://i.imgur.com/t9xHfSV.png",
+    "url": "http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GoodLife45.us",
+      "name": "GoodLife 45",
+      "url": ""
+    }
+  },
+  {
+    "name": "Gospel Movie TV",
+    "logo": "https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png",
+    "url": "https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "GospelMovieTV.br",
+      "name": "Gospel Movie TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Gracia TV",
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg",
+    "url": "http://v3.tustreaming.cl/graciatv/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "GraciaTV.cl",
+      "name": "Gracia TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "GurSikh Sabha TV",
+    "logo": "https://i.imgur.com/2EKCtQm.png",
+    "url": "http://cdn12.henico.net:8080/live/gsctv/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "GurSikhSabhaTV.ca",
+      "name": "GurSikh Sabha TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hidabroot",
+    "logo": "https://i.imgur.com/wKi97Pg.png",
+    "url": "https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Israel",
+        "code": "IL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hebrew",
+        "code": "heb"
+      }
+    ],
+    "tvg": {
+      "id": "HidabrootChannel.il",
+      "name": "Hidabroot",
+      "url": ""
+    }
+  },
+  {
+    "name": "Himlen TV7",
+    "logo": "https://i.imgur.com/pW6pPFF.jpg",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Finland",
+        "code": "FI"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      },
+      {
+        "name": "Swedish",
+        "code": "swe"
+      }
+    ],
+    "tvg": {
+      "id": "HimlenTV7.fi",
+      "name": "Himlen TV7",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hope Channel International",
+    "logo": "https://i.imgur.com/pLeCUEV.png",
+    "url": "https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HopeChannelInternational.us",
+      "name": "Hope Channel International",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hope Channel Norge",
+    "logo": "https://i.imgur.com/pLeCUEV.png",
+    "url": "http://media1.adventist.no:1935/live/hope1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Norway",
+        "code": "NO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HopeChannelNorge.us",
+      "name": "Hope Channel Norge",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hope Channel Philippines",
+    "logo": "https://i.imgur.com/pLeCUEV.png",
+    "url": "https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Philippines",
+        "code": "PH"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HopeChannelPhilippines.us",
+      "name": "Hope Channel Philippines",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hosanna Vision",
+    "logo": "https://i.imgur.com/tUHkolc.png",
+    "url": "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Panama",
+        "code": "PA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "HosannaVision.pa",
+      "name": "Hosanna Vision",
+      "url": ""
+    }
+  },
+  {
+    "name": "I AM CHANNEL",
+    "logo": "https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040337.png",
+    "url": "http://iamchannel.org:1935/tes/1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "IAMCHANNEL.id",
+      "name": "I AM CHANNEL",
+      "url": ""
+    }
+  },
+  {
+    "name": "IBN TV",
+    "logo": "https://i.imgur.com/Wf2BlTG.png",
+    "url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IBNTV.tz",
+      "name": "IBN TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Icnet TV",
+    "logo": null,
+    "url": "http://51.210.199.7/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "IcnetTV.ir",
+      "name": "Icnet TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Iglesia Del Camino",
+    "logo": "http://www.iglesiadelcamino.org/images/logo.png",
+    "url": "http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "IglesiaDelCamino.gt",
+      "name": "Iglesia Del Camino",
+      "url": ""
+    }
+  },
+  {
+    "name": "IIPC TV",
+    "logo": "https://i.imgur.com/G7hGk8y.png",
+    "url": "https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IIPCTV.ca",
+      "name": "IIPC TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Imam Hussein TV",
+    "logo": "https://i.imgur.com/FPfq4O5.png",
+    "url": "https://fa.imamhusseintv.com/live/ih1.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "ImamHusseinTV.ir",
+      "name": "Imam Hussein TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Imam Hussein TV 1 Farsi",
+    "logo": "https://ihttps://www.dijlah.tv/templates/default-2/images/dlogo.png.imgur.com/ocyh4DD.jpg",
+    "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "ImamHusseinTV1Farsi.iq",
+      "name": "Imam Hussein TV 1 Farsi",
+      "url": ""
+    }
+  },
+  {
+    "name": "Imam Hussein TV 2 Arabic",
+    "logo": "https://i.imgur.com/ocyh4DD.jpg",
+    "url": "https://ar.imamhusseintv.com/live/ih201/index.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "ImamHusseinTV2Arabic.iq",
+      "name": "Imam Hussein TV 2 Arabic",
+      "url": ""
+    }
+  },
+  {
+    "name": "Imam Hussein TV 3 English",
+    "logo": "https://i.imgur.com/ocyh4DD.jpg",
+    "url": "https://live.imamhossaintv.com/live/ih3.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ImamHusseinTV3English.iq",
+      "name": "Imam Hussein TV 3 English",
+      "url": ""
+    }
+  },
+  {
+    "name": "Imam Hussein TV 4 Urdu",
+    "logo": "https://i.imgur.com/ocyh4DD.jpg",
+    "url": "https://ur.imamhusseintv.com/live/ih4.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Urdu",
+        "code": "urd"
+      }
+    ],
+    "tvg": {
+      "id": "ImamHusseinTV4Urdu.iq",
+      "name": "Imam Hussein TV 4 Urdu",
+      "url": ""
+    }
+  },
+  {
+    "name": "IMPD TV",
+    "logo": "https://i.imgur.com/D15qpCm.png",
+    "url": "https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "IMPDTV.br",
+      "name": "IMPD TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Inspiration TV",
+    "logo": "https://i.imgur.com/CQnD7yU.png",
+    "url": "https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "InspirationTV.us",
+      "name": "Inspiration TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Iqra Bangla",
+    "logo": "https://i.imgur.com/GK5BlnN.jpg",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IqraBangla.uk",
+      "name": "Iqra Bangla",
+      "url": ""
+    }
+  },
+  {
+    "name": "Iqra TV",
+    "logo": "https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png",
+    "url": "https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IqraTV.uk",
+      "name": "Iqra TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Iqraa",
+    "logo": "https://i.imgur.com/3bug9dU.png",
+    "url": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Iqraa.sa",
+      "name": "Iqraa",
+      "url": ""
+    }
+  },
+  {
+    "name": "Iqraa Europe Africa",
+    "logo": "https://i.imgur.com/3bug9dU.png",
+    "url": "https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IqraaEuropeAfrica.sa",
+      "name": "Iqraa Europe Africa",
+      "url": ""
+    }
+  },
+  {
+    "name": "Islam Channel",
+    "logo": "https://simplestream-portal.s3.eu-west-1.amazonaws.com/172/642f780c-islamtv.png",
+    "url": "https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IslamChannel.uk",
+      "name": "Islam Channel",
+      "url": "https://iptv-org.github.io/epg/guides/ao/dstv.com.epg.xml"
+    }
+  },
+  {
+    "name": "ISN",
+    "logo": "https://i.imgur.com/pmqYFk9.jpg",
+    "url": "https://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ISN.us",
+      "name": "ISN",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "JBS",
+    "logo": "https://i.imgur.com/pHJm3I0.png",
+    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "JBS.us",
+      "name": "JBS",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "Jewish Life TV",
+    "logo": "https://i.imgur.com/VEoLKzb.png",
+    "url": "https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "JewishLifeTV.us",
+      "name": "Jewish Life TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "JN19",
+    "logo": "https://graph.facebook.com/canaljn19tv/picture?width=320&height=320",
+    "url": "https://mediastreamm.com:3149/live/jn19tvlive.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "JN19.pe",
+      "name": "JN19",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Juventud Renovada en el Espiritu Santo",
+    "logo": "https://i.imgur.com/9Brfh2M.png",
+    "url": "http://teleredmcp.com:1935/jrestv/jrestv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "JuventudRenovadaenelEspirituSanto.us",
+      "name": "Juventud Renovada en el Espiritu Santo",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kaif TV",
+    "logo": "https://i.imgur.com/q2qHUKF.png",
+    "url": "http://82.212.74.2:8000/live/hls/7311.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "KaifTV.sa",
+      "name": "Kaif TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kalemeh TV",
+    "logo": "https://i.imgur.com/j4VjHWN.jpg",
+    "url": "http://184.75.208.98:1935/live/kalemeh/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KalemehTV.us",
+      "name": "Kalemeh TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kalemeh TV",
+    "logo": "https://i.imgur.com/HQjLbwm.png",
+    "url": "https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "KalemehTV.ir",
+      "name": "Kalemeh TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kalemeh TV",
+    "logo": null,
+    "url": "http://51.210.199.37/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "KalemehTV.uk",
+      "name": "Kalemeh TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Karbala TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/karbalaatv/live",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "KarbalaTV.iq",
+      "name": "Karbala TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kuriakos TV",
+    "logo": "https://i.imgur.com/M5i4hfh.png",
+    "url": "http://195.22.11.11:1935/ktv/ktv1/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "KuriakosTV.pt",
+      "name": "Kuriakos TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "La Luz TV",
+    "logo": "https://graph.facebook.com/LaLuzTv/picture?width=320&height=320",
+    "url": "http://ott.streann.com:8080/loadbalancer/services/public/channels/59ce7f292cdc7ba015a93b82/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "LaLuzTV.pe",
+      "name": "La Luz TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "LifevisionTV",
+    "logo": "https://i.imgur.com/pF6Wowj.jpg",
+    "url": "https://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LifevisionTV.us",
+      "name": "LifevisionTV",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Local Now Inspiration",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/6019e7e94284092f43126172",
+    "url": "https://linear-134.frequency.stream/dist/localnow/134/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowInspiration.us",
+      "name": "Local Now Inspiration",
+      "url": ""
+    }
+  },
+  {
+    "name": "Logos TV",
+    "logo": "https://logoschannel.com/images/logo.png",
+    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "LogosTV.us",
+      "name": "Logos TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Logos TV English",
+    "logo": "https://logoschannel.com/images/logo.png",
+    "url": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LogosTVEnglish.us",
+      "name": "Logos TV English",
+      "url": ""
+    }
+  },
+  {
+    "name": "Loveworld TV",
+    "logo": "https://i.imgur.com/6orW2BN.png",
+    "url": "https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Loveworld.uk",
+      "name": "Loveworld TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Madani Channel Bangla",
+    "logo": "https://madanichannel.tv/img/madani-channel-logo.png",
+    "url": "https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madanitvbangla.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bengali",
+        "code": "ben"
+      }
+    ],
+    "tvg": {
+      "id": "MadaniChannelBangla.pk",
+      "name": "Madani Channel Bangla",
+      "url": ""
+    }
+  },
+  {
+    "name": "Madani Channel Urdu",
+    "logo": "https://madanichannel.tv/img/madani-channel-logo.png",
+    "url": "https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Urdu",
+        "code": "urd"
+      }
+    ],
+    "tvg": {
+      "id": "MadaniChannelUrdu.pk",
+      "name": "Madani Channel Urdu",
+      "url": ""
+    }
+  },
+  {
+    "name": "Majestad Televisión",
+    "logo": null,
+    "url": "https://5b3050bb1b2d8.streamlock.net/majestadtv/majestadtv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "MajestadTelevision.us",
+      "name": "Majestad Televisión",
+      "url": ""
+    }
+  },
+  {
+    "name": "Makkah TV",
+    "logo": "https://i.imgur.com/5p2yUBb.png",
+    "url": "http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MakkahTV.sa",
+      "name": "Makkah TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "María Visión Mexico",
+    "logo": "https://i.imgur.com/bLSCeSB.png",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Mexico",
+        "code": "MX"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "MariaVisionMexico.mx",
+      "name": "María Visión Mexico",
+      "url": ""
+    }
+  },
+  {
+    "name": "Marjaeyat",
+    "logo": null,
+    "url": "https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "Marjaeyat.ir",
+      "name": "Marjaeyat",
+      "url": ""
+    }
+  },
+  {
+    "name": "MESat",
+    "logo": "https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MESat.eg",
+      "name": "MESat",
+      "url": ""
+    }
+  },
+  {
+    "name": "Mission TV",
+    "logo": "https://i.imgur.com/1qJkLDZ.png",
+    "url": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MissionTV.us",
+      "name": "Mission TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Mohabat TV",
+    "logo": "https://i.imgur.com/espyPNl.png",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "MohabatTV.ir",
+      "name": "Mohabat TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nazarenas TV",
+    "logo": "https://graph.facebook.com/nazarenastv/picture?width=320&height=320",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "NazarenasTV.pe",
+      "name": "Nazarenas TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Noor Al-Sham",
+    "logo": "https://i.imgur.com/Dy2Eo33.png",
+    "url": "http://82.137.248.16:1935/Nour/stream19042021/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Syria",
+        "code": "SY"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NoorAlSham.sy",
+      "name": "Noor Al-Sham",
+      "url": ""
+    }
+  },
+  {
+    "name": "Noor TV",
+    "logo": "https://i.imgur.com/oeV42l0.jpg",
+    "url": "https://ls1.serverdump.com/stream3.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Pashto",
+        "code": "pus"
+      }
+    ],
+    "tvg": {
+      "id": "NoorTV.uk",
+      "name": "Noor TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nour",
+    "logo": null,
+    "url": "https://cdn.videoevent.live:19360/elfaro4/elfaro4.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "Nour.ir",
+      "name": "Nour",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nour Al Koddas",
+    "logo": "https://i.imgur.com/5VvPLEl.jpg",
+    "url": "https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NourAlKoddas.lb",
+      "name": "Nour Al Koddas",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nour Al Sharq",
+    "logo": "https://i.imgur.com/hiAwky4.jpg",
+    "url": "https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NourAlSharq.lb",
+      "name": "Nour Al Sharq",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nour Mariam",
+    "logo": "https://i.imgur.com/Ow5Lqh6.jpg",
+    "url": "https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NourMariam.lb",
+      "name": "Nour Mariam",
+      "url": ""
+    }
+  },
+  {
+    "name": "NourSAT",
+    "logo": "https://i.imgur.com/QrwZu4W.png",
+    "url": "https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NourSAT.lb",
+      "name": "NourSAT",
+      "url": ""
+    }
+  },
+  {
+    "name": "Novo Tempo",
+    "logo": "https://i.imgur.com/exdDHml.png",
+    "url": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "NovoTempo.br",
+      "name": "Novo Tempo",
+      "url": ""
+    }
+  },
+  {
+    "name": "NRB TV",
+    "logo": "https://i.imgur.com/S3Ujv10.png",
+    "url": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NRBTV.us",
+      "name": "NRB TV",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "Nuevo Tiempo",
+    "logo": "https://i.imgur.com/exdDHml.png",
+    "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "NuevoTiempo.br",
+      "name": "Nuevo Tiempo",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pax TV",
+    "logo": "https://i.imgur.com/B89KuHO.png",
+    "url": "https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PaxTV.pe",
+      "name": "Pax TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Payvand TV",
+    "logo": "http://nebula.wsimg.com/e903234fabf798439adab0207277eb7b?AccessKeyId=2686ECEA8341253D570E&disposition=0&alloworigin=1",
+    "url": "https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Religious",
+        "slug": "religious"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PayvandTV.ir",
+      "name": "Payvand TV",
+      "url": ""
+    }
+  }
+]

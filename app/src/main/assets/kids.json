@@ -1,0 +1,6585 @@
+[
+  {
+    "name": "A vida moderna de Rocko",
+    "logo": "https://images.pluto.tv/channels/5f6df6293a12e10007017396/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "AVidaModernaDeRocko.br",
+      "name": "A vida moderna de Rocko",
+      "url": ""
+    }
+  },
+  {
+    "name": "ABC Kids",
+    "logo": "https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e",
+    "url": "https://c.mjh.nz/101002210222",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Australia",
+        "code": "AU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ABCKids.au",
+      "name": "ABC Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Afarin TV",
+    "logo": "https://i.imgur.com/Uw4DX17.png",
+    "url": "https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kurdish",
+        "code": "kur"
+      }
+    ],
+    "tvg": {
+      "id": "AfarinTV.iq",
+      "name": "Afarin TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Akaram Kidz",
+    "logo": "https://i.imgur.com/hAgaVPa.jpg",
+    "url": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "AkaramKidz.in",
+      "name": "Akaram Kidz",
+      "url": ""
+    }
+  },
+  {
+    "name": "ARB Günəş",
+    "logo": "https://gunesh.arbtv.az/assets/uploads/sites/arb_gunesh.png",
+    "url": "http://149.255.152.199/arbgunes.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Azerbaijani",
+        "code": "aze"
+      }
+    ],
+    "tvg": {
+      "id": "ARBGunes.az",
+      "name": "ARB Günəş",
+      "url": "https://iptv-org.github.io/epg/guides/az/tv.mail.ru.epg.xml"
+    }
+  },
+  {
+    "name": "As Aventuras de Jackie Chan",
+    "logo": "https://images.pluto.tv/channels/6079c1539b05aa0007a57495/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "AsAventurasDeJackieChan.br",
+      "name": "As Aventuras de Jackie Chan",
+      "url": ""
+    }
+  },
+  {
+    "name": "As Pistas de Blue",
+    "logo": "https://images.pluto.tv/channels/5f99aad4e82db50007fac4b2/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "AsPistasDeBlue.br",
+      "name": "As Pistas de Blue",
+      "url": ""
+    }
+  },
+  {
+    "name": "Atfal Wa Mawaheb",
+    "logo": "https://atfal1.com/wp-content/uploads/2018/02/logo.png",
+    "url": "https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AtfalWaMawaheb.sa",
+      "name": "Atfal Wa Mawaheb",
+      "url": ""
+    }
+  },
+  {
+    "name": "Baby TV",
+    "logo": "https://i.imgur.com/9sWVrgR.png",
+    "url": "http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "BabyTV.ru",
+      "name": "Baby TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Babyfirst",
+    "logo": "https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "Babyfirst.br",
+      "name": "Babyfirst",
+      "url": ""
+    }
+  },
+  {
+    "name": "BabyFirst TV",
+    "logo": "https://zap2it.tmsimg.com/h3/NowShowing/50338/s50338_h3_aa.png",
+    "url": "https://babyfirst.akamaized.net/hls/live/2028842/bftvusaott/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BabyFirstTV.us",
+      "name": "BabyFirst TV",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "Bang Bang",
+    "logo": "https://i.imgur.com/TD4J83Q.png",
+    "url": "http://93.157.62.180/BangBang/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Albania",
+        "code": "AL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Albanian",
+        "code": "sqi"
+      }
+    ],
+    "tvg": {
+      "id": "BangBang.al",
+      "name": "Bang Bang",
+      "url": "https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml"
+    }
+  },
+  {
+    "name": "Battery Pop (XUMO)",
+    "logo": "https://i.imgur.com/5VUZTa1.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BatteryPopXUMO.us",
+      "name": "Battery Pop (XUMO)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bob l'éponge+",
+    "logo": "https://i.imgur.com/Teb0Ty0.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc9fd0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195dd54b-932b-4f28-be70-7e736585335a",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Boblepongeplus.us",
+      "name": "Bob l'éponge+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Boing France",
+    "logo": "https://i.imgur.com/mIbmYs1.png",
+    "url": "http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "BoingFrance.it",
+      "name": "Boing France",
+      "url": "https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml"
+    }
+  },
+  {
+    "name": "Boomerang Latinoamérica",
+    "logo": null,
+    "url": "http://45.5.8.78:8000/play/a00i",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "BoomerangLatinoamerica.us",
+      "name": "Boomerang Latinoamérica",
+      "url": ""
+    }
+  },
+  {
+    "name": "Brat TV",
+    "logo": "https://i.imgur.com/lhjj94a.png",
+    "url": "https://brat-rakuten.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BratTV.us",
+      "name": "Brat TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Country Boy Kids Video",
+    "logo": "https://i.imgur.com/p14DjHo.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVCountryBoyKidsVideo.us",
+      "name": "Bumblebee TV Country Boy Kids Video",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Cute Zone",
+    "logo": "https://i.imgur.com/unYHTWg.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVCuteZone.us",
+      "name": "Bumblebee TV Cute Zone",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV FGTV",
+    "logo": "https://i.imgur.com/uRess78.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVFGTV.us",
+      "name": "Bumblebee TV FGTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Fun Zone",
+    "logo": "https://i.imgur.com/SfJuMjV.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVFunZone.us",
+      "name": "Bumblebee TV Fun Zone",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Giggle Zone",
+    "logo": "https://i.imgur.com/CvbLApY.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVGiggleZone.us",
+      "name": "Bumblebee TV Giggle Zone",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Lego Toons",
+    "logo": "https://i.imgur.com/dxHOu8m.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVLegoToons.us",
+      "name": "Bumblebee TV Lego Toons",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Lets Play Minecraft",
+    "logo": "https://i.imgur.com/EqvWDU4.jpg",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVLetsPlayMinecraft.us",
+      "name": "Bumblebee TV Lets Play Minecraft",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Master Builder",
+    "logo": "https://i.imgur.com/KQsAdB4.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVMasterBuilder.us",
+      "name": "Bumblebee TV Master Builder",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Toy Zone",
+    "logo": "https://i.imgur.com/uRxkOD1.jpg",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVToyZone.us",
+      "name": "Bumblebee TV Toy Zone",
+      "url": ""
+    }
+  },
+  {
+    "name": "Camp Spoopy",
+    "logo": "https://i.imgur.com/t3Jsks7.png",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CampSpoopy.us",
+      "name": "Camp Spoopy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cartoon Network Arabic",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png",
+    "url": "https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "CartoonNetworkArabic.us",
+      "name": "Cartoon Network Arabic",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cartoon Network India",
+    "logo": "https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png",
+    "url": "http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "CartoonNetworkIndia.us",
+      "name": "Cartoon Network India",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cartoon Network Vietnam",
+    "logo": "https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png",
+    "url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Vietnamese",
+        "code": "vie"
+      }
+    ],
+    "tvg": {
+      "id": "CartoonNetworkVietnam.us",
+      "name": "Cartoon Network Vietnam",
+      "url": ""
+    }
+  },
+  {
+    "name": "Chinola TV",
+    "logo": "https://i.imgur.com/axesNOe.png",
+    "url": "https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ChinolaTV.do",
+      "name": "Chinola TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cocoro",
+    "logo": "https://i.imgur.com/Z4hIjPn.jpg",
+    "url": "https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Cocoro.us",
+      "name": "Cocoro",
+      "url": ""
+    }
+  },
+  {
+    "name": "Çufo",
+    "logo": "https://i.imgur.com/cjVAXnZ.png",
+    "url": "http://93.157.62.180/Cufo/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Albania",
+        "code": "AL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Albanian",
+        "code": "sqi"
+      }
+    ],
+    "tvg": {
+      "id": "Cufo.al",
+      "name": "Çufo",
+      "url": "https://iptv-org.github.io/epg/guides/al/ipko.com.epg.xml"
+    }
+  },
+  {
+    "name": "Duck TV",
+    "logo": "https://i.imgur.com/Qw8x6Os.png",
+    "url": "https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DuckTV.sk",
+      "name": "Duck TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "EBS KIDS",
+    "logo": "https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png",
+    "url": "http://ebsonair.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "South Korea",
+        "code": "KR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Korean",
+        "code": "kor"
+      }
+    ],
+    "tvg": {
+      "id": "EBSKIDS.kr",
+      "name": "EBS KIDS",
+      "url": ""
+    }
+  },
+  {
+    "name": "Enki Benki",
+    "logo": "https://i.imgur.com/RJAT25i.jpg",
+    "url": "http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Georgia",
+        "code": "GE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Georgian",
+        "code": "kat"
+      }
+    ],
+    "tvg": {
+      "id": "EnkiBenki.ge",
+      "name": "Enki Benki",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+
+  {
+    "name": "Pluto TV Junior",
+    "logo": "https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVJunior.br",
+      "name": "Pluto TV Junior",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Junior",
+    "logo": "https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVJunior.us",
+      "name": "Pluto TV Junior",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids",
+    "logo": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKids.us",
+      "name": "Pluto TV Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids",
+    "logo": "https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKids.br",
+      "name": "Pluto TV Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids (Spain)",
+    "logo": "https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aab1d29b39600073e243f&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=910&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKidsSpain.us",
+      "name": "Pluto TV Kids (Spain)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids Animation",
+    "logo": "https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKidsAnimation.us",
+      "name": "Pluto TV Kids Animation",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids Collection",
+    "logo": "https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKidsCollection.us",
+      "name": "Pluto TV Kids Collection",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids Halloween",
+    "logo": "https://images.pluto.tv/channels/5f1abeb21044ee0007f19d33/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKidsHalloween.us",
+      "name": "Pluto TV Kids Halloween",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids Séries",
+    "logo": "https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKidsSeries.us",
+      "name": "Pluto TV Kids Séries",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Kids Séries+",
+    "logo": "https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89d040-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f06f039-4f3e-499b-a415-5cf7148a64d7",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVKidsSeriesPlus.us",
+      "name": "Pluto TV Kids Séries+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick",
+    "logo": "https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2b57d6c60800074cb305/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2b57d6c60800074cb305&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=19a8ba6e-9713-4df0-83d9-93dd72c984f0&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNick.us",
+      "name": "Pluto TV Nick",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick",
+    "logo": "http://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNICK.us",
+      "name": "Pluto TV Nick",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick (Germany)",
+    "logo": "https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ede448d3d50590007a4419e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=261&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickGermany.us",
+      "name": "Pluto TV Nick (Germany)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Clásico",
+    "logo": "https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickClasico.us",
+      "name": "Pluto TV Nick Clásico",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Emma einfach magisch!",
+    "logo": "https://images.pluto.tv/channels/5f4796368174910007756454/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickEmmaeinfachmagisch.us",
+      "name": "Pluto TV Nick Emma einfach magisch!",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Jr.",
+    "logo": "http://images.pluto.tv/channels/5ca6748a37b88b269472dad9/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede45451dce190007ef9ff2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede45451dce190007ef9ff2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=d1d4cf70-0714-11eb-a59f-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickJr.us",
+      "name": "Pluto TV Nick Jr.",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Jr. Club",
+    "logo": "https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickJrClub.us",
+      "name": "Pluto TV Nick Jr. Club",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Jr. Club (Brazil)",
+    "logo": "https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f121460b73ac6000719fbaf&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=706&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickJuniorClubBrazil.us",
+      "name": "Pluto TV Nick Jr. Club (Brazil)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Jr. Latino",
+    "logo": "http://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickJrLatino.us",
+      "name": "Pluto TV Nick Jr. Latino",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Latino",
+    "logo": "https://images.pluto.tv/channels/5ede448d3d50590007a4419e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickLatino.us",
+      "name": "Pluto TV Nick Latino",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Nick Rewind",
+    "logo": "https://images.pluto.tv/channels/5ed106ce4bf2e80007700bb3/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNickRewind.us",
+      "name": "Pluto TV Nick Rewind",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Pluto After School Cartoons",
+    "logo": null,
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=56171fafada51f8004c4b40f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=990&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVPlutoAfterSchoolCartoons.us",
+      "name": "Pluto TV Pluto After School Cartoons",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Retro Toons",
+    "logo": "https://images.pluto.tv/channels/5c5c2b9d8002db3c3e0b1c6d/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVRetroToons.us",
+      "name": "Pluto TV Retro Toons",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Rugrats",
+    "logo": "https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVRugrats.us",
+      "name": "Pluto TV Rugrats",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Rugrats Crecidos",
+    "logo": "https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVRugratsCrecidos.us",
+      "name": "Pluto TV Rugrats Crecidos",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Sam & Cat",
+    "logo": "https://images.pluto.tv/channels/5e8b5ba20af628000707cee3/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5ba20af628000707cee3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVSamCat.us",
+      "name": "Pluto TV Sam & Cat",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Teen",
+    "logo": "https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTeen.us",
+      "name": "Pluto TV Teen",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV TEEN SERIES",
+    "logo": "https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTEENSERIES.us",
+      "name": "Pluto TV TEEN SERIES",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Teen Stars",
+    "logo": "https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTeenStars.us",
+      "name": "Pluto TV Teen Stars",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV TeenNick",
+    "logo": null,
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTeenNick.us",
+      "name": "Pluto TV TeenNick",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Toons Clásico",
+    "logo": "http://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVToonsClasico.us",
+      "name": "Pluto TV Toons Clásico",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Totally Turtles",
+    "logo": "http://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d6792bd6be2998ad0ccce30&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ca4dc680-0715-11eb-aeab-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTotallyTurtles.us",
+      "name": "Pluto TV Totally Turtles",
+      "url": ""
+    }
+  },
+  {
+    "name": "Radost Moya",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a000001704427a91257203d4045e4fd2f2e/170x100",
+    "url": "http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "RadostMoya.ru",
+      "name": "Radost Moya",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rotana Kids",
+    "logo": "https://rotana.net/assets/themes/TriTheme/images/channels/kids.png",
+    "url": "https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "RotanaKids.sa",
+      "name": "Rotana Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "SAT-7 KIDS",
+    "logo": null,
+    "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "SAT7KIDS.cy",
+      "name": "SAT-7 KIDS",
+      "url": ""
+    }
+  },
+  {
+    "name": "SEO TV Kids",
+    "logo": "https://graph.facebook.com/Seo.Tv.sat/picture?width=300&height=300",
+    "url": "https://seo.tv.bo/tv/kids.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "SEOTVKids.bo",
+      "name": "SEO TV Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "SKWAD",
+    "logo": "https://i.imgur.com/sv7WkKe.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Skwad.us",
+      "name": "SKWAD",
+      "url": ""
+    }
+  },
+  {
+    "name": "Toon Goggles",
+    "logo": "https://i.imgur.com/oyIMxzM.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ToonGoggles.us",
+      "name": "Toon Goggles",
+      "url": ""
+    }
+  },
+  {
+    "name": "Toonix",
+    "logo": null,
+    "url": "http://51.210.227.134/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "Toonix.ir",
+      "name": "Toonix",
+      "url": ""
+    }
+  },
+  {
+    "name": "Toyor Al-Jannah",
+    "logo": "https://i.postimg.cc/bNTHzP5g/toyor-al-janah.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/toyorlive/live",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Jordan",
+        "code": "JO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "ToyorAlJannah.jo",
+      "name": "Toyor Al-Jannah",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "France 4",
+    "logo": "https://i.postimg.cc/4x58Zkcg/fr4.png",
+    "url": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "France4.fr",
+      "name": "France 4",
+      "url": "https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml"
+    }
+  },
+  {
+    "name": "Gravity Fouls",
+    "logo": null,
+    "url": "https://v3.catcast.tv/content/38105/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Antarctica",
+        "code": "AQ"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW"
+      },
+      {
+        "name": "Åland",
+        "code": "AX"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "code": "BL"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Bonaire",
+        "code": "BQ"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Bouvet Island",
+        "code": "BV"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      },
+      {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Curacao",
+        "code": "CW"
+      },
+      {
+        "name": "Christmas Island",
+        "code": "CX"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Falkland Islands",
+        "code": "FK"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "French Guiana",
+        "code": "GF"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "code": "IO"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Saint Martin",
+        "code": "MF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Macao",
+        "code": "MO"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Sint Maarten",
+        "code": "SX"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM"
+      },
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "VG"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "code": "VI"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      },
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "GravityFouls.ru",
+      "name": "Gravity Fouls",
+      "url": ""
+    }
+  },
+  {
+    "name": "Gulli",
+    "logo": "https://i.imgur.com/mMWq0Kn.png",
+    "url": "https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "Gulli.fr",
+      "name": "Gulli",
+      "url": "https://iptv-org.github.io/epg/guides/bl/canalplus-caraibes.com.epg.xml"
+    }
+  },
+  {
+    "name": "Gulli Bil Arabi",
+    "logo": "https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png",
+    "url": "https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "GulliBilArabi.fr",
+      "name": "Gulli Bil Arabi",
+      "url": ""
+    }
+  },
+  {
+    "name": "Gulli Girl",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/51763/2a000001659f94a58c4010a1851980b99d4d/160x160",
+    "url": "http://188.40.68.167/russia/gulli_girl/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "GulliGirl.fr",
+      "name": "Gulli Girl",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "HappyKids",
+    "logo": "http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116",
+    "url": "https://happykids-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HappyKids.us",
+      "name": "HappyKids",
+      "url": ""
+    }
+  },
+  {
+    "name": "HappyKids Junior",
+    "logo": "http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116",
+    "url": "https://happykidsjunior-vizio.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HappyKidsJunior.us",
+      "name": "HappyKids Junior",
+      "url": ""
+    }
+  },
+  {
+    "name": "IGN TV",
+    "logo": "https://od.lk/s/MF8yMzA3OTUzNTVf/IGN_512x512.png",
+    "url": "https://ign-sportstribal.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IGNTV.us",
+      "name": "IGN TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "JimJam Россия",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016a8c5ad959476a67bab7ba71792c/160x120",
+    "url": "http://188.40.68.167/russia/jimjam/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "JimJamRossiya.uk",
+      "name": "JimJam Россия",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "kabillion",
+    "logo": "https://i.imgur.com/2Ybvtlg.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "kabillion.us",
+      "name": "kabillion",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kartoon Circus",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KartoonFunTime_209x209.png?raw=true",
+    "url": "https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KartoonCircus.us",
+      "name": "Kartoon Circus",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kids TV",
+    "logo": "https://i.imgur.com/7sUmqv2.png",
+    "url": "http://wpso.com:1936/hls/kidshd.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Greece",
+        "code": "GR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Greek",
+        "code": "ell"
+      }
+    ],
+    "tvg": {
+      "id": "KidsTV.gr",
+      "name": "Kids TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "KidsClick",
+    "logo": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/KidsClick.png",
+    "url": "https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KidsClick.us",
+      "name": "KidsClick",
+      "url": ""
+    }
+  },
+  {
+    "name": "KidsFlix",
+    "logo": "https://i.imgur.com/ZbAVzad.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KidsFlix.us",
+      "name": "KidsFlix",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kinder TV",
+    "logo": null,
+    "url": "https://v3.catcast.tv/content/38144/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Antarctica",
+        "code": "AQ"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW"
+      },
+      {
+        "name": "Åland",
+        "code": "AX"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "code": "BL"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Bonaire",
+        "code": "BQ"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Bouvet Island",
+        "code": "BV"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      },
+      {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Curacao",
+        "code": "CW"
+      },
+      {
+        "name": "Christmas Island",
+        "code": "CX"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Falkland Islands",
+        "code": "FK"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "French Guiana",
+        "code": "GF"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "code": "IO"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Saint Martin",
+        "code": "MF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Macao",
+        "code": "MO"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Sint Maarten",
+        "code": "SX"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM"
+      },
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "VG"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "code": "VI"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      },
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Ukrainian",
+        "code": "ukr"
+      },
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "KinderTV.ua",
+      "name": "Kinder TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Knowledge",
+    "logo": "https://i.imgur.com/kdgMVOI.png",
+    "url": "http://knstream1.azureedge.net/knlive/knlive_high.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Knowledge.ca",
+      "name": "Knowledge",
+      "url": ""
+    }
+  },
+  {
+    "name": "Koogi TV",
+    "logo": "https://i.imgur.com/I5A1mMZ.jpg",
+    "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "KoogiTV.eg",
+      "name": "Koogi TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kuriakos Kids",
+    "logo": "https://i.imgur.com/aNVzKYJ.png",
+    "url": "http://c2.manasat.com:1935/kkids/kkids3/master.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "KuriakosKids.pt",
+      "name": "Kuriakos Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Lale",
+    "logo": null,
+    "url": "http://stream.atr.ua/lale/live/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Ukrainian",
+        "code": "ukr"
+      }
+    ],
+    "tvg": {
+      "id": "Lale.ua",
+      "name": "Lale",
+      "url": ""
+    }
+  },
+  {
+    "name": "Lego Channel",
+    "logo": "https://i.imgur.com/xePwW13.png",
+    "url": "https://legochannel-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LegoChannel.us",
+      "name": "Lego Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "LEGO Channels",
+    "logo": "https://i.imgur.com/xePwW13.png",
+    "url": "https://legochannel-vizio.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LEGOChannel.us",
+      "name": "LEGO Channels",
+      "url": ""
+    }
+  },
+  {
+    "name": "Majid TV",
+    "logo": "https://i.imgur.com/9Bun2IX.png",
+    "url": "https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MajidTV.ae",
+      "name": "Majid TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "MBC 3",
+    "logo": "https://i.imgur.com/FVNVC73.png",
+    "url": "https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MBC3.ae",
+      "name": "MBC 3",
+      "url": ""
+    }
+  },
+  {
+    "name": "MBC 3 EUR",
+    "logo": "https://i.imgur.com/FVNVC73.png",
+    "url": "https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MBC3EUR.ae",
+      "name": "MBC 3 EUR",
+      "url": ""
+    }
+  },
+  {
+    "name": "MBC 3 USA",
+    "logo": "https://i.imgur.com/FVNVC73.png",
+    "url": "https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MBC3USA.ae",
+      "name": "MBC 3 USA",
+      "url": ""
+    }
+  },
+  {
+    "name": "Moonbug Kids",
+    "logo": "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/07212020/circle_190x190.png?raw=true",
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MoonbugKids.uk",
+      "name": "Moonbug Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "New Kid TV",
+    "logo": "https://i.imgur.com/Z5t6cCe.jpg",
+    "url": "https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NewKidTV.us",
+      "name": "New Kid TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nick Clássico",
+    "logo": "https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "NickClassico.br",
+      "name": "Nick Clássico",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nick Jr Too UK",
+    "logo": "http://neczbm.to/images/channels/NickJrToo.png",
+    "url": "http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NickJrTooUK.us",
+      "name": "Nick Jr Too UK",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nick Jr. Club",
+    "logo": "https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "NickJrClub.br",
+      "name": "Nick Jr. Club",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nickelodeon Australia",
+    "logo": "https://static.epg.best/au/Nickelodeon.au.png",
+    "url": "http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NickelodeonAustralia.us",
+      "name": "Nickelodeon Australia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nickelodeon East",
+    "logo": "https://i.imgur.com/ufHOxMN.png",
+    "url": "http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NickelodeonEast.us",
+      "name": "Nickelodeon East",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "O Reino Infantil",
+    "logo": "https://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "OReinoInfantil.br",
+      "name": "O Reino Infantil",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pakapaka",
+    "logo": "https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s400-c-k-c0x00ffffff-no-rj",
+    "url": "https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Pakapaka.ar",
+      "name": "Pakapaka",
+      "url": "https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml"
+    }
+  },
+  {
+    "name": "Pinkfong Baby Shark",
+    "logo": "https://i.imgur.com/1MGJg18.jpg",
+    "url": "https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PinkfongBabyShark.us",
+      "name": "Pinkfong Baby Shark",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV After School Cartoons",
+    "logo": "http://images.pluto.tv/channels/56171fafada51f8004c4b40f/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAfterSchoolCartoons.us",
+      "name": "Pluto TV After School Cartoons",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animakids",
+    "logo": "https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimakids.us",
+      "name": "Pluto TV Animakids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animakids (Spain)",
+    "logo": "https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimakidsSpain.us",
+      "name": "Pluto TV Animakids (Spain)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Animakids Plus",
+    "logo": "https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAnimakidsPlus.us",
+      "name": "Pluto TV Animakids Plus",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Beyblade Burst Nick",
+    "logo": "https://images.pluto.tv/channels/5e8b551ddcd25500072c4dad/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBeybladeBurstNick.us",
+      "name": "Pluto TV Beyblade Burst Nick",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Blaze Nick",
+    "logo": "https://images.pluto.tv/channels/5e8b60419becf60008c841fd/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBlazeNick.us",
+      "name": "Pluto TV Blaze Nick",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Blue's Clues Nick",
+    "logo": "https://images.pluto.tv/channels/5e8b564ff59d130007363823/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBluesCluesNick.us",
+      "name": "Pluto TV Blue's Clues Nick",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Bob Esponja",
+    "logo": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBobEsponja.us",
+      "name": "Pluto TV Bob Esponja",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Bob Esponja Plus",
+    "logo": "https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBobEsponjaPlus.us",
+      "name": "Pluto TV Bob Esponja Plus",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Bob l'éponge",
+    "logo": "https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBobleponge.us",
+      "name": "Pluto TV Bob l'éponge",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Bubble Guppies",
+    "logo": "https://images.pluto.tv/channels/5e8b5a4bb7da5c0007e5c9e9/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBubbleGuppies.us",
+      "name": "Pluto TV Bubble Guppies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Classic Toons TV",
+    "logo": "http://images.pluto.tv/channels/562ea53fa9060c5a7d463e74/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=562ea53fa9060c5a7d463e74&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=548&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVClassicToonsTV.us",
+      "name": "Pluto TV Classic Toons TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Dora TV",
+    "logo": "https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e43c344b54fe800093552f4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e43c344b54fe800093552f4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c28ebf75-0713-11eb-97af-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDoraTV.us",
+      "name": "Pluto TV Dora TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Garfield",
+    "logo": "https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVGarfield.us",
+      "name": "Pluto TV Garfield",
+      "url": ""
+    }
+  },
+
+  {
+  "name": "Смайлик ТВ",
+  "logo": "http://smilik.tv/wp-content/uploads/2016/02/Desktop_-1.png",
+  "url": "http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Kids",
+      "slug": "kids"
+    }
+  ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "SmaylikTV.ru",
+      "name": "Смайлик ТВ",
+      "url": ""
+    }
+  },
+  {
+    "name": "СТС Kids",
+    "logo": "https://i.imgur.com/knWklye.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "CTCKids.ru",
+      "name": "СТС Kids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Тамыр",
+    "logo": "https://i.imgur.com/ySedtZl.png",
+    "url": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bashkir",
+        "code": "bak"
+      }
+    ],
+    "tvg": {
+      "id": "Tamyr.ru",
+      "name": "Тамыр",
+      "url": ""
+    }
+  },
+  {
+    "name": "北京卡酷少儿",
+    "logo": "",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "BeiJingQiaKuShaoEr.cn",
+      "name": "北京卡酷少儿",
+      "url": ""
+    }
+  },
+  {
+    "name": "哈哈炫动卫视",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png",
+    "url": "http://210.210.155.35/qwr9ew/s/s50/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "HaHaXuanDong.cn",
+      "name": "哈哈炫动卫视",
+      "url": ""
+    }
+  },
+  {
+    "name": "嘉佳卡通",
+    "logo": "http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png",
+    "url": "http://223.110.245.139/PLTV/4/224/3221227009/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "JiaJiaQiaTong.cn",
+      "name": "嘉佳卡通",
+      "url": ""
+    }
+  },
+  {
+    "name": "炫动卡通",
+    "logo": "",
+    "url": "http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "XuanDongQiaTong.cn",
+      "name": "炫动卡通",
+      "url": ""
+    }
+  },
+  {
+    "name": "福州少儿",
+    "logo": null,
+    "url": "http://live.zohi.tv/video/s10001-sepd-4/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "FuZhouShaoEr.cn",
+      "name": "福州少儿",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Hi Tops",
+    "logo": "https://i.imgur.com/pXOyNEy.png",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSHiTops.us",
+      "name": "TVS Hi Tops",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Pinball Network",
+    "logo": "https://i.imgur.com/pXOyNEy.png",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSPinballNetwork.us",
+      "name": "TVS Pinball Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Канал Disney",
+    "logo": "https://i.imgur.com/Q9KoVy9.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "KanalDisney.us",
+      "name": "Канал Disney",
+      "url": ""
+    }
+  },
+  {
+    "name": "Любимое.ТВ",
+    "logo": null,
+    "url": "https://strm.yandex.ru/kal/lovedtv/lovedtv0.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "LyubimoeTV.ru",
+      "name": "Любимое.ТВ",
+      "url": ""
+    }
+  },
+  {
+    "name": "Мультиландия",
+    "logo": "https://i.imgur.com/OwA1zSH.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Multilandiya.ru",
+      "name": "Мультиландия",
+      "url": ""
+    }
+  },
+  {
+    "name": "О!",
+    "logo": null,
+    "url": "https://sc.id-tv.kz/o.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "O.ru",
+      "name": "О!",
+      "url": ""
+    }
+  },
+  {
+    "name": "Turma da Mônica",
+    "logo": "https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TurmaDaMonica.br",
+      "name": "Turma da Mônica",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVOKids",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/512px-Tvokids-logo.svg.png",
+    "url": "https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVOKids.ca",
+      "name": "TVOKids",
+      "url": ""
+    }
+  },
+  {
+    "name": "Watch It Kid",
+    "logo": "https://i.imgur.com/DAhbkLv.png",
+    "url": "https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WatchItKid.us",
+      "name": "Watch It Kid",
+      "url": ""
+    }
+  },
+  {
+    "name": "Yo Gabba Gabba!",
+    "logo": "https://i.imgur.com/RwxgFfb.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "YoGabbaGabba.us",
+      "name": "Yo Gabba Gabba!",
+      "url": ""
+    }
+  },
+  {
+    "name": "Zoo Moo (Australia)",
+    "logo": "https://i.imgur.com/1wYnA2i.jpg",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ZooMooAustralia.nz",
+      "name": "Zoo Moo (Australia)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Баластан",
+    "logo": "http://www.ktrk.kg/images/channels/balastan_white_notext.png",
+    "url": "http://onlinetv.ktrk.kg:1935/live/myStream6/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Kids",
+        "slug": "kids"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kyrgyz",
+        "code": "kir"
+      },
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Balastan.kg",
+      "name": "Баластан",
+      "url": ""
+    }
+  }
+]

@@ -1,0 +1,1024 @@
+[
+  {
+  "name": "PBS Honolulu HI (KHET)",
+  "logo": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png",
+  "url": "https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8",
+  "categories": [
+    {
+      "name": "Education",
+      "slug": "education"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "KHET.us",
+    "name": "PBS Honolulu HI (KHET)",
+    "url": "https://iptv-org.github.io/epg/guides/us-hi/tvtv.us.epg.xml"
+  }
+},
+  {
+    "name": "PBS Kids Alaska",
+    "logo": "https://i.imgur.com/ambc9le.png",
+    "url": "https://livestream.pbskids.org/out/v1/2963202df0c142c69b5254a546473308/akst.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PBSKidsAKST.us",
+      "name": "PBS Kids Alaska",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS Kids Eastern/Central",
+    "logo": "https://i.imgur.com/ambc9le.png",
+    "url": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PBSKidsEST.us",
+      "name": "PBS Kids Eastern/Central",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS Kids Hawaii",
+    "logo": "https://i.imgur.com/ambc9le.png",
+    "url": "https://livestream.pbskids.org/out/v1/19d1d62bf61b4aea9ec20f83b6450a4e/hast.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PBSKidsHAST.us",
+      "name": "PBS Kids Hawaii",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS Kids Mountain",
+    "logo": "https://i.imgur.com/ambc9le.png",
+    "url": "https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PBSKidsMST.us",
+      "name": "PBS Kids Mountain",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS Kids Pacific",
+    "logo": "https://i.imgur.com/ambc9le.png",
+    "url": "https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PBSKidsPST.us",
+      "name": "PBS Kids Pacific",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS Lincoln NE (KUON)",
+    "logo": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png",
+    "url": "https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KUONTV.us",
+      "name": "PBS Lincoln NE (KUON)",
+      "url": "https://iptv-org.github.io/epg/guides/us-ne/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "PBS New Jersey NJ (WNJT)",
+    "logo": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png",
+    "url": "https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WNJTTV.us",
+      "name": "PBS New Jersey NJ (WNJT)",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS New York NY (WNET)",
+    "logo": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png",
+    "url": "https://wnetdt.lls.pbs.org/out/v1/0456457548354b88b32fc437e4e7ee01/index.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WNETTV.us",
+      "name": "PBS New York NY (WNET)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Beach TV CSULB",
+    "logo": "http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg",
+    "url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BeachTVCSULB.us",
+      "name": "Beach TV CSULB",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Now You Know",
+    "logo": "https://i.imgur.com/78K3L8J.png",
+    "url": "https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVNowYouKnow.us",
+      "name": "Bumblebee TV Now You Know",
+      "url": ""
+    }
+  },
+  {
+    "name": "CCTV-10科教",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png",
+    "url": "http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "CCTV10.cn",
+      "name": "CCTV-10科教",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cloudflare TV",
+    "logo": "https://blog-cloudflare-com-assets.storage.googleapis.com/2020/06/twitter-1-1.png",
+    "url": "https://cloudflare.tv/hls/live.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CloudflareTV.us",
+      "name": "Cloudflare TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "EducaTV",
+    "logo": null,
+    "url": "https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "EducaTV.ec",
+      "name": "EducaTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rede Minas",
+    "logo": "https://i.imgur.com/Tgov03S.jpg",
+    "url": "https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RedeMinas.br",
+      "name": "Rede Minas",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+  "name": "Santa Cecilia TV",
+  "logo": "https://i.imgur.com/KxYsq1d.png",
+  "url": "http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Education",
+      "slug": "education"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Brazil",
+      "code": "BR"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Portuguese",
+      "code": "por"
+    }
+  ],
+  "tvg": {
+    "id": "SantaCeciliaTV.br",
+    "name": "Santa Cecilia TV",
+    "url": ""
+  }
+},
+  {
+  "name": "Syrian Education TV",
+  "logo": "https://i.imgur.com/PrXBgQG.png",
+  "url": "http://82.137.248.16:1935/SEdu/stream19042021/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Education",
+      "slug": "education"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Syria",
+      "code": "SY"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "code": "ara"
+    }
+  ],
+  "tvg": {
+    "id": "SyrianEducationTV.sy",
+    "name": "Syrian Education TV",
+    "url": ""
+  }
+},
+  {
+    "name": "Futura",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/300px-Canal_Futura.png",
+    "url": "https://tv.unisc.br/hls/test.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "Futura.br",
+      "name": "Futura",
+      "url": ""
+    }
+  },
+  {
+    "name": "KITE Victers (Kerala)",
+    "logo": "https://i.imgur.com/RvZxSkx.png",
+    "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KITEVicters.in",
+      "name": "KITE Victers (Kerala)",
+      "url": ""
+    }
+  },
+  {
+    "name": "MINEDU IPTV 1",
+    "logo": "https://graph.facebook.com/mineduperu/picture?width=320&height=320",
+    "url": "http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "MINEDUiptv1.pe",
+      "name": "MINEDU IPTV 1",
+      "url": ""
+    }
+  },
+  {
+    "name": "MINEDU IPTV 2",
+    "logo": "https://graph.facebook.com/mineduperu/picture?width=320&height=320",
+    "url": "http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "MINEDUiptv2.pe",
+      "name": "MINEDU IPTV 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "NASA TV Media",
+    "logo": "https://i.imgur.com/bKVNdeh.jpg",
+    "url": "https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NASATVMedia.us",
+      "name": "NASA TV Media",
+      "url": ""
+    }
+  },
+  {
+    "name": "NASA TV Public",
+    "logo": "https://i.imgur.com/CH6VcTR.jpg",
+    "url": "https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NASATVPublic.us",
+      "name": "NASA TV Public",
+      "url": "https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml"
+    }
+  },
+  {
+    "name": "NHK E",
+    "logo": "",
+    "url": "http://50.7.74.29:8080/hls/j00034/index.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Japan",
+        "code": "JP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "NHKE.jp",
+      "name": "NHK E",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nile TV Learning",
+    "logo": "http://www.niletc.tv/images/learning/learning.png",
+    "url": "http://livestreaming5.onlinehorizons.net/hls-live/Learning1/_definst_/liveevent/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NileTVLearning.eg",
+      "name": "Nile TV Learning",
+      "url": ""
+    }
+  },
+  {
+    "name": "PBS National East",
+    "logo": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png",
+    "url": "https://pbs.lls.cdn.pbs.org/est/index.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PBSEast.us",
+      "name": "PBS National East",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "PBS National West",
+    "logo": "https://d1qbemlbhjecig.cloudfront.net/prod/filer_public/pbs-digital-studios-bento-live-pbs/icons/1fcc0dd46e_PBS_favicon.png",
+    "url": "https://pbs.lls.cdn.pbs.org/pst/index.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PBSWest.us",
+      "name": "PBS National West",
+      "url": ""
+    }
+  },
+  {
+    "name": "Platzi TV",
+    "logo": "https://platform-static.cdn.mdstrm.com/player/logo/s-live-5b9076d18ef7b22560354649.png?184",
+    "url": "https://mdstrm.com/live-stream-playlist/5b9076d18ef7b22560354649.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlatziTV.es",
+      "name": "Platzi TV",
+      "url": ""
+    }
+  },  {
+  "name": "TVU Universidad Nacional de La Plata",
+  "logo": "https://pbs.twimg.com/profile_images/960549144657002496/9Rdtd6Ke_400x400.jpg",
+  "url": "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
+  "categories": [
+    {
+      "name": "Education",
+      "slug": "education"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Argentina",
+      "code": "AR"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Spanish",
+      "code": "spa"
+    }
+  ],
+  "tvg": {
+    "id": "TVUniversidad.ar",
+    "name": "TVU Universidad Nacional de La Plata",
+    "url": ""
+  }
+},  {
+  "name": "TV UFG",
+  "logo": "https://i.imgur.com/Yp3dbJo.png",
+  "url": "http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Education",
+      "slug": "education"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Brazil",
+      "code": "BR"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Portuguese",
+      "code": "por"
+    }
+  ],
+  "tvg": {
+    "id": "TVUFG.br",
+    "name": "TV UFG",
+    "url": ""
+  }
+},
+  {
+    "name": "TVE RS",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png",
+    "url": "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVE.br",
+      "name": "TVE RS",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },  {
+  "name": "TV Mackenzie",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TV_Mackenzie_logo.svg/320px-TV_Mackenzie_logo.svg.png",
+  "url": "https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Education",
+      "slug": "education"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Brazil",
+      "code": "BR"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Portuguese",
+      "code": "por"
+    }
+  ],
+  "tvg": {
+    "id": "TVMackenzie.br",
+    "name": "TV Mackenzie",
+    "url": ""
+  }
+},
+  {
+    "name": "UCTV University of California",
+    "logo": "https://i.imgur.com/ehMz9T5.png",
+    "url": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "UCTVUniversityofCalifornia.us",
+      "name": "UCTV University of California",
+      "url": ""
+    }
+  },
+  {
+    "name": "UniTV Porto Alegre",
+    "logo": "http://www.ufrgs.br/unitv/images/logo.png",
+    "url": "http://unitvaovivo.ufrgs.br:8080/live.ogg",
+    "categories": [
+      {
+        "name": "Education",
+        "slug": "education"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "UniTVPortoAlegre.br",
+      "name": "UniTV Porto Alegre",
+      "url": ""
+    }
+  }
+]

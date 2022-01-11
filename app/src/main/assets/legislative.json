@@ -1,0 +1,1826 @@
+[
+  {
+    "name": "Al Jazeera Mubasher",
+    "logo": "https://i.imgur.com/xx6uOhZ.png",
+    "url": "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "AlJazeeraMubasher.qa",
+      "name": "Al Jazeera Mubasher",
+      "url": ""
+    }
+  },
+  {
+    "name": "C-SPAN",
+    "logo": "https://www.dailydot.com/wp-content/uploads/2020/08/CSpan.png",
+    "url": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CSPAN.us",
+      "name": "C-SPAN",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "C-SPAN 2",
+    "logo": "https://cdn.tvpassport.com/image/station/240x135/cspan2.png",
+    "url": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CSPAN2.us",
+      "name": "C-SPAN 2",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "C-SPAN 3",
+    "logo": "https://cdn.tvpassport.com/image/station/240x135/cspan3.png",
+    "url": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CSPAN3.us",
+      "name": "C-SPAN 3",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Canal de l'Assemblée nationale",
+    "logo": "https://i.imgur.com/xKNnoci.png",
+    "url": "https://wowzaprod231-i.akamaihd.net/hls/live/1013830/177d227e/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "AssembleenationaleduQuebec.ca",
+      "name": "Canal de l'Assemblée nationale",
+      "url": "https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Canal Parlamento",
+    "logo": "https://canal.parlamento.pt/images/ARTV_Logo.png",
+    "url": "https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "CanalParlamento.pt",
+      "name": "Canal Parlamento",
+      "url": ""
+    }
+  },
+  {
+    "name": "Channel 1",
+    "logo": null,
+    "url": "https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "Channel1.ir",
+      "name": "Channel 1",
+      "url": ""
+    }
+  },
+  {
+    "name": "Congreso de los Diputados 1",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto-f.akamaihd.net/i/congreso1_1@71529/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CongresodelosDiputados1.es",
+      "name": "Congreso de los Diputados 1",
+      "url": ""
+    }
+  },
+  {
+    "name": "Congreso de los Diputados 2",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto-f.akamaihd.net/i/congreso2_1@72033/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CongresodelosDiputados2.es",
+      "name": "Congreso de los Diputados 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "Congreso de los Diputados 3",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CongresodelosDiputados3.es",
+      "name": "Congreso de los Diputados 3",
+      "url": ""
+    }
+  },
+  {
+    "name": "Congreso de los Diputados 4",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CongresodelosDiputados4.es",
+      "name": "Congreso de los Diputados 4",
+      "url": ""
+    }
+  },
+  {
+    "name": "Congreso de los Diputados 5",
+    "logo": "https://i.imgur.com/2LAzcH8.jpg",
+    "url": "https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CongresodelosDiputados5.es",
+      "name": "Congreso de los Diputados 5",
+      "url": ""
+    }
+  },
+  {
+    "name": "Congreso TV (Perú)",
+    "logo": "https://graph.facebook.com/CongresoPeru/picture?width=320&height=320",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/congresodelarepublicadelperútvenvivo/live",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CongresoTV.pe",
+      "name": "Congreso TV (Perú)",
+      "url": ""
+    }
+  },
+  {
+    "name": "CPAC",
+    "logo": "https://i.imgur.com/5ym6eJS.png",
+    "url": "https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      },
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "CPACOttawa.ca",
+      "name": "CPAC",
+      "url": "https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "DC Council Channel",
+    "logo": "https://i.imgur.com/ZHST0G2.png",
+    "url": "https://video.oct.dc.gov/out/u/15_12.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DCCouncilChannel.us",
+      "name": "DC Council Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "District of Columbia Network (DCN)",
+    "logo": "https://i.imgur.com/GcSXd5s.png",
+    "url": "https://video.oct.dc.gov/out/u/DCN.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DistrictofColumbiaNetwork.us",
+      "name": "District of Columbia Network (DCN)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fairfax Public Access",
+    "logo": "https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png",
+    "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/mp4:fairfax.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FairfaxPublicAccess.us",
+      "name": "Fairfax Public Access",
+      "url": ""
+    }
+  },
+  {
+    "name": "Public Sénat",
+    "logo": "https://i.postimg.cc/rpqnBjbS/public-senat.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xkxbzc",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PublicSenat.fr",
+      "name": "Public Sénat",
+      "url": ""
+    }
+  },
+  {
+  "name": "The Parliamentary Channel",
+  "logo": "https://i.imgur.com/35oFiNg.jpg",
+  "url": "https://cloud.streamcomedia.com/parliamentarychannel/smil:parliamentarychannel_streams.smil/playlist.m3u8",
+  "categories": [
+    {
+      "name": "Legislative",
+      "slug": "legislative"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Bahamas",
+      "code": "BS"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "TheParliamentaryChannel.bs",
+    "name": "The Parliamentary Channel",
+    "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+  }
+},
+  {
+    "name": "JNE TV",
+    "logo": "https://graph.facebook.com/JNE.Peru/picture?width=320&height=320",
+    "url": "https://dc1.webstream.eu/hls/hls/jnetvhdstreaming_high/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "JNETV.pe",
+      "name": "JNE TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "LCP",
+    "logo": "https://i.postimg.cc/rwBVxjj2/lcp.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/xji3qy",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "LCP.fr",
+      "name": "LCP",
+      "url": ""
+    }
+  },
+  {
+    "name": "Oireachtas TV",
+    "logo": "http://upload.wikimedia.org/wikipedia/commons/7/75/Official_Houses_of_the_Oireachtas_Logo.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OireachtasTV.ie",
+      "name": "Oireachtas TV",
+      "url": "https://iptv-org.github.io/epg/guides/ie/ontvtonight.com.epg.xml"
+    }
+  },
+  {
+    "name": "Oireachtas TV Committee Room 1",
+    "logo": "https://i.imgur.com/JLYqKC0.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OireachtasTVCommitteeRoom1.ie",
+      "name": "Oireachtas TV Committee Room 1",
+      "url": ""
+    }
+  },
+  {
+    "name": "Oireachtas TV Committee Room 2",
+    "logo": "https://i.imgur.com/2Wxx2jK.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OireachtasTVCommitteeRoom2.ie",
+      "name": "Oireachtas TV Committee Room 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "Oireachtas TV Committee Room 3",
+    "logo": "https://i.imgur.com/EoAQeg5.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OireachtasTVCommitteeRoom3.ie",
+      "name": "Oireachtas TV Committee Room 3",
+      "url": ""
+    }
+  },
+  {
+    "name": "Oireachtas TV Committee Room 4",
+    "logo": "https://i.imgur.com/U9U4rgs.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OireachtasTVCommitteeRoom4.ie",
+      "name": "Oireachtas TV Committee Room 4",
+      "url": ""
+    }
+  },
+  {
+    "name": "Oireachtas TV Dáil Éireann",
+    "logo": "https://i.imgur.com/mexKiS0.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OireachtasTVDailEireann.ie",
+      "name": "Oireachtas TV Dáil Éireann",
+      "url": ""
+    }
+  },
+  {
+    "name": "Oireachtas TV Seanad Éireann",
+    "logo": "https://i.imgur.com/c5TI2DT.jpg",
+    "url": "https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ireland",
+        "code": "IE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OireachtasTVSeanadEireann.ie",
+      "name": "Oireachtas TV Seanad Éireann",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ontario Parliamentary Network",
+    "logo": "https://i.imgur.com/BQWfhEr.jpg",
+    "url": "http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OntarioParliamentaryNetwork.ca",
+      "name": "Ontario Parliamentary Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ontario Parliamentary Network (FR)",
+    "logo": "https://i.imgur.com/BQWfhEr.jpg",
+    "url": "http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "OntarioParliamentaryNetworkFR.ca",
+      "name": "Ontario Parliamentary Network (FR)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Parliament TV",
+    "logo": "https://i.imgur.com/BsHt9f2.png",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "parliament.nz",
+      "name": "Parliament TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播交通委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoJiaoTongWeiYuanHui.tw",
+      "name": "立法院IVOD直播交通委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播內政委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoNeiZhengWeiYuanHui.tw",
+      "name": "立法院IVOD直播內政委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播司法及法制委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoSiFaJiFaZhiWeiYuanHui.tw",
+      "name": "立法院IVOD直播司法及法制委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播外交及國防委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoWaiJiaoJiGuoFangWeiYuanHui.tw",
+      "name": "立法院IVOD直播外交及國防委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播教育及文化委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoJiaoYuJiWenHuaWeiYuanHui.tw",
+      "name": "立法院IVOD直播教育及文化委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播朝野協商",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoZhaoYeXieShang.tw",
+      "name": "立法院IVOD直播朝野協商",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播社會福利及衛生環境委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoSheHuiFuLiJiWeiShengHuanJingWeiYuanHui.tw",
+      "name": "立法院IVOD直播社會福利及衛生環境委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播經濟委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoJingJiWeiYuanHui.tw",
+      "name": "立法院IVOD直播經濟委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播財政委員會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoCaiZhengWeiYuanHui.tw",
+      "name": "立法院IVOD直播財政委員會",
+      "url": ""
+    }
+  },
+  {
+    "name": "立法院IVOD直播院會",
+    "logo": "https://i.imgur.com/PxYhFpb.png",
+    "url": "https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "LiFaYuanIVODZhiBoYuanHui.tw",
+      "name": "立法院IVOD直播院會",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemen.id",
+      "name": "TVR Parlemen",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Badan Anggaran",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestreambanggar/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenBadanAnggaran.id",
+      "name": "TVR Parlemen Badan Anggaran",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Badan Legislatif",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestreambaleg/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenBadanLegislatif.id",
+      "name": "TVR Parlemen Badan Legislatif",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Badan Musyawarah",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestreambamus/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenBadanMusyawarah.id",
+      "name": "TVR Parlemen Badan Musyawarah",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen BAKN",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestreambakn/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenBAKN.id",
+      "name": "TVR Parlemen BAKN",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen BKSAP",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestreambksap/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenBKSAP.id",
+      "name": "TVR Parlemen BKSAP",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi I",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiI.id",
+      "name": "TVR Parlemen Komisi I",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi II",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiII.id",
+      "name": "TVR Parlemen Komisi II",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi III",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream3/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiIII.id",
+      "name": "TVR Parlemen Komisi III",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi IV",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream4/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiIV.id",
+      "name": "TVR Parlemen Komisi IV",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi IX",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream9/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiIX.id",
+      "name": "TVR Parlemen Komisi IX",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi V",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream5/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiV.id",
+      "name": "TVR Parlemen Komisi V",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi VI",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream6/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiVI.id",
+      "name": "TVR Parlemen Komisi VI",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi VII",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream7/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiVII.id",
+      "name": "TVR Parlemen Komisi VII",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi VIII",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream8/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiVIII.id",
+      "name": "TVR Parlemen Komisi VIII",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi X",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream10/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiX.id",
+      "name": "TVR Parlemen Komisi X",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVR Parlemen Komisi XI",
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwnhlaM4KZ8xQaJpfP8GPX7Ji3tYXVnuSVfVKNV69=s900-c-k-c0x00ffffff-no-rj",
+    "url": "http://103.18.181.69:1935/golive/livestream11/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "TVRParlemenKomisiXI.id",
+      "name": "TVR Parlemen Komisi XI",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV ALMG",
+    "logo": "https://www.almg.gov.br/export/sites/default/biblioteca/imagens/logo_facebook.png",
+    "url": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVALMG.br",
+      "name": "TV ALMG",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Câmara",
+    "logo": "https://i.imgur.com/UpV2PRk.png",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVCamara.br",
+      "name": "TV Câmara",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "TV Câmara 2",
+    "logo": "https://i.imgur.com/UpV2PRk.png",
+    "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVCamara2.br",
+      "name": "TV Câmara 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Camara de Sao Paulo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Logo_tvcamara_.png/320px-Logo_tvcamara_.png",
+    "url": "https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Legislative",
+        "slug": "legislative"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "saopaulo.sp.leg.br",
+      "name": "TV Camara de Sao Paulo",
+      "url": ""
+    }
+  }
+]

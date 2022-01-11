@@ -1,0 +1,925 @@
+[
+  {
+    "name": "America's Test Kitchen",
+    "logo": "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Americas_Test_Kitchen_190x190.png?raw=true",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=730453b0-df89-477c-a53d-9f59f9f46f37&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.186&includeExtendedEvents=false&marketingRegion=US&serverSideAds=true&sid=130d48cd-22f9-11eb-9bad-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AmericasTestKitchen.us",
+      "name": "America's Test Kitchen",
+      "url": ""
+    }
+  },
+  {
+    "name": "bon appétit",
+    "logo": "https://i.imgur.com/YhFFxlE.png",
+    "url": "https://bonappetit-samsung.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "bonappetit.us",
+      "name": "bon appétit",
+      "url": ""
+    }
+  },
+  {
+    "name": "Chef Champion",
+    "logo": "https://i.imgur.com/15a9pG9.png",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ChefChampion.us",
+      "name": "Chef Champion",
+      "url": ""
+    }
+  },
+  {
+    "name": "Chef Roc Show",
+    "logo": "https://i.imgur.com/tn9bRD1.jpg",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ChefRocShow.us",
+      "name": "Chef Roc Show",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cook&Play (480p/720p)",
+    "logo": "https://static.wikia.nocookie.net/logopedia/images/0/08/Cook%26Play.png",
+    "url": "https://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Romania",
+        "code": "RO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Romanian",
+        "code": "ron"
+      }
+    ],
+    "tvg": {
+      "id": "CooknPlay.ro",
+      "name": "Cook&Play (480p/720p)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cooking Panda",
+    "logo": "https://i.imgur.com/Z6pDpzl.png",
+    "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CookingPanda.us",
+      "name": "Cooking Panda",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Pluto TV Tastemade",
+    "logo": "https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTastemade.us",
+      "name": "Pluto TV Tastemade",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "So Yummy!",
+    "logo": "https://i.imgur.com/Mq7PBDN.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SoYummy.us",
+      "name": "So Yummy!",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Gusto TV",
+    "logo": "https://gustotv.com/wp-content/uploads/2020/04/gustotv-logo.svg",
+    "url": "https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRGustoTV.us",
+      "name": "STIRR Gusto TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tastemade Australia",
+    "logo": "https://i.imgur.com/8s6aRwv.png",
+    "url": "https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TastemadeAustralia.us",
+      "name": "Tastemade Australia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tastemade Brasil",
+    "logo": "https://i.imgur.com/8s6aRwv.png",
+    "url": "https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TastemadeBrasil.us",
+      "name": "Tastemade Brasil",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tastemade Deutschland",
+    "logo": "https://i.imgur.com/8s6aRwv.png",
+    "url": "https://tastemade-de-samsung.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Germany",
+        "code": "DE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "TastemadeDeutschland.us",
+      "name": "Tastemade Deutschland",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tastemade en Español",
+    "logo": "https://i.imgur.com/8s6aRwv.png",
+    "url": "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "TastemadeenEspanol.us",
+      "name": "Tastemade en Español",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tastemade France",
+    "logo": "https://i.imgur.com/8s6aRwv.png",
+    "url": "https://tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "TastemadeFrance.us",
+      "name": "Tastemade France",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tastemade Travel",
+    "logo": "https://i.imgur.com/8s6aRwv.png",
+    "url": "https://tastemadetravel-vizio.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TastemadeTravel.us",
+      "name": "Tastemade Travel",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "FilmRise Hell's Kitchen",
+    "logo": "https://i.imgur.com/H002ju5.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FilmRiseHellsKitchen.us",
+      "name": "FilmRise Hell's Kitchen",
+      "url": ""
+    }
+  },
+
+
+  {
+    "name": "Food 52",
+    "logo": "https://i.imgur.com/BVrMQch.png",
+    "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Food52.us",
+      "name": "Food 52",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM Food",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/gem_food.png?14",
+    "url": "http://65.21.196.79/gem_food/master.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMFood.ir",
+      "name": "GEM Food",
+      "url": ""
+    }
+  },
+  {
+    "name": "Gusto TV",
+    "logo": "https://i.imgur.com/ygVGi3s.png",
+    "url": "https://d3cajslujfq92p.cloudfront.net/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GustoTV.us",
+      "name": "Gusto TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hungry",
+    "logo": "https://i.imgur.com/MIUDYh0.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Hungry.us",
+      "name": "Hungry",
+      "url": ""
+    }
+  },
+  {
+    "name": "iFood.TV",
+    "logo": "https://i.imgur.com/GnmHLNB.png",
+    "url": "https://ft-ifood-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "iFoodTV.us",
+      "name": "iFood.TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV America's Test Kitchen",
+    "logo": "http://images.pluto.tv/channels/5e84f54a82f05300080e6746/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84f54a82f05300080e6746&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=605&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAmericasTestKitchen.us",
+      "name": "Pluto TV America's Test Kitchen",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV BBC Food",
+    "logo": "http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBBCFood.us",
+      "name": "Pluto TV BBC Food",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cocina",
+    "logo": "https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0fbaa8742fa3093899da&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=956&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCocina.us",
+      "name": "Pluto TV Cocina",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cuisine",
+    "logo": "https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCuisine.us",
+      "name": "Pluto TV Cuisine",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Food",
+    "logo": "https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc280c9aa218c0009724b4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=0734c282-0583-11eb-a18c-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFood.us",
+      "name": "Pluto TV Food",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Food (England)",
+    "logo": "https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf930548ff9b00090d5686/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf930548ff9b00090d5686&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=500&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFoodEngland.us",
+      "name": "Pluto TV Food (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Food TV",
+    "logo": "https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFoodTV.us",
+      "name": "Pluto TV Food TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Gordon Ramsay's Kitchen",
+    "logo": "http://images.pluto.tv/channels/5b4e99f4423e067bd6df6903/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e99f4423e067bd6df6903&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=294&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVGordonRamsaysKitchen.us",
+      "name": "Pluto TV Gordon Ramsay's Kitchen",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Hell's Kitchen",
+    "logo": "https://images.pluto.tv/channels/5e6f38792075160007d85823/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Cooking",
+        "slug": "cooking"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVHellsKitchen.us",
+      "name": "Pluto TV Hell's Kitchen",
+      "url": ""
+    }
+  }
+
+
+]

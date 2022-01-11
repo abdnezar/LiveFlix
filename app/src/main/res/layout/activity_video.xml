@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layoutDirection="ltr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.PlayerActivity"
+    android:keepScreenOn="true">
+
+    <TextView
+        android:id="@+id/channelName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center"
+        android:padding="@dimen/_5sdp"
+        android:textSize="@dimen/_16ssp"
+        android:textColor="@color/purple_500"/>
+
+    <com.google.android.exoplayer2.ui.PlayerView
+        android:id="@+id/player_view"
+        app:show_subtitle_button="false"
+        app:hide_on_touch="true"
+        app:use_controller="true"
+        app:controller_layout_id="@layout/custom_controller"
+        app:show_vr_button="false"
+        app:show_shuffle_button="false"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_250sdp"
+        android:layout_gravity="center"
+        android:paddingTop="@dimen/_100sdp"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="loading2.json"
+        app:lottie_loop="true" />
+</FrameLayout>

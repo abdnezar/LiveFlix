@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "1001 Noites",
+    "logo": "https://i.imgur.com/xbkYDeg.png",
+    "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "1001Noites.br",
+      "name": "1001 Noites",
+      "url": ""
+    }
+  },
+  {
+    "name": "Beauty IQ",
+    "logo": "https://i.imgur.com/qtirIFA.png",
+    "url": "https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BeautyIQ.us",
+      "name": "Beauty IQ",
+      "url": ""
+    }
+  },
+  {
+    "name": "Citruss TV",
+    "logo": "https://i.imgur.com/6lTEvrU.jpg",
+    "url": "https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "CitrussTV.ae",
+      "name": "Citruss TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Craft Store TV",
+    "logo": "https://thecraftstore.com/Styles/craft_store_logo.svg",
+    "url": "https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CraftStoreTV.uk",
+      "name": "Craft Store TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cruise1st TV",
+    "logo": "https://i.imgur.com/q50kqOG.jpg",
+    "url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Cruise1stTV.uk",
+      "name": "Cruise1st TV",
+      "url": "https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+    }
+  },
+  {
+    "name": "Donna Shopping",
+    "logo": null,
+    "url": "https://media.streambrothers.com:1936/8038/8038/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Italy",
+        "code": "IT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Italian",
+        "code": "ita"
+      }
+    ],
+    "tvg": {
+      "id": "DonnaShopping.it",
+      "name": "Donna Shopping",
+      "url": ""
+    }
+  },
+  {
+    "name": "Expo Channel",
+    "logo": "https://i.imgur.com/2KzCShW.png",
+    "url": "https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Australia",
+        "code": "AU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ExpoChannel.au",
+      "name": "Expo Channel",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "QVC",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVC.us",
+      "name": "QVC",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC 2",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVC2.us",
+      "name": "QVC 2",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "QVC 3",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVC3.us",
+      "name": "QVC 3",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "QVC Beauty (German)",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVCBeauty.us",
+      "name": "QVC Beauty (German)",
+      "url": "https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+    }
+  },
+  {
+    "name": "QVC Italia",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Italy",
+        "code": "IT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Italian",
+        "code": "ita"
+      }
+    ],
+    "tvg": {
+      "id": "QVCItalia.us",
+      "name": "QVC Italia",
+      "url": "https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml"
+    }
+  },
+  {
+    "name": "QVC Japan",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Japan",
+        "code": "JP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "QVCJapan.us",
+      "name": "QVC Japan",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC Live",
+    "logo": "https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/qvcLive/logo_small.png",
+    "url": "http://n1.klowdtv.net/live2/qvclive_720p/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVCLive.us",
+      "name": "QVC Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC PLUS",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvcplus.png",
+    "url": "https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_plus_clean/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "QVCPlus.de",
+      "name": "QVC PLUS",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC Style (Deutsch)",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "QVCStyleDeutsch.us",
+      "name": "QVC Style (Deutsch)",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC UK",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVCUK.us",
+      "name": "QVC UK",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC UK +1",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "https://live-qvcuk.simplestreamcdn.com/hera/remote/qvcuk_primary_sdi1/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVCUKPlus1.us",
+      "name": "QVC UK +1",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC UK Beauty",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVCUKBeauty.us",
+      "name": "QVC UK Beauty",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC UK Style",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "QVCUKStyle.us",
+      "name": "QVC UK Style",
+      "url": ""
+    }
+  },
+  {
+    "name": "QVC2 (Deutsch)",
+    "logo": "https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/qvc.png",
+    "url": "http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "QVC2Deutsch.us",
+      "name": "QVC2 (Deutsch)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Shop Channel",
+    "logo": "https://i.imgur.com/3K36JEA.jpg",
+    "url": "https://stream3.shopch.jp/HLS/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Japan",
+        "code": "JP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "ShopChannel.jp",
+      "name": "Shop Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Shop HQ",
+    "logo": "https://i.imgur.com/WVAQvvX.jpg",
+    "url": "https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ShopHQ.us",
+      "name": "Shop HQ",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "Shop LC",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/606f94fdf46bcb6017662744",
+    "url": "https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ShopLC.us",
+      "name": "Shop LC",
+      "url": ""
+    }
+  },
+  {
+    "name": "Shop LC (KCKS-LD10)",
+    "logo": "https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",
+    "url": "https://cdn.igocast.com/channel10_hls/channel10_master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KCKSLD10.us",
+      "name": "Shop LC (KCKS-LD10)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Shop TV",
+    "logo": "https://i.imgur.com/RUQASCU.png",
+    "url": "https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Philippines",
+        "code": "PH"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tagalog",
+        "code": "tgl"
+      }
+    ],
+    "tvg": {
+      "id": "ShopTV.ph",
+      "name": "Shop TV",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Shopping Live",
+    "logo": null,
+    "url": "http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "ShoppingLive.ru",
+      "name": "Shopping Live",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR HSN",
+    "logo": "https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/hsn-us.png",
+    "url": "https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRHSN.us",
+      "name": "STIRR HSN",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Shopping Channel",
+    "logo": "http://cdn.iphoneincanada.ca/wp-content/uploads/2015/07/the-shopping-channel-logo.jpg",
+    "url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheShoppingChannel.us",
+      "name": "The Shopping Channel",
+      "url": ""
+    }
+  },{
+  "name": "Gems TV",
+  "logo": "https://i.imgur.com/9fJlCNW.png",
+  "url": "http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8",
+  "categories": [
+    {
+      "name": "Shop",
+      "slug": "shop"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United Kingdom",
+      "code": "UK"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "GemsTV.uk",
+    "name": "Gems TV",
+    "url": ""
+  }
+},
+  {
+    "name": "GSTV",
+    "logo": "https://i.imgur.com/8AM9fC8.jpg",
+    "url": "https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Japan",
+        "code": "JP"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Japanese",
+        "code": "jpn"
+      }
+    ],
+    "tvg": {
+      "id": "GSTV.jp",
+      "name": "GSTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Horse Shopping Channel",
+    "logo": "https://i.imgur.com/0cuoaxl.png",
+    "url": "https://uplynkcontent.sinclairstoryline.com/channel/26c7a77fd6ed453da6846a16ad0625d9.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HorseShoppingChannel.us",
+      "name": "Horse Shopping Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "HSN",
+    "logo": "https://cdn.tvpassport.com/image/station/240x135/homeshop.png",
+    "url": "https://hsn.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HSN.us",
+      "name": "HSN",
+      "url": ""
+    }
+  },
+  {
+    "name": "HSN 2",
+    "logo": "https://live-tv-channels.org/pt-data/uploads/logo/us-hsn-2.jpg",
+    "url": "https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HSN2.us",
+      "name": "HSN 2",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Ideal World TV",
+    "logo": "https://www.idealworld.tv/gb/common/images/Cms/Header/iw-square.jpg",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IdealworldTvShopping/live",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IdealWorldTV.uk",
+      "name": "Ideal World TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Jewelry Television",
+    "logo": "https://i.imgur.com/1HJraea.png",
+    "url": "https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "JewelryTV.us",
+      "name": "Jewelry Television",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "Leomax 24",
+    "logo": null,
+    "url": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Leomax24.ru",
+      "name": "Leomax 24",
+      "url": ""
+    }
+  },
+  {
+    "name": "Leomax Plus",
+    "logo": null,
+    "url": "https://tvshops.bonus-tv.ru/cdn/discount/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "LeomaxPlus.ru",
+      "name": "Leomax Plus",
+      "url": ""
+    }
+  },
+  {
+    "name": "Luxury",
+    "logo": "https://iptvx.one/icn/luxury.png",
+    "url": "http://nano.teleservice.su:8080/hls/luxury.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Luxury.ru",
+      "name": "Luxury",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Mediashop TV",
+    "logo": "https://i.imgur.com/Drxu8Du.png",
+    "url": "https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "MediashopTV.li",
+      "name": "Mediashop TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persian Bazar",
+    "logo": null,
+    "url": "https://stream.persiantv1.com/ptv1/playlist1/index.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianBazar.ir",
+      "name": "Persian Bazar",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Rare Collectibles",
+    "logo": "https://i.imgur.com/pXOyNEy.png",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsrarecollectibles/index.m3u8",
+    "categories": [
+      {
+        "name": "耀才財經台",
+        "logo": "https://i.imgur.com/xliVoIt.jpg?1",
+        "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8",
+        "categories": [
+          {
+            "name": "Shop",
+            "slug": "shop"
+          }
+        ],
+        "countries": [
+          {
+            "name": "Hong Kong",
+            "code": "HK"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Chinese",
+            "code": "zho"
+          },
+          {
+            "name": "Yue Chinese",
+            "code": "yue"
+          }
+        ],
+        "tvg": {
+          "id": "YaoCaiCaiJingTai.hk",
+          "name": "耀才財經台",
+          "url": ""
+        }
+      },
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSRareCollectibles.us",
+      "name": "TVS Rare Collectibles",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Silo Discount Network",
+    "logo": "https://i.imgur.com/pXOyNEy.png",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvssilodiscount/index.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSSiloDiscountNetwork.us",
+      "name": "TVS Silo Discount Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVSN Shopping",
+    "logo": "http://iptv.matthuisman.nz/nz/images/freeviewnz.45.png",
+    "url": "https://tvsn-i.akamaihd.net/hls/live/261837/tvsn_nz/tvsn_nz_750.m3u8",
+    "categories": [
+      {
+        "name": "Shop",
+        "slug": "shop"
+      }
+    ],
+    "countries": [
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "tv.45",
+      "name": "TVSN Shopping",
+      "url": ""
+    }
+  }
+]

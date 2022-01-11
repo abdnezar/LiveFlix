@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Pluto TV Travel",
+    "logo": "http://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTravel.us",
+      "name": "Pluto TV Travel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Radio Rutas del Perú",
+    "logo": "https://graph.facebook.com/1121106071333048/picture?width=320&height=320",
+    "url": "https://tv.portalexpress.es:3731/stream/play.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "RadioRutasdelPerú.es",
+      "name": "Radio Rutas del Perú",
+      "url": ""
+    }
+  },
+  {
+    "name": "Travel Guide TV",
+    "logo": "",
+    "url": "https://cdn10.live-tv.od.ua:8083/leonovtv/test-abr/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Ukrainian",
+        "code": "ukr"
+      },
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "TravelGuideTV.ua",
+      "name": "Travel Guide TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Travel Mix",
+    "logo": "https://static.cinemagia.ro/img/tv_station/travel-mix.jpg",
+    "url": "http://89.38.8.131:39520",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Romania",
+        "code": "RO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Romanian",
+        "code": "ron"
+      }
+    ],
+    "tvg": {
+      "id": "TravelMix.ro",
+      "name": "Travel Mix",
+      "url": "https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml"
+    }
+  },
+  {
+    "name": "Travelingo TV",
+    "logo": "https://i.imgur.com/PS0j4ic.png",
+    "url": "https://abdyli.gjirafa.com/live/r6e3JjXjSjkUCsA7CmdhL8lzM4fGXGz4/ytkytq.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Albanian",
+        "code": "sqi"
+      }
+    ],
+    "tvg": {
+      "id": "TravelingoTV.xk",
+      "name": "Travelingo TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Journy",
+    "logo": "https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1",
+    "url": "http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Journy.us",
+      "name": "Journy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Jasco Events TV",
+    "logo": null,
+    "url": "http://82.212.74.100:8000/live/hls/8131.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "JascoEventsTV.sa",
+      "name": "Jasco Events TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Discover",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/60481e10fa33524246049ac3",
+    "url": "https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowDiscover.us",
+      "name": "Local Now Discover",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fun Roads",
+    "logo": "https://funroads.tv/wp-content/uploads/fun-roads-header-horizontal-1.png",
+    "url": "http://104.143.4.5:2080/funroads.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FunRoads.us",
+      "name": "Fun Roads",
+      "url": ""
+    }
+  },
+  {
+    "name": "Go Traveler",
+    "logo": "https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GoTraveler.us",
+      "name": "Go Traveler",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV Paraná Turismo",
+    "logo": "https://i.imgur.com/3lxkJxb.png",
+    "url": "http://200.189.113.201/hls/tve.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "TVParanaTurismo.br",
+      "name": "TV Paraná Turismo",
+      "url": "https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml"
+    }
+  },
+  {
+    "name": "Телепутешествия",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001662fa9eb27aefc58bb87bcf68f33/260x160",
+    "url": "http://ott-cdn.ucom.am/s71/index.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Teleputeshestviya.ru",
+      "name": "Телепутешествия",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "ТВТУР",
+    "logo": null,
+    "url": "https://strm.yandex.ru/kal/tvtour/tvtour0.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "TVTUR.ru",
+      "name": "ТВТУР",
+      "url": ""
+    }
+  },
+  {
+    "name": "亞旅衛視",
+    "logo": "https://i.imgur.com/1wbOhJV.jpg",
+    "url": "http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "YaLuWeiShi.hk",
+      "name": "亞旅衛視",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Travel Network",
+    "logo": "https://i.imgur.com/Bgqy4fL.jpg",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSTravel.us",
+      "name": "TVS Travel Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tunisie Immobilier TV",
+    "logo": "https://i.imgur.com/cZM2t0P.png",
+    "url": "https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Travel",
+        "slug": "travel"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "TunisieImmobilierTV.tn",
+      "name": "Tunisie Immobilier TV",
+      "url": ""
+    }
+  }
+]

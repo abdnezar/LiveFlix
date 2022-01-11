@@ -1,0 +1,1357 @@
+[
+  {
+    "name": "Adult Swim Dream Corp LLC",
+    "logo": "https://i.imgur.com/jOTChgo.jpg",
+    "url": "https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AdultSwimDreamCorpLLC.us",
+      "name": "Adult Swim Dream Corp LLC",
+      "url": ""
+    }
+  },
+  {
+    "name": "AFV",
+    "logo": "https://i.imgur.com/lG3OHxA.png",
+    "url": "https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AFV.us",
+      "name": "AFV",
+      "url": ""
+    }
+  },
+  {
+    "name": "AFV en Español",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3",
+    "url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "AFVenEspanol.us",
+      "name": "AFV en Español",
+      "url": ""
+    }
+  },
+  {
+    "name": "Antena Comedy",
+    "logo": null,
+    "url": "http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Romania",
+        "code": "RO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Romanian",
+        "code": "ron"
+      }
+    ],
+    "tvg": {
+      "id": "AntenaComedy.ro",
+      "name": "Antena Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Armenia Քոմեդի",
+    "logo": "https://i.imgur.com/pvF7dGN.png",
+    "url": "http://ott-cdn.ucom.am/s32/index.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Armenia",
+        "code": "AM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Armenian",
+        "code": "hye"
+      }
+    ],
+    "tvg": {
+      "id": "ArmeniaKomedi.am",
+      "name": "Armenia Քոմեդի",
+      "url": ""
+    }
+  },
+  {
+    "name": "Camera Smile TV",
+    "logo": "https://i.imgur.com/NG9W4vU.png",
+    "url": "https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CameraSmileTV.us",
+      "name": "Camera Smile TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Comedy Central East",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Comedy_central.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4947590ba40f75dc29c26b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4947590ba40f75dc29c26b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=400&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "ComedyCentralEast.us",
+      "name": "Comedy Central East",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "Comedy Central Pluto TV",
+    "logo": "https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "ComedyCentralPlutoTV.br",
+      "name": "Comedy Central Pluto TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Comedy Central South Park",
+    "logo": "https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "ComedyCentralSouthPark.br",
+      "name": "Comedy Central South Park",
+      "url": ""
+    }
+  },
+  {
+    "name": "Comedy Channel",
+    "logo": "https://i.imgur.com/WyHp7Wa.jpg",
+    "url": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ComedyChannel.uk",
+      "name": "Comedy Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Comedy Dynamics",
+    "logo": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png",
+    "url": "https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ComedyDynamics.us",
+      "name": "Comedy Dynamics",
+      "url": ""
+    }
+  },
+  {
+    "name": "DryBar Comedy",
+    "logo": "https://i.imgur.com/l61qxIE.jpg",
+    "url": "https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DryBarComedy.us",
+      "name": "DryBar Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "FailArmy",
+    "logo": "https://i.imgur.com/nbzbHum.png",
+    "url": "https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FailArmy.us",
+      "name": "FailArmy",
+      "url": ""
+    }
+  },
+  {
+    "name": "FailArmy",
+    "logo": "https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "FailArmy.br",
+      "name": "FailArmy",
+      "url": ""
+    }
+  },
+  {
+    "name": "FailArmy International",
+    "logo": "https://i.imgur.com/nbzbHum.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FailArmyInternational.us",
+      "name": "FailArmy International",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Rotana Comedy",
+    "logo": "https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png",
+    "url": "https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8",
+    "categories": [
+      {
+        "name": "Pluto TV Kenan y Kel",
+        "logo": "https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+        "categories": [
+          {
+            "name": "Comedy",
+            "slug": "comedy"
+          }
+        ],
+        "countries": [
+          {
+            "name": "United States",
+            "code": "US"
+          }
+        ],
+        "languages": [
+          {
+            "name": "Spanish",
+            "code": "spa"
+          }
+        ],
+        "tvg": {
+          "id": "PlutoTVKenanyKel.us",
+          "name": "Pluto TV Kenan y Kel",
+          "url": ""
+        }
+      },
+      {
+        "name": "Pluto TV Kevin Hart LOL",
+        "logo": "http://images.pluto.tv/channels/5af09e645126c2157123f9eb/colorLogoPNG.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5af09e645126c2157123f9eb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+          {
+            "name": "Comedy",
+            "slug": "comedy"
+          }
+        ],
+        "countries": [
+          {
+            "name": "United States",
+            "code": "US"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English",
+            "code": "eng"
+          }
+        ],
+        "tvg": {
+          "id": "PlutoTVKevinHartLOL.us",
+          "name": "Pluto TV Kevin Hart LOL",
+          "url": ""
+        }
+      },
+      {
+        "name": "Pluto TV Series Comedia",
+        "logo": "https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9853138d19af0007104a8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+        "categories": [
+          {
+            "name": "Comedy",
+            "slug": "comedy"
+          }
+        ],
+        "countries": [
+          {
+            "name": "United States",
+            "code": "US"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English",
+            "code": "eng"
+          }
+        ],
+        "tvg": {
+          "id": "PlutoTVSeriesComedia.us",
+          "name": "Pluto TV Series Comedia",
+          "url": ""
+        }
+      },
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Rotana Comedy",
+      "name": "Rotana Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Comedy Dynamics",
+    "logo": "https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png",
+    "url": "https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRComedyDynamics.us",
+      "name": "STIRR Comedy Dynamics",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR FailArmy",
+    "logo": "https://www.pngitem.com/pimgs/m/7-73309_failarmy-logo-hd-png-download.png",
+    "url": "https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRFailArmy.us",
+      "name": "STIRR FailArmy",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Pet Collective",
+    "logo": "https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "ThePetCollective.br",
+      "name": "The Pet Collective",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "Funny or Die",
+    "logo": "https://i.imgur.com/PMMsywm.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FunnyorDie.us",
+      "name": "Funny or Die",
+      "url": ""
+    }
+  },
+  {
+    "name": "HA! That's Funny",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/6014757daa89d94e1960b8e0",
+    "url": "https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HAThatsFunny.us",
+      "name": "HA! That's Funny",
+      "url": ""
+    }
+  },
+  {
+    "name": "Humor Mill",
+    "logo": "https://i.imgur.com/lYqcF1P.png",
+    "url": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HumorMill.us",
+      "name": "Humor Mill",
+      "url": ""
+    }
+  },
+  {
+    "name": "Just for Laughs Gags",
+    "logo": "https://i.imgur.com/OiMMkP3.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "JustforLaughsGags.us",
+      "name": "Just for Laughs Gags",
+      "url": ""
+    }
+  },
+  {
+    "name": "Juste pour Rire",
+    "logo": "http://images.pluto.tv/channels/60afa1508284e60007163c08/solidLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "JustepourRire.us",
+      "name": "Juste pour Rire",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kalaignar Sirippoli",
+    "logo": "https://i.imgur.com/bqXRXaZ.png",
+    "url": "http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "KalaignarSirippoli.in",
+      "name": "Kalaignar Sirippoli",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Comedy",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5f9c590dfe3ed0580c0c0494",
+    "url": "https://linear-89.frequency.stream/dist/localnow/89/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowComedy.us",
+      "name": "Local Now Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Mystery Science Theater 3000",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5f9ace054964ba19ff258256",
+    "url": "https://mst3k-localnow.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MysteryScienceTheater3000.us",
+      "name": "Mystery Science Theater 3000",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nile TV Comedy",
+    "logo": "http://www.niletc.tv/images/comedy/comedy.png",
+    "url": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NileTVComedy.eg",
+      "name": "Nile TV Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Comédia",
+    "logo": "https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineComedia.us",
+      "name": "Pluto TV Cine Comédia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comédia",
+    "logo": "https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedia.br",
+      "name": "Pluto TV Comédia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedia (Made in Spain)",
+    "logo": "https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComediaMadeinSpain.us",
+      "name": "Pluto TV Comedia (Made in Spain)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comédie",
+    "logo": "https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedie.us",
+      "name": "Pluto TV Comédie",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedy",
+    "logo": "http://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1efd0dbbe3ba000908b639/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1efd0dbbe3ba000908b639&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2ede5357-0728-11eb-82fe-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedy.us",
+      "name": "Pluto TV Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedy Central",
+    "logo": "https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedyCentral.us",
+      "name": "Pluto TV Comedy Central",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedy Central (Made in Germany)",
+    "logo": "https://images.pluto.tv/channels/5d4948418101147596fd6c5a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4948418101147596fd6c5a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=91083755-0728-11eb-aeab-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedyCentralMadeinGermany.us",
+      "name": "Pluto TV Comedy Central (Made in Germany)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedy Central (Made in Germany)+",
+    "logo": "https://images.pluto.tv/channels/5d4948418101147596fd6c5a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e7b8923fc302800079e4f4f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ee59b770-663e-4463-bf9b-3f7c374fbc39&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedyCentralMadeinGermanyPlus.us",
+      "name": "Pluto TV Comedy Central (Made in Germany)+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedy Central +",
+    "logo": "https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcea6bc6fb8890009322ff3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dcea6bc6fb8890009322ff3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=90d72ed4-4920-4983-a25f-2926c714e415&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedyCentralPlus.us",
+      "name": "Pluto TV Comedy Central +",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedy Central Animation",
+    "logo": "http://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedyCentralAnimation.us",
+      "name": "Pluto TV Comedy Central Animation",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Comedy Central Latino",
+    "logo": "http://images.pluto.tv/channels/5cf96dad1652631e36d43320/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96dad1652631e36d43320&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=967&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVComedyCentralLatino.us",
+      "name": "Pluto TV Comedy Central Latino",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV FailArmy",
+    "logo": "https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFailArmy.us",
+      "name": "Pluto TV FailArmy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Funny AF",
+    "logo": "http://images.pluto.tv/channels/580e87ff497c73ba2f321dd3/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFunnyAF.us",
+      "name": "Pluto TV Funny AF",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "TVS Comedy Network",
+    "logo": "https://i.imgur.com/lHvWCyV.jpg",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-comedyclassics/index.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSComedyNetwork.us",
+      "name": "TVS Comedy Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Кинокомедия",
+    "logo": null,
+    "url": "https://sc.id-tv.kz/Kinokomediya_hd.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Kinokomediya.ru",
+      "name": "Кинокомедия",
+      "url": ""
+    }
+  },
+  {
+    "name": "Комедия",
+    "logo": null,
+    "url": "http://188.40.68.167/russia/komediya/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Komediya.ru",
+      "name": "Комедия",
+      "url": ""
+    }
+  },
+  {
+    "name": "ViP Comedy Russia",
+    "logo": "https://i.imgur.com/kHTdkiW.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8",
+    "categories": [
+      {
+        "name": "Comedy",
+        "slug": "comedy"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "ViPComedyRussia.se",
+      "name": "ViP Comedy Russia",
+      "url": ""
+    }
+  }
+]

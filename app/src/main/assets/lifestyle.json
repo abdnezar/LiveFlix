@@ -1,0 +1,3318 @@
+[
+  {
+    "name": "Ayush TV",
+    "logo": "https://i.imgur.com/PWzvp0B.png",
+    "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "AyushTV.in",
+      "name": "Ayush TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "BBC Lifestyle",
+    "logo": "http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png",
+    "url": "https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Poland",
+        "code": "PL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Polish",
+        "code": "pol"
+      },
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BBCLifestyle.uk",
+      "name": "BBC Lifestyle",
+      "url": ""
+    }
+  },
+  {
+    "name": "Better Health TV",
+    "logo": "https://i.imgur.com/paFX8ZJ.png",
+    "url": "https://uni5rtmp.tulix.tv/betterhealth/betterhealth/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BetterHealthTV.us",
+      "name": "Better Health TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Big Life TV",
+    "logo": "https://i.imgur.com/bjTeasa.png",
+    "url": "https://biglife.sinclair.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BigLifeTV.us",
+      "name": "Big Life TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Biz TV",
+    "logo": "https://i.imgur.com/4pEmcFH.png",
+    "url": "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BizTV.us",
+      "name": "Biz TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "bspoketv",
+    "logo": "https://i.imgur.com/jsiHrMV.png",
+    "url": "https://bspoketv.s.llnwi.net/streams/322/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "bspoketv.us",
+      "name": "bspoketv",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV LifeBae",
+    "logo": "https://i.imgur.com/HaL9vw1.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVLifeBae.us",
+      "name": "Bumblebee TV LifeBae",
+      "url": ""
+    }
+  },
+  {
+    "name": "CHIC Magazine",
+    "logo": "http://chicmagazinetv.online/img/logo-radio.png",
+    "url": "https://paneltv.online:1936/8056/8056/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CHICMagazine.cl",
+      "name": "CHIC Magazine",
+      "url": ""
+    }
+  },
+  {
+    "name": "CineLife",
+    "logo": "https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA",
+    "url": "https://magselect-stirr.amagi.tv/playlist1080p.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CineLife.us",
+      "name": "CineLife",
+      "url": ""
+    }
+  },
+  {
+    "name": "CinePride",
+    "logo": "https://image.roku.com/developer_channels/prod/b44cdb31be546ae7551f35354772e943da2cb179c83ba910122623ffd00bd4a5.png",
+    "url": "https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CinePride.us",
+      "name": "CinePride",
+      "url": ""
+    }
+  },
+  {
+    "name": "Civilized.",
+    "logo": "https://i.imgur.com/Ge5SMLV.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Civilized.us",
+      "name": "Civilized.",
+      "url": ""
+    }
+  },
+  {
+    "name": "Complex",
+    "logo": "https://i.imgur.com/aBseWYR.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-complextv/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Complex.us",
+      "name": "Complex",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dabl",
+    "logo": "https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/dabl-us.png",
+    "url": "http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Dabl.us",
+      "name": "Dabl",
+      "url": ""
+    }
+  },
+  {
+    "name": "Demand Africa",
+    "logo": "https://i.imgur.com/sr5vC8z.jpg",
+    "url": "https://demandafrica-klowdtv.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DemandAfrica.us",
+      "name": "Demand Africa",
+      "url": ""
+    }
+  },
+  {
+    "name": "Demand Africa (Mexico)",
+    "logo": "https://i.imgur.com/sr5vC8z.jpg",
+    "url": "https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DemandAfricaMexico.us",
+      "name": "Demand Africa (Mexico)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV The Design Network",
+    "logo": "http://images.pluto.tv/channels/5f4ff8c8bcf3d600078af3eb/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTheDesignNetwork.us",
+      "name": "Pluto TV The Design Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Revry",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Revry.us",
+      "name": "Revry",
+      "url": ""
+    }
+  },
+  {
+    "name": "Revry News",
+    "logo": "https://i.imgur.com/AdIThwq.png",
+    "url": "https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "RevryNews.us",
+      "name": "Revry News",
+      "url": ""
+    }
+  },
+  {
+    "name": "Revry Queer",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3",
+    "url": "https://4aafa23ec0a6477ca31466bd83a115a4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-43-REVRY2-GALXY/mt/galxy/43/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "RevryQueer.us",
+      "name": "Revry Queer",
+      "url": ""
+    }
+  },
+  {
+    "name": "So... Real",
+    "logo": "https://od.lk/s/MF8yMjU5ODE2MDdf/SoReal_240x240.png",
+    "url": "https://soreal-localnow.cinedigm.com/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SoReal.us",
+      "name": "So... Real",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR CineLife",
+    "logo": "https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA",
+    "url": "https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRCineLife.us",
+      "name": "STIRR CineLife",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR City",
+    "logo": "https://i.imgur.com/7JgPJxx.png",
+    "url": "https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRCity.us",
+      "name": "STIRR City",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Classica",
+    "logo": "https://komonews.com/resources/media2/3x1/full/119/center/90/d5dd6f15-1fc2-46d0-b45e-57f4c5c897c6-small3x1_EPGLogoSTIRR_Logo_0420_Classica_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",
+    "url": "https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRClassica.us",
+      "name": "STIRR Classica",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Popstar! TV",
+    "logo": "https://i.imgur.com/mWrqBaS.png",
+    "url": "https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRPopstarTV.us",
+      "name": "STIRR Popstar! TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Beach Channel",
+    "logo": "https://images.squarespace-cdn.com/content/5bbd189f840b16624eaaaa54/1564164558355-89YX9OANPEHYV71HWPT1/BC+LOGO_CH5_REVISED.png",
+    "url": "https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheBeachChannel.us",
+      "name": "The Beach Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Craftistry",
+    "logo": "https://i.imgur.com/KIzpKhL.png",
+    "url": "https://studio71-craftistry-roku.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheCraftistry.us",
+      "name": "The Craftistry",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Design Network",
+    "logo": "https://i.imgur.com/LoUGscj.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheDesignNetwork.us",
+      "name": "The Design Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV",
+    "logo": "https://i.imgur.com/HBksX8u.png",
+    "url": "https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTV.fr",
+      "name": "Fashion TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV",
+    "logo": "https://i.imgur.com/E38ZhCz.jpg",
+    "url": "https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVEurope.fr",
+      "name": "Fashion TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV (England)",
+    "logo": null,
+    "url": "https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVEngland.fr",
+      "name": "Fashion TV (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV (Italy)",
+    "logo": null,
+    "url": "https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVItaly.fr",
+      "name": "Fashion TV (Italy)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV (Spain)",
+    "logo": null,
+    "url": "https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVSpain.fr",
+      "name": "Fashion TV (Spain)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV New York (PG13)",
+    "logo": "https://i.imgur.com/auHH1Ig.png",
+    "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVNewYork.fr",
+      "name": "Fashion TV New York (PG13)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV Paris",
+    "logo": "https://static.iptv-epg.com/fr/FashionTV.fr.png",
+    "url": "http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVParis.fr",
+      "name": "Fashion TV Paris",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV Paris-Mumbai",
+    "logo": "https://i.imgur.com/yvNu4Rm.png",
+    "url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_gmt_vmf_43163_default_1298_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVParisMumbai.fr",
+      "name": "Fashion TV Paris-Mumbai",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV PG13",
+    "logo": "https://i.imgur.com/n6owIqv.png",
+    "url": "https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVPG13.fr",
+      "name": "Fashion TV PG13",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV PG16",
+    "logo": "https://i.imgur.com/E38ZhCz.jpg",
+    "url": "http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVPG16.fr",
+      "name": "Fashion TV PG16",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV Russia",
+    "logo": "https://i.imgur.com/fcnRf1f.png",
+    "url": "http://ott-cdn.ucom.am/s30/index.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVRussia.fr",
+      "name": "Fashion TV Russia",
+      "url": "https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml"
+    }
+  },
+  {
+    "name": "Fashion TV Singapore",
+    "logo": "https://i.imgur.com/auHH1Ig.png",
+    "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVSingapore.fr",
+      "name": "Fashion TV Singapore",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV Tokyo (PG13)",
+    "logo": "https://i.imgur.com/auHH1Ig.png",
+    "url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVTokyo.fr",
+      "name": "Fashion TV Tokyo (PG13)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fashion TV UHD",
+    "logo": "https://i.imgur.com/E38ZhCz.jpg",
+    "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVUHD.fr",
+      "name": "Fashion TV UHD",
+      "url": ""
+    }
+  },
+  {
+    "name": "FashionBox HD",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/602dd03df5beda3db47bf0f2",
+    "url": "https://fashionbox-localnow.cinedigm.com/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionBoxHD.us",
+      "name": "FashionBox HD",
+      "url": "https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml"
+    }
+  },
+  {
+    "name": "FashionTV Czech&Slovak",
+    "logo": "http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png",
+    "url": "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVCzechSlovak.fr",
+      "name": "FashionTV Czech&Slovak",
+      "url": ""
+    }
+  },
+  {
+    "name": "FashionTV Mumbai",
+    "logo": "https://i.imgur.com/yvNu4Rm.png",
+    "url": "https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FashionTVMumbai.fr",
+      "name": "FashionTV Mumbai",
+      "url": ""
+    }
+  },
+  {
+    "name": "Glamour",
+    "logo": "http://www.ranklogos.com/wp-content/uploads/2014/11/Glamour-Logo.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Glamour.us",
+      "name": "Glamour",
+      "url": ""
+    }
+  },
+  {
+    "name": "Global Fashion Channel",
+    "logo": "https://i.imgur.com/s4eGYEP.jpg",
+    "url": "https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GlobalFashionChannel.us",
+      "name": "Global Fashion Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "GQ",
+    "logo": "https://i.imgur.com/tprQSxT.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokugq/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GQ.us",
+      "name": "GQ",
+      "url": ""
+    }
+  },
+  {
+    "name": "GSTV Gorgeous Space TV",
+    "logo": "https://i.imgur.com/g9FKTkv.png",
+    "url": "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCoo-jAsJgM8z09ddlhcBlSA/live",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "GSTVXingFuKongJianJuJiaTai.tw",
+      "name": "GSTV Gorgeous Space TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "HDFashion & LifeStyle",
+    "logo": "https://i.imgur.com/LtQL1q9.jpg",
+    "url": "http://95.67.47.114/hls/hdfashion_ua.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Ukrainian",
+        "code": "ukr"
+      }
+    ],
+    "tvg": {
+      "id": "HDFashionLifeStyle.ua",
+      "name": "HDFashion & LifeStyle",
+      "url": ""
+    }
+  },
+  {
+    "name": "ID Fashion",
+    "logo": "https://i.imgur.com/Y50tmIN.png",
+    "url": "https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Ukrainian",
+        "code": "ukr"
+      }
+    ],
+    "tvg": {
+      "id": "IDFashion.ua",
+      "name": "ID Fashion",
+      "url": ""
+    }
+  },
+  {
+    "name": "Jewelery Maker",
+    "logo": "https://i.imgur.com/azSptPw.png",
+    "url": "https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "JewelleryMaker.uk",
+      "name": "Jewelery Maker",
+      "url": "https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
+    }
+  },
+  {
+    "name": "Jewelry TV (KCKS-LD12)",
+    "logo": "https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png",
+    "url": "https://cdn.igocast.com/channel12_hls/channel12_master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "KCKSLD12.us",
+      "name": "Jewelry TV (KCKS-LD12)",
+      "url": "https://iptv-org.github.io/epg/guides/us-ks/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Kappa TV",
+    "logo": "https://i.imgur.com/MkfPo1V.jpg",
+    "url": "http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KappaTV.in",
+      "name": "Kappa TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Lifestyle",
+    "logo": "https://i.imgur.com/Ot9wh52.png",
+    "url": "https://bozztv.com/36bay2/gusa-lifestyle/index.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Lifestyle.us",
+      "name": "Lifestyle",
+      "url": ""
+    }
+  },
+  {
+    "name": "Lively Place",
+    "logo": "https://i.imgur.com/n5lMm78.png",
+    "url": "https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LivelyPlace.us",
+      "name": "Lively Place",
+      "url": ""
+    }
+  },
+  {
+    "name": "LIVExLIVE",
+    "logo": "https://i.imgur.com/OaSFTnV.png",
+    "url": "https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LIVExLIVE.us",
+      "name": "LIVExLIVE",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Insight",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/605e56c1043be40ef1371493",
+    "url": "https://linear-154.frequency.stream/dist/localnow/154/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowInsight.us",
+      "name": "Local Now Insight",
+      "url": ""
+    }
+  },
+  {
+    "name": "Localish",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/258px-Fox_Weather_logo.svg.png",
+    "url": "https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Localish.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "localish.us",
+      "name": "Localish",
+      "url": ""
+    }
+  },
+  {
+    "name": "Loupe",
+    "logo": "https://images.pluto.tv/channels/600b248969c6580007e91a2d/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "Loupe.br",
+      "name": "Loupe",
+      "url": ""
+    }
+  },
+  {
+    "name": "Loupe Art",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/605d18ac345cf61eb60b5895",
+    "url": "https://linear-144.frequency.stream/dist/localnow/144/hls/hd/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LoupeArt.us",
+      "name": "Loupe Art",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nile TV Life",
+    "logo": "http://www.niletc.tv/images/live/live.png",
+    "url": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NileTVLife.eg",
+      "name": "Nile TV Life",
+      "url": ""
+    }
+  },
+  {
+    "name": "Odessa Fashion",
+    "logo": null,
+    "url": "https://cdn10.live-tv.od.ua:8083/ofod/ofod-abr/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Ukrainian",
+        "code": "ukr"
+      }
+    ],
+    "tvg": {
+      "id": "OdessaFashion.ua",
+      "name": "Odessa Fashion",
+      "url": ""
+    }
+  },
+  {
+    "name": "Opportunities in Urban Renaissance Television (OURTV)",
+    "logo": "https://i.imgur.com/9uz9lyg.png",
+    "url": "https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "OURTV.us",
+      "name": "Opportunities in Urban Renaissance Television (OURTV)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV BBC Home",
+    "logo": "http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBBCHome.us",
+      "name": "Pluto TV BBC Home",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Best Life",
+    "logo": "http://images.pluto.tv/channels/5887ba337b8e94223eb121bd/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5887ba337b8e94223eb121bd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=630&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBestLife.us",
+      "name": "Pluto TV Best Life",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Demand Africa",
+    "logo": "http://images.pluto.tv/channels/5f061242a7951e00075d7413/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f061242a7951e00075d7413/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f061242a7951e00075d7413&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=172&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDemandAfrica.us",
+      "name": "Pluto TV Demand Africa",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Estilo de Vida",
+    "logo": "https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVEstiloDeVida.br",
+      "name": "Pluto TV Estilo de Vida",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Fashion TV",
+    "logo": "https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png",
+    "url": "https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFashionTV.us",
+      "name": "Pluto TV Fashion TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Fashionbox",
+    "logo": "https://images.pluto.tv/channels/5f516730b78b7600079294f5/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFashionbox.br",
+      "name": "Pluto TV Fashionbox",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV FashionBox",
+    "logo": "https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFashionBox.us",
+      "name": "Pluto TV FashionBox",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Fashionbox",
+    "logo": "https://images.pluto.tv/channels/5ee8d84bfb286e0007285aad/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFashionbox.us",
+      "name": "Pluto TV Fashionbox",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Fitness",
+    "logo": "https://images.pluto.tv/channels/5e8b0c92783b3f0007a4c7df/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0c92783b3f0007a4c7df/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0c92783b3f0007a4c7df&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=3b0b1ee4-3c26-4c24-8a7c-1b12f2e4e536&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFitness.us",
+      "name": "Pluto TV Fitness",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Fuel TV",
+    "logo": "https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png",
+    "url": "https://siloh.pluto.tv/lilo/production/FuelTV/master.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFuelTV.us",
+      "name": "Pluto TV Fuel TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Health",
+    "logo": "https://images.pluto.tv/channels/5c5c2d7ae59bf23c192c411c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae59bf23c192c411c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVHealth.us",
+      "name": "Pluto TV Health",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Home",
+    "logo": "https://images.pluto.tv/channels/5db04c9eedc89300090d2884/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5eb96303f5bb020008e7e44f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8044788b-0583-11eb-a18c-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVHome.us",
+      "name": "Pluto TV Home",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Homes Under Hammer",
+    "logo": "https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVHomesUnderHammer.us",
+      "name": "Pluto TV Homes Under Hammer",
+      "url": ""
+    }
+  },
+  {
+    "name": "World Fashion Channel",
+    "logo": "https://i.imgur.com/JyslMHb.jpg",
+    "url": "https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Antarctica",
+        "code": "AQ"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW"
+      },
+      {
+        "name": "Åland",
+        "code": "AX"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "code": "BL"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Bonaire",
+        "code": "BQ"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Bouvet Island",
+        "code": "BV"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      },
+      {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Curacao",
+        "code": "CW"
+      },
+      {
+        "name": "Christmas Island",
+        "code": "CX"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Falkland Islands",
+        "code": "FK"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "French Guiana",
+        "code": "GF"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "code": "IO"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Saint Martin",
+        "code": "MF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Macao",
+        "code": "MO"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Sint Maarten",
+        "code": "SX"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM"
+      },
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "VG"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "code": "VI"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      },
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WorldFashionChannel.us",
+      "name": "World Fashion Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Vanity Fair",
+    "logo": "https://i.imgur.com/KMUYfnz.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "VanityFair.us",
+      "name": "Vanity Fair",
+      "url": ""
+    }
+  },
+  {
+    "name": "Vogue",
+    "logo": "https://i.imgur.com/2i333B9.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Vogue.us",
+      "name": "Vogue",
+      "url": ""
+    }
+  },
+  {
+    "name": "Wapp",
+    "logo": null,
+    "url": "https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8",
+    "categories": [
+      {
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Chile",
+        "code": "CL"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Wapp.cl",
+      "name": "Wapp",
+      "url": ""
+    }
+  }
+]

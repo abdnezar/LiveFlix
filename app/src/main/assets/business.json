@@ -1,0 +1,1946 @@
+[{
+  "name": "30A Investment Pitch",
+  "logo": "https://i.imgur.com/CKCtZo7.png",
+  "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+  "categories": [
+    {
+      "name": "Business",
+      "slug": "business"
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US"
+    }
+  ],
+  "languages": [
+    {
+      "name": "English",
+      "code": "eng"
+    }
+  ],
+  "tvg": {
+    "id": "30AInvestmentPitch.us",
+    "name": "30A Investment Pitch",
+    "url": ""
+  }
+},
+  {
+    "name": "Ameritrade",
+    "logo": "https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",
+    "url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Ameritrade.us",
+      "name": "Ameritrade",
+      "url": ""
+    }
+  },
+  {
+    "name": "Asharq",
+    "logo": "https://asharq.com/asharq-preview-logo.png",
+    "url": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Asharq.sa",
+      "name": "Asharq",
+      "url": ""
+    }
+  },
+  {
+    "name": "Atameken Business",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a000001662eb7cce159eda2661b206fb448/z",
+    "url": "http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kazakh",
+        "code": "kaz"
+      },
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "AtamekenBusiness.kz",
+      "name": "Atameken Business",
+      "url": "https://iptv-org.github.io/epg/guides/kz/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Atameken Business",
+    "logo": null,
+    "url": "http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "AtamekenBusiness.ru",
+      "name": "Atameken Business",
+      "url": ""
+    }
+  },
+  {
+    "name": "ausbiz TV",
+    "logo": "http://i.mjh.nz/.images/tv.7ausbiz.png",
+    "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Australia",
+        "code": "AU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ausbizTV.au",
+      "name": "ausbiz TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "BFM Business",
+    "logo": "https://i.imgur.com/mihujKt.jpg",
+    "url": "https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "BFMBusiness.fr",
+      "name": "BFM Business",
+      "url": "https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml"
+    }
+  },
+  {
+    "name": "Bloomberg HT",
+    "logo": "https://i.imgur.com/6aarbHM.jpg",
+    "url": "https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Turkey",
+        "code": "TR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Turkish",
+        "code": "tur"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergHT.us",
+      "name": "Bloomberg HT",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV Asia",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVAsia.us",
+      "name": "Bloomberg TV Asia",
+      "url": "https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml"
+    }
+  },
+  {
+    "name": "Bloomberg TV Asia Live Event",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVAsiaLiveEvent.us",
+      "name": "Bloomberg TV Asia Live Event",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV Australia",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Australia",
+        "code": "AU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVAustralia.us",
+      "name": "Bloomberg TV Australia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV EMEA Live Event",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVEMEALiveEvent.us",
+      "name": "Bloomberg TV EMEA Live Event",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV Europe",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVEurope.us",
+      "name": "Bloomberg TV Europe",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV US",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://bloomberg-bloomberg-1-be.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVUS.us",
+      "name": "Bloomberg TV US",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV US Live Event",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://www.bloomberg.com/media-manifest/streams/us-event.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVUSLiveEvent.us",
+      "name": "Bloomberg TV US Live Event",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV US Politics Live Event",
+    "logo": "http://cdn-profiles.tunein.com/s47135/images/logog.png",
+    "url": "https://www.bloomberg.com/media-manifest/streams/politics.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVUSPoliticsLiveEvent.us",
+      "name": "Bloomberg TV US Politics Live Event",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bloomberg TV+ UHD",
+    "logo": "https://i.imgur.com/xGlToly.png",
+    "url": "https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloombergTVPlus.us",
+      "name": "Bloomberg TV+ UHD",
+      "url": ""
+    }
+  },
+  {
+    "name": "Business Rockstars",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BusinessRockstars_1400x1400.png?raw=true",
+    "url": "https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BusinessRockstars.us",
+      "name": "Business Rockstars",
+      "url": ""
+    }
+  },
+  {
+    "name": "Class CNBC",
+    "logo": null,
+    "url": "https://streamcdnb10-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Italy",
+        "code": "IT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Italian",
+        "code": "ita"
+      }
+    ],
+    "tvg": {
+      "id": "ClassCNBC.it",
+      "name": "Class CNBC",
+      "url": "https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml"
+    }
+  },
+  {
+    "name": "CNBC Arabiya",
+    "logo": "https://i.imgur.com/a6QmjRT.png",
+    "url": "https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "CNBCArabiya.us",
+      "name": "CNBC Arabiya",
+      "url": "https://iptv-org.github.io/epg/guides/ae/osn.com.epg.xml"
+    }
+  },
+  {
+    "name": "CNBC Awaaz",
+    "logo": null,
+    "url": "https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "CNBCAwaaz.in",
+      "name": "CNBC Awaaz",
+      "url": ""
+    }
+  },
+  {
+    "name": "CNBC Europe",
+    "logo": "https://i.imgur.com/53EgUZN.png",
+    "url": "http://ott-cdn.ucom.am/s65/index.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CNBCEurope.us",
+      "name": "CNBC Europe",
+      "url": "https://iptv-org.github.io/epg/guides/ae/osn.com.epg.xml"
+    }
+  },
+  {
+    "name": "CNBC Indonesia",
+    "logo": "https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "CNBCIndonesia.id",
+      "name": "CNBC Indonesia",
+      "url": ""
+    }
+  },
+  {
+    "name": "CNBC Indonesia",
+    "logo": "https://i.imgur.com/53EgUZN.png",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CNBCIndonesia.us",
+      "name": "CNBC Indonesia",
+      "url": ""
+    }
+  },
+  {
+    "name": "CNBC TV 18",
+    "logo": "https://i.imgur.com/3yumcV3.jpg",
+    "url": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "CNBCTV18.us",
+      "name": "CNBC TV 18",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "DeFinance",
+    "logo": "https://i.imgur.com/Rl4nROp.png",
+    "url": "https://decentric-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f7656f4095fd738e74dbc53_defiance-live/b67fe0d4-a8eb-45c9-b750-c58119ae477e/0.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DeFinance.us",
+      "name": "DeFinance",
+      "url": ""
+    }
+  },
+  {
+    "name": "ET Now",
+    "logo": "https://i.imgur.com/rhkI95a.png",
+    "url": "https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ETNow.in",
+      "name": "ET Now",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "StockCharts TV",
+    "logo": "https://d.stockcharts.com/img/scc-logo-light.png",
+    "url": "https://iptv-all.lanesh4d0w.repl.co/united-states/stockchartstv",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "StockchartsTV.us",
+      "name": "StockCharts TV",
+      "url": ""
+    }
+  },
+
+  {
+    "name": "NDTV Profit",
+    "logo": "http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg",
+    "url": "https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8",
+    "categories": [
+      {
+        "name": "Fox Business",
+        "logo": "https://i.imgur.com/61wD4dV.png",
+        "url": "http://199.66.95.242/1/1172/index.m3u8?token=test",
+        "categories": [
+          {
+            "name": "Business",
+            "slug": "business"
+          }
+        ],
+        "countries": [
+          {
+            "name": "United States",
+            "code": "US"
+          }
+        ],
+        "languages": [
+          {
+            "name": "English",
+            "code": "eng"
+          }
+        ],
+        "tvg": {
+          "id": "FoxBusiness.us",
+          "name": "Fox Business",
+          "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+        }
+      },
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "NDTVProfit.in",
+      "name": "NDTV Profit",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Bloomberg TV",
+    "logo": null,
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=54ff7ba69222cb1c2624c584&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=224&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Business",
+        "slug": "business"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBloombergTV.us",
+      "name": "Pluto TV Bloomberg TV",
+      "url": ""
+    }
+  }
+]

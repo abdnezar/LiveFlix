@@ -1,0 +1,8161 @@
+[
+  {
+    "name": "&Flix",
+    "logo": "https://static.epg.best/in/AndFlix.in.png",
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-channel_2105335046",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "AndFlix.in",
+      "name": "&Flix",
+      "url": ""
+    }
+  },
+  {
+    "name": "&Pictures",
+    "logo": "https://static.epg.best/in/AndPictures.in.png",
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-tvpictureshd",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Pashto",
+        "code": "pus"
+      }
+    ],
+    "tvg": {
+      "id": "AndPictures.in",
+      "name": "&Pictures",
+      "url": ""
+    }
+  },
+  {
+    "name": "&privé HD",
+    "logo": "https://static.epg.best/in/AndPrive.in.png",
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-privéhd",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Pashto",
+        "code": "pus"
+      }
+    ],
+    "tvg": {
+      "id": "AndPriveHD.in",
+      "name": "&privé HD",
+      "url": ""
+    }
+  },
+  {
+    "name": "&TV HD",
+    "logo": "https://static.epg.best/in/AndTV.in.png",
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-tvhd_0",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Pashto",
+        "code": "pus"
+      }
+    ],
+    "tvg": {
+      "id": "AndTVHD.in",
+      "name": "&TV HD",
+      "url": ""
+    }
+  },
+  {
+    "name": "24 Hour Free Movies",
+    "logo": "https://i.imgur.com/FiTdDp1.png",
+    "url": "https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "24HourFreeMovies.us",
+      "name": "24 Hour Free Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "43 канал",
+    "logo": null,
+    "url": "http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "43kanal.ru",
+      "name": "43 канал",
+      "url": ""
+    }
+  },
+  {
+    "name": "ActionMax East",
+    "logo": "https://i.imgur.com/Snba5W2.jpg",
+    "url": "http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ActionMaxEast.us",
+      "name": "ActionMax East",
+      "url": "https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml"
+    }
+  },
+  {
+    "name": "Afroland TV",
+    "logo": "https://i.imgur.com/RAJsPmP.png",
+    "url": "https://afrolandtv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60e4824fda9b1e0dc15f2264_afrolandtv-live-1/ca5ddbc8-7087-47ef-beff-fc55393d74a2/4.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AfrolandTV.us",
+      "name": "Afroland TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Alfa Dramas",
+    "logo": "https://i.imgur.com/39l3uRU.jpg",
+    "url": "https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Greece",
+        "code": "GR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Greek",
+        "code": "ell"
+      }
+    ],
+    "tvg": {
+      "id": "AlfaDramas.gr",
+      "name": "Alfa Dramas",
+      "url": ""
+    }
+  },
+  {
+    "name": "AMC IFC Film Picks",
+    "logo": "https://i.imgur.com/yngqRL8.png",
+    "url": "https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AMCIFCFilmPicks.us",
+      "name": "AMC IFC Film Picks",
+      "url": ""
+    }
+  },
+  {
+    "name": "AMC Rush",
+    "logo": "https://i.imgur.com/yngqRL8.png",
+    "url": "https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AMCRush.us",
+      "name": "AMC Rush",
+      "url": ""
+    }
+  },
+  {
+    "name": "Amedia Hit",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a0000016653697bea0c072bf5c5bc1c11ec/260x160",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "AmediaHit.ru",
+      "name": "Amedia Hit",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "American Classics",
+    "logo": "https://i.imgur.com/WUAXiq1.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AmericanClassics.us",
+      "name": "American Classics",
+      "url": ""
+    }
+  },
+  {
+    "name": "American Horrors",
+    "logo": "https://i.imgur.com/JLkzt7v.jpg",
+    "url": "http://170.178.189.66:1935/live/Stream1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AmericanHorrors.us",
+      "name": "American Horrors",
+      "url": ""
+    }
+  },
+  {
+    "name": "An American Christmas Carol",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Christmas_715x715.png?raw=true",
+    "url": "https://cloudfront.tubi.video/5b97b1f5-a605-44a5-a192-12e10beece40/sd846jzc/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AnAmericanChristmasCarol.us",
+      "name": "An American Christmas Carol",
+      "url": ""
+    }
+  },
+  {
+    "name": "Armenia Premium",
+    "logo": "https://i.imgur.com/IxOFvqz.png",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Armenia",
+        "code": "AM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Armenian",
+        "code": "hye"
+      }
+    ],
+    "tvg": {
+      "id": "ArmeniaPremium.am",
+      "name": "Armenia Premium",
+      "url": ""
+    }
+  },
+  {
+    "name": "Armenia Հայ Կինո",
+    "logo": "https://i.imgur.com/XwbLfqd.png",
+    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Armenia",
+        "code": "AM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Armenian",
+        "code": "hye"
+      }
+    ],
+    "tvg": {
+      "id": "ArmeniaHayKino.am",
+      "name": "Armenia Հայ Կինո",
+      "url": ""
+    }
+  },
+  {
+    "name": "Armenia Սինեմաքս",
+    "logo": "https://i.imgur.com/fRfGuQg.png",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Armenia",
+        "code": "AM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Armenian",
+        "code": "hye"
+      }
+    ],
+    "tvg": {
+      "id": "ArmeniaSinemaks.am",
+      "name": "Armenia Սինեմաքս",
+      "url": ""
+    }
+  },
+  {
+    "name": "Asylum (XUMO)",
+    "logo": "https://i.imgur.com/j98vGQp.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Asylum.us",
+      "name": "Asylum (XUMO)",
+      "url": ""
+    }
+  },
+  {
+    "name": "ATV Կինոման",
+    "logo": "https://i.imgur.com/lidNHkH.png",
+    "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Armenia",
+        "code": "AM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Armenian",
+        "code": "hye"
+      }
+    ],
+    "tvg": {
+      "id": "ATVKinoman.am",
+      "name": "ATV Կինոման",
+      "url": "https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml"
+    }
+  },
+  {
+    "name": "ATV Ֆիլմզոն",
+    "logo": "https://i.imgur.com/uWBrDpV.png",
+    "url": "http://ott-cdn.ucom.am/s48/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Armenia",
+        "code": "AM"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Armenian",
+        "code": "hye"
+      }
+    ],
+    "tvg": {
+      "id": "ATVFilmzone.am",
+      "name": "ATV Ֆիլմզոն",
+      "url": "https://iptv-org.github.io/epg/guides/am/tv.mail.ru.epg.xml"
+    }
+  },
+  {
+    "name": "AXN East Asia",
+    "logo": "https://www.img09.xyz/assets/img/ch_logo/hd-axn.png",
+    "url": "https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "AXNEastAsia.us",
+      "name": "AXN East Asia",
+      "url": ""
+    }
+  },
+  {
+    "name": "B4U Bhojpuri",
+    "logo": "https://i.imgur.com/FizAx6D.png",
+    "url": "http://14.199.164.20:4001/play/a0nq/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bhojpuri",
+        "code": "bho"
+      }
+    ],
+    "tvg": {
+      "id": "B4UBhojpuri.in",
+      "name": "B4U Bhojpuri",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "B4U Hitz",
+    "logo": null,
+    "url": "http://14.199.164.20:4001/play/a0wh/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "B4UHitz.in",
+      "name": "B4U Hitz",
+      "url": ""
+    }
+  },
+  {
+    "name": "B4U Kadak",
+    "logo": "https://i.imgur.com/vwkjtRT.png",
+    "url": "http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "B4UKadak.in",
+      "name": "B4U Kadak",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "B4U movies",
+    "logo": "https://i.imgur.com/FiIewq2.png",
+    "url": "http://14.199.164.20:4001/play/a0wj/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "B4UMovies.in",
+      "name": "B4U movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "B4U Plus",
+    "logo": "https://i.imgur.com/SsooYqR.png",
+    "url": "http://14.199.164.20:4001/play/a0wi/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "B4UPlus.in",
+      "name": "B4U Plus",
+      "url": "https://iptv-org.github.io/epg/guides/ae/osn.com.epg.xml"
+    }
+  },
+  {
+    "name": "Backus TV",
+    "logo": "https://i.imgur.com/YTcmkfW.png",
+    "url": "http://stream.backustv.ru/live/btv/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "BackusTV.ru",
+      "name": "Backus TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Backus TV Страшное",
+    "logo": "https://i.imgur.com/GGX4vDW.png",
+    "url": "http://stream.backustv.ru/live/btv2/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "BackusTVStrashnoe.ru",
+      "name": "Backus TV Страшное",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bflix Movies",
+    "logo": "https://i.imgur.com/z3ALZQQ.jpg",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "BflixMovies.in",
+      "name": "Bflix Movies",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Bhojpuri Cinema",
+    "logo": "https://i.imgur.com/ABxIO7r.jpg",
+    "url": "http://14.199.164.20:4001/play/a0rj/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Bhojpuri",
+        "code": "bho"
+      }
+    ],
+    "tvg": {
+      "id": "BhojpuriCinema.in",
+      "name": "Bhojpuri Cinema",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Bloody Disgusting",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/602dd011302f4d7da05d4bf3",
+    "url": "https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BloodyDisgusting.us",
+      "name": "Bloody Disgusting",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bollywood HD",
+    "logo": "https://ocdn.eu/ptv2-images-transforms/1/MU_kr5sb2dvLW1pZ3JhdGVkL2JvbGx5d29vZC1oZC5qcGeSlQJkAMLDlQIAKMLD",
+    "url": "https://sc.id-tv.kz/bollywood_hd.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "BollywoodHD.ru",
+      "name": "Bollywood HD",
+      "url": "https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml"
+    }
+  },
+  {
+    "name": "Box Cinema",
+    "logo": "https://i.imgur.com/LGJlmtp.png",
+    "url": "http://14.199.164.20:4001/play/a0su/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "BoxCinema.in",
+      "name": "Box Cinema",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Bumblebee TV Classics #1",
+    "logo": "https://i.imgur.com/dxPsj2s.png",
+    "url": "https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/manifest/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/0d14dc99-cc30-4c0e-8531-40cdfe650694/1.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVClassicsOne.us",
+      "name": "Bumblebee TV Classics #1",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV Classics #2",
+    "logo": "https://i.imgur.com/dxPsj2s.png",
+    "url": "https://stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVClassicsTwo.us",
+      "name": "Bumblebee TV Classics #2",
+      "url": ""
+    }
+  },
+  {
+    "name": "Bumblebee TV PopCornFlix Action",
+    "logo": "https://i.imgur.com/Ths3dIy.png",
+    "url": "https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "BumblebeeTVPopCornFlixAction.us",
+      "name": "Bumblebee TV PopCornFlix Action",
+      "url": ""
+    }
+  },
+  {
+    "name": "CCTV-6电影",
+    "logo": "https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png",
+    "url": "http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "China",
+        "code": "CN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      },
+      {
+        "name": "Mandarin Chinese",
+        "code": "cmn"
+      }
+    ],
+    "tvg": {
+      "id": "CCTV6.cn",
+      "name": "CCTV-6电影",
+      "url": ""
+    }
+  },
+  {
+    "name": "Celestial Classic 天映经典",
+    "logo": "https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png",
+    "url": "http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malay",
+        "code": "msa"
+      }
+    ],
+    "tvg": {
+      "id": "CelestialClassicMovies.hk",
+      "name": "Celestial Classic 天映经典",
+      "url": "https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+    }
+  },
+  {
+    "name": "Celestial Movies",
+    "logo": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png",
+    "url": "http://210.210.155.35/qwr9ew/s/s33/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Chinese",
+        "code": "zho"
+      }
+    ],
+    "tvg": {
+      "id": "CelestialMovies.hk",
+      "name": "Celestial Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Charge!",
+    "logo": "https://i.imgur.com/fuw0hHE.png",
+    "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Charge.us",
+      "name": "Charge!",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cinema",
+    "logo": "https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC84YTkyNTgwNC00NDUzLTQ0YTYtYmI4NS1jYzkwZTIzNGQwZGMuanBn.jpg",
+    "url": "https://sc.id-tv.kz/Cinema.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Cinema.ru",
+      "name": "Cinema",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "Cinema+",
+    "logo": null,
+    "url": "https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Colombia",
+        "code": "CO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "CinemaMás.co",
+      "name": "Cinema+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cinemax",
+    "logo": "https://static.epg.best/ph/Cinemax.ph.png",
+    "url": "http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb&tm=1626349319&un=rommel07",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Cinemax.us",
+      "name": "Cinemax",
+      "url": ""
+    }
+  },
+  {
+    "name": "Cinemax Asia",
+    "logo": "https://static.epg.best/ph/Cinemax.ph.png",
+    "url": "https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      },
+      {
+        "name": "Vietnamese",
+        "code": "vie"
+      }
+    ],
+    "tvg": {
+      "id": "CinemaxAsia.us",
+      "name": "Cinemax Asia",
+      "url": "https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml"
+    }
+  },
+  {
+    "name": "Cinemax East",
+    "logo": "https://static.epg.best/ph/Cinemax.ph.png",
+    "url": "http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CinemaxEast.us",
+      "name": "Cinemax East",
+      "url": "https://iptv-org.github.io/epg/guides/bs/rev.bs.epg.xml"
+    }
+  },
+  {
+    "name": "Crackle",
+    "logo": "https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png",
+    "url": "https://crackle-plex.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Crackle.us",
+      "name": "Crackle",
+      "url": ""
+    }
+  },
+  {
+    "name": "Crackle (XUMO)",
+    "logo": "https://i.imgur.com/XAQpMY6.png",
+    "url": "http://crackle-xumo.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "CrackleXUMO.us",
+      "name": "Crackle (XUMO)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dhinchaak",
+    "logo": "https://i.imgur.com/T2c6PjU.jpg",
+    "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "Dhinchaak.in",
+      "name": "Dhinchaak",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Dhinchaak 2",
+    "logo": "https://i.imgur.com/AC4ze9o.jpg",
+    "url": "http://14.199.164.20:4001/play/a0tm/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "Dhinchaak2.in",
+      "name": "Dhinchaak 2",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Drama Life",
+    "logo": "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/10062020/Drama_Life_190x190.png?raw=true",
+    "url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "DramaLife.us",
+      "name": "Drama Life",
+      "url": ""
+    }
+  },
+  {
+    "name": "Dust",
+    "logo": "https://play-lh.googleusercontent.com/byIRP2QHx669BQ0BnWqbiB_bje1PkYTWmq9a-AC5PSBjG5CIwryhftF7W5Oj1cwSnto",
+    "url": "https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Dust.us",
+      "name": "Dust",
+      "url": ""
+    }
+  },
+  {
+    "name": "Faraz TV",
+    "logo": null,
+    "url": "https://faraztv.net/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "FarazTV.ir",
+      "name": "Faraz TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV MOVIE CHANNEL",
+    "logo": null,
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&serverSideAds=true&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMOVIECHANNEL.us",
+      "name": "Pluto TV MOVIE CHANNEL",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Movies",
+    "logo": "https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=eddfafe3-0584-11eb-82fe-0242ac110002&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMovies.us",
+      "name": "Pluto TV Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Movies (England)",
+    "logo": "https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad8d3a31b95267e225e4e09/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ad8d3a31b95267e225e4e09&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=50&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMoviesEngland.us",
+      "name": "Pluto TV Movies (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Movies (Germany)",
+    "logo": "https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMoviesGermany.us",
+      "name": "Pluto TV Movies (Germany)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Movies CH",
+    "logo": "https://images.pluto.tv/channels/5dc2bdfec6cdc10009975e20/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2bdfec6cdc10009975e20/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Germany",
+        "code": "DE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "German",
+        "code": "deu"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMoviesCH.us",
+      "name": "Pluto TV Movies CH",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Movies+",
+    "logo": "https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d0a1f73654db655a9274428/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d0a1f73654db655a9274428&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=372611e5-6b4b-4a3f-9491-368034dfa39e&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMoviesPlus.us",
+      "name": "Pluto TV Movies+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Movies+ (CH)",
+    "logo": "https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c8a6bc64dc7286c6afaf4ab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c8a6bc64dc7286c6afaf4ab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f747754f-ee3e-4968-9e8e-779da031bce9&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVMoviesPlusCH.us",
+      "name": "Pluto TV Movies+ (CH)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Novelas Drama",
+    "logo": "http://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNovelasDrama.us",
+      "name": "Pluto TV Novelas Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Novelas Thriller",
+    "logo": "http://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dc59026b9b000766f9a2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=943&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVNovelasThriller.us",
+      "name": "Pluto TV Novelas Thriller",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Paramount Movie Channel",
+    "logo": "http://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVParamountMovieChannel.us",
+      "name": "Pluto TV Paramount Movie Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Paramount+ Picks",
+    "logo": "http://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVParamountPlusPicks.us",
+      "name": "Pluto TV Paramount+ Picks",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Romance",
+    "logo": "http://images.pluto.tv/channels/60812fc8539963000707d1e1/solidLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVRomance.us",
+      "name": "Pluto TV Romance",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Romance (England)",
+    "logo": "http://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677c0edace7cff8180b16/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677c0edace7cff8180b16&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=57&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVRomanceEngland.us",
+      "name": "Pluto TV Romance (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Sci-Fi",
+    "logo": "https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4fc274694c027be6ed3eea&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=151&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVSciFi.us",
+      "name": "Pluto TV Sci-Fi",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Spotlight",
+    "logo": "http://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ba3fb9c4b078e0f37ad34e8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=51&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVSpotlight.us",
+      "name": "Pluto TV Spotlight",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Telemundo Telenovelas",
+    "logo": "http://images.pluto.tv/channels/5cf96cc422df39f1a338d165/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTelemundoTelenovelas.us",
+      "name": "Pluto TV Telemundo Telenovelas",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Telenovela",
+    "logo": "https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTelenovela.us",
+      "name": "Pluto TV Telenovela",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Terror",
+    "logo": "http://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c6dc88fcd232425a6e0f06e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=76&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVTerror.us",
+      "name": "Pluto TV Terror",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Westerns",
+    "logo": "http://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVWesterns.us",
+      "name": "Pluto TV Westerns",
+      "url": ""
+    }
+  },
+  {
+    "name": "Public Movies",
+    "logo": "https://i.imgur.com/GpAvaCx.png",
+    "url": "http://14.199.164.20:4001/play/a0ll/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kannada",
+        "code": "kan"
+      }
+    ],
+    "tvg": {
+      "id": "PublicMovies.in",
+      "name": "Public Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rotana Cinema",
+    "logo": "https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png",
+    "url": "https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "RotanaCinema.sa",
+      "name": "Rotana Cinema",
+      "url": "https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"
+    }
+  },
+  {
+    "name": "Rotana Cinema",
+    "logo": "https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",
+    "url": "https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Rotana Cinema",
+      "name": "Rotana Cinema",
+      "url": ""
+    }
+  },
+  {
+    "name": "Rotana Cinema KSA",
+    "logo": "https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",
+    "url": "https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "RotanaCinemaKSA.sa",
+      "name": "Rotana Cinema KSA",
+      "url": "https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml"
+    }
+  },
+  {
+    "name": "RunTime",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true",
+    "url": "https://ammoruntime-plex.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "RunTimeFreeMovies.us",
+      "name": "RunTime",
+      "url": ""
+    }
+  },
+  {
+    "name": "Runtime (Brazil)",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true",
+    "url": "https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "RuntimeBrazil.us",
+      "name": "Runtime (Brazil)",
+      "url": ""
+    }
+  },
+  {
+    "name": "SBS World Movies",
+    "logo": "https://i.mjh.nz/.images/tv.320203000307.png",
+    "url": "https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Australia",
+        "code": "AU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "SBSWorldMovies.au",
+      "name": "SBS World Movies",
+      "url": "https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml"
+    }
+  },
+  {
+    "name": "Sepanj TV",
+    "logo": null,
+    "url": "http://51.210.199.30/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "SepanjTV.ir",
+      "name": "Sepanj TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Shot TV",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a0000017218405591631a616f60e82872eb/170x100",
+    "url": "http://cdn.tvmatic.net/shot.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "ShotTV.ru",
+      "name": "Shot TV",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "STIRR FilmRise Free Movies",
+    "logo": "https://i.imgur.com/X7U7ikq.png",
+    "url": "https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRFilmRiseFreeMovies.us",
+      "name": "STIRR FilmRise Free Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Gravitas Movies",
+    "logo": "https://i.imgur.com/H2hD4vT.png",
+    "url": "https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRGravitasMovies.us",
+      "name": "STIRR Gravitas Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Horror Movies",
+    "logo": "https://cloutcom.co.uk/wp-content/uploads/2017/12/horrorchannelonairlogo.jpg",
+    "url": "https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRHorrorMovies.us",
+      "name": "STIRR Horror Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Movies",
+    "logo": "https://i.imgur.com/SAfy1us.png",
+    "url": "https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRMovies.us",
+      "name": "STIRR Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Mystery Science Theater 3000",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/f/fc/MST3K-logo.png",
+    "url": "https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRMysteryScienceTheater3000.us",
+      "name": "STIRR Mystery Science Theater 3000",
+      "url": ""
+    }
+  },
+  {
+    "name": "STIRR Westerns",
+    "logo": "https://i.imgur.com/SAfy1us.png",
+    "url": "https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "STIRRWesterns.us",
+      "name": "STIRR Westerns",
+      "url": ""
+    }
+  },
+  {
+    "name": "Syria Drama",
+    "logo": "https://i.imgur.com/5EnxvkU.png",
+    "url": "http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Syria",
+        "code": "SY"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "Syria Drama",
+      "name": "Syria Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Tapesh 2 Movies",
+    "logo": null,
+    "url": "http://159.69.58.154/t2_movies/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "Tapesh2Movies.ir",
+      "name": "Tapesh 2 Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "The Film Detective",
+    "logo": "https://i.imgur.com/X7NV3X1.png",
+    "url": "https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TheFilmDetective.us",
+      "name": "The Film Detective",
+      "url": ""
+    }
+  },
+  {
+    "name": "Film Hub",
+    "logo": "http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FilmHub.us",
+      "name": "Film Hub",
+      "url": ""
+    }
+  },
+  {
+    "name": "Filmes Suspense",
+    "logo": "https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "FilmesSuspense.br",
+      "name": "Filmes Suspense",
+      "url": ""
+    }
+  },
+  {
+    "name": "FilmRise Free Movies",
+    "logo": "https://i.imgur.com/X7U7ikq.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FilmRiseFreeMovies.us",
+      "name": "FilmRise Free Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "FilmRise Free Movies (Redbox)",
+    "logo": "https://i.imgur.com/X7U7ikq.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FilmRiseFreeMoviesRedbox.us",
+      "name": "FilmRise Free Movies (Redbox)",
+      "url": ""
+    }
+  },
+  {
+    "name": "FilmRise True Crime",
+    "logo": "https://i.imgur.com/suxN191.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FilmRiseTrueCrime.us",
+      "name": "FilmRise True Crime",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fox Movies Asia (Thai)",
+    "logo": "https://i.imgur.com/vs51MBW.png",
+    "url": "https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Thai",
+        "code": "tha"
+      }
+    ],
+    "tvg": {
+      "id": "FoxMoviesAsia.us",
+      "name": "Fox Movies Asia (Thai)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Fox Russia",
+    "logo": "https://i.imgur.com/992gw0d.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "FoxRussia.us",
+      "name": "Fox Russia",
+      "url": "https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml"
+    }
+  },
+  {
+    "name": "Fox Thai",
+    "logo": "https://www.we-play.tv//uploads/posters/-poster1602704474.jpeg",
+    "url": "https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Thailand",
+        "code": "TH"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Thai",
+        "code": "tha"
+      }
+    ],
+    "tvg": {
+      "id": "FoxThai.us",
+      "name": "Fox Thai",
+      "url": ""
+    }
+  },
+  {
+    "name": "FrightFlix",
+    "logo": "https://i.imgur.com/rgNQYAl.png",
+    "url": "https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "FrightFlix.us",
+      "name": "FrightFlix",
+      "url": ""
+    }
+  },
+  {
+    "name": "FTV",
+    "logo": "https://apim.livetv.az/images/original/ftvlogo.png",
+    "url": "https://str2.yodacdn.net/publive/ftv/video.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Azerbaijani",
+        "code": "aze"
+      }
+    ],
+    "tvg": {
+      "id": "FTV.az",
+      "name": "FTV",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM Academy",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/gemusa.png",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMAcademy.ir",
+      "name": "GEM Academy",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM Comedy",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/gem_comedy.png",
+    "url": "http://216.66.42.47:7777/GemComedy_HD.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMComedy.ir",
+      "name": "GEM Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM Drama",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/gemdrama.png",
+    "url": "http://65.21.196.79/gem_drama/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMDrama.ir",
+      "name": "GEM Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM Onyx",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/onyx.png",
+    "url": "https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMOnyx.ir",
+      "name": "GEM Onyx",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM Series",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/gemseries.png",
+    "url": "http://65.21.196.79/gem_series/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMSeries.ir",
+      "name": "GEM Series",
+      "url": ""
+    }
+  },
+  {
+    "name": "GEM Tv",
+    "logo": "https://www.gemonline.tv/Assets/channels-box/gemtv.png",
+    "url": "http://65.21.196.79/gem_tv/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "GEMTv.ir",
+      "name": "GEM Tv",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ghost TV",
+    "logo": "https://i.imgur.com/ZVO8GVI.png",
+    "url": "https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "GhostTV.br",
+      "name": "Ghost TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Golden Latinoamérica",
+    "logo": "https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png",
+    "url": "https://cloud2.streaminglivehd.com:1936/8026/8026/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Mexico",
+        "code": "MX"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "GoldenLatinoamerica.mx",
+      "name": "Golden Latinoamérica",
+      "url": "https://iptv-org.github.io/epg/guides/ar/gatotv.com.epg.xml"
+    }
+  },
+  {
+    "name": "Gravitas Movies",
+    "logo": "https://i.imgur.com/H2hD4vT.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "GravitasMovies.us",
+      "name": "Gravitas Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Groovy TV",
+    "logo": "https://i.imgur.com/0iklNh2.png",
+    "url": "http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Greece",
+        "code": "GR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Greek",
+        "code": "ell"
+      }
+    ],
+    "tvg": {
+      "id": "GroovyTV.gr",
+      "name": "Groovy TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hallmark Movies & More",
+    "logo": "https://i.imgur.com/JMn9sxk.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "HallmarkMoviesMore.us",
+      "name": "Hallmark Movies & More",
+      "url": ""
+    }
+  },
+  {
+    "name": "Hits Movies",
+    "logo": "https://movies.hitstv.com/img/hits-movies-logo.png",
+    "url": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Indonesian",
+        "code": "ind"
+      }
+    ],
+    "tvg": {
+      "id": "HitsMovies.id",
+      "name": "Hits Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Horrify",
+    "logo": "https://i.imgur.com/NCbpYa4.png",
+    "url": "https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Horrify.us",
+      "name": "Horrify",
+      "url": ""
+    }
+  },
+  {
+    "name": "IFC Films Picks",
+    "logo": "https://i.imgur.com/yngqRL8.png",
+    "url": "https://amc-ifc-films-picks-1.imdbtv.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "IFCFilmsPicks.us",
+      "name": "IFC Films Picks",
+      "url": ""
+    }
+  },
+  {
+    "name": "iFILM Arabic",
+    "logo": "https://i.imgur.com/RPwKZUD.jpg",
+    "url": "https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "iFILMArabic.ir",
+      "name": "iFILM Arabic",
+      "url": ""
+    }
+  },
+  {
+    "name": "iFILM English",
+    "logo": "https://i.imgur.com/GgmXZRU.png",
+    "url": "https://live1.presstv.ir/live/ifilmen.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "iFILMEnglish.ir",
+      "name": "iFILM English",
+      "url": ""
+    }
+  },
+  {
+    "name": "iFILM Persian 2",
+    "logo": "https://fa2.ifilmtv.com/img/test-final02.png",
+    "url": "https://live1.presstv.ir/live/ifilm2.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "iFILMPersian2.ir",
+      "name": "iFILM Persian 2",
+      "url": ""
+    }
+  },
+  {
+    "name": "KCV Movies",
+    "logo": "https://i.imgur.com/NY94lnZ.png",
+    "url": "http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "KCVMovies.in",
+      "name": "KCV Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Khatereh TV",
+    "logo": null,
+    "url": "https://5caf24a595d94.streamlock.net:1937/8130/8130/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "KhaterehTV.ir",
+      "name": "Khatereh TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Kuriakos Cine",
+    "logo": "https://i.imgur.com/CZViCwB.jpg",
+    "url": "http://c2.manasat.com:1935/kcine/kcine3/master.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Portugal",
+        "code": "PT"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "KuriakosCine.pt",
+      "name": "Kuriakos Cine",
+      "url": ""
+    }
+  },
+  {
+    "name": "Local Now Drama",
+    "logo": "https://f9q4g5j6.ssl.hwcdn.net/603ef0de115bdc7aec7b7e82",
+    "url": "https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "LocalNowDrama.us",
+      "name": "Local Now Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Maha Movie",
+    "logo": "https://i.imgur.com/hpShFDL.png",
+    "url": "http://14.199.164.20:4001/play/a0q7/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "MahaMovie.in",
+      "name": "Maha Movie",
+      "url": ""
+    }
+  },
+  {
+    "name": "Manoranjan Grand",
+    "logo": "https://i.imgur.com/2BSvBGG.png",
+    "url": "http://14.199.164.20:4001/play/a0m2/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "ManoranjanGrand.in",
+      "name": "Manoranjan Grand",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Manoranjan Movies",
+    "logo": "https://i.imgur.com/F7uHOyA.png",
+    "url": "https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "ManoranjanMovies.in",
+      "name": "Manoranjan Movies",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Maverick Black Cinema",
+    "logo": "https://i.imgur.com/OEamqFg.png",
+    "url": "https://maverick-maverick-black-cinema-2.vizio.wurl.com/manifest/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MaverickBlackCinema.us",
+      "name": "Maverick Black Cinema",
+      "url": ""
+    }
+  },
+  {
+    "name": "MBC Action",
+    "logo": "https://i.imgur.com/n3TgfP0.png",
+    "url": "https://au7live.tooliserver.com/live/149013_0.m3u8?session=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MBCAction.ae",
+      "name": "MBC Action",
+      "url": ""
+    }
+  },
+  {
+    "name": "MBC Max",
+    "logo": "https://i.imgur.com/X6EliFm.png",
+    "url": "https://au7live.tooliserver.com/live/149015_0.m3u8?session=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MBCMax.ae",
+      "name": "MBC Max",
+      "url": ""
+    }
+  },
+  {
+    "name": "MBC Plus Drama",
+    "logo": "https://i.imgur.com/F5ER0we.png",
+    "url": "https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MBCDramaPlus.ae",
+      "name": "MBC Plus Drama",
+      "url": "https://iptv-org.github.io/epg/guides/ae/mbc.net.epg.xml"
+    }
+  },
+  {
+    "name": "MBC Plus Variety",
+    "logo": "https://i.imgur.com/KefqHnm.jpg",
+    "url": "https://au7live.tooliserver.com/live/149017_0.m3u8?session=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "MBCVarietyPlus.ae",
+      "name": "MBC Plus Variety",
+      "url": ""
+    }
+  },
+  {
+    "name": "Millenium TV",
+    "logo": "",
+    "url": "http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "MilleniumTV.ru",
+      "name": "Millenium TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Moovimex",
+    "logo": "https://i.imgur.com/mty0mgJ.jpg",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "Moovimex.us",
+      "name": "Moovimex",
+      "url": ""
+    }
+  },
+  {
+    "name": "Movee 4U",
+    "logo": "https://mytvtogo.net/wp-content/uploads/2018/11/Network_Movee4U-196x126.jpg",
+    "url": "https://broadcast.mytvtogo.net/movee4u/movee4u/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Movee4U.us",
+      "name": "Movee 4U",
+      "url": ""
+    }
+  },
+  {
+    "name": "Movie Kingdom",
+    "logo": "https://i.imgur.com/pIuJqYk.png",
+    "url": "https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MovieKingdom.us",
+      "name": "Movie Kingdom",
+      "url": ""
+    }
+  },
+  {
+    "name": "MovieFe",
+    "logo": "http://moviefe.com/logo%20moviefe.png",
+    "url": "https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Colombia",
+        "code": "CO"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "MovieFe.co",
+      "name": "MovieFe",
+      "url": ""
+    }
+  },
+  {
+    "name": "MovieSphere",
+    "logo": "https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png",
+    "url": "https://moviesphere-plex.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MovieSphere.us",
+      "name": "MovieSphere",
+      "url": ""
+    }
+  },
+  {
+    "name": "Mythos",
+    "logo": "https://i.imgur.com/JBEqPZP.png",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "Mythos.us",
+      "name": "Mythos",
+      "url": ""
+    }
+  },
+  {
+    "name": "MyTime movie network",
+    "logo": "https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",
+    "url": "https://mytime-roku-ingest.cinedigm.com/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "MyTimemovienetwork.us",
+      "name": "MyTime movie network",
+      "url": ""
+    }
+  },
+  {
+    "name": "MyTime movie network Brazil",
+    "logo": "https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",
+    "url": "https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "MyTimemovienetworkBrazil.us",
+      "name": "MyTime movie network Brazil",
+      "url": ""
+    }
+  },
+  {
+    "name": "MyTime movie network Mexico",
+    "logo": "https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",
+    "url": "https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "MyTimemovienetworkMexico.us",
+      "name": "MyTime movie network Mexico",
+      "url": ""
+    }
+  },
+  {
+    "name": "MyTime movie network Spain",
+    "logo": "https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",
+    "url": "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "MyTimemovienetworkSpain.us",
+      "name": "MyTime movie network Spain",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nee Cinema",
+    "logo": "https://i.imgur.com/vYme2fs.png",
+    "url": "https://live.neestream.com/neestream_01/nee_cinema/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "NeeCinema.in",
+      "name": "Nee Cinema",
+      "url": ""
+    }
+  },
+  {
+    "name": "NETV Toronto",
+    "logo": "https://i.imgur.com/IYDllP5.jpg",
+    "url": "https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Canada",
+        "code": "CA"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Greek",
+        "code": "ell"
+      }
+    ],
+    "tvg": {
+      "id": "NETVToronto.ca",
+      "name": "NETV Toronto",
+      "url": ""
+    }
+  },
+  {
+    "name": "Nile TV Cinema",
+    "logo": "http://www.niletc.tv/images/cinema/cinema.png",
+    "url": "http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Egypt",
+        "code": "EG"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "NileTVCinema.eg",
+      "name": "Nile TV Cinema",
+      "url": ""
+    }
+  },
+  {
+    "name": "Paramount Movie Channel",
+    "logo": "https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/06052020/Paramount_Movie_Channel_190x190.png?raw=true",
+    "url": "http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "ParamountMovieChannel.us",
+      "name": "Paramount Movie Channel",
+      "url": ""
+    }
+  },
+  {
+    "name": "Parsiland",
+    "logo": null,
+    "url": "http://vps.parsiland.net/hls/ParsiLand.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "Parsiland.ir",
+      "name": "Parsiland",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persian Film",
+    "logo": null,
+    "url": "http://51.210.227.135/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianFilm.ir",
+      "name": "Persian Film",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Cinema",
+    "logo": null,
+    "url": "http://51.210.199.15/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaCinema.fr",
+      "name": "Persiana Cinema",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Classic",
+    "logo": null,
+    "url": "http://51.210.199.26/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaClassic.fr",
+      "name": "Persiana Classic",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Comedy",
+    "logo": null,
+    "url": "http://51.210.199.27/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaComedy.fr",
+      "name": "Persiana Comedy",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Family",
+    "logo": null,
+    "url": "http://51.210.199.19/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaFamily.fr",
+      "name": "Persiana Family",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Family Plus",
+    "logo": null,
+    "url": "http://51.210.199.13/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaFamilyPlus.fr",
+      "name": "Persiana Family Plus",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Iranian",
+    "logo": null,
+    "url": "http://51.210.199.22/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaIranian.fr",
+      "name": "Persiana Iranian",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Korea",
+    "logo": null,
+    "url": "http://51.210.199.14/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaKorea.fr",
+      "name": "Persiana Korea",
+      "url": ""
+    }
+  },
+  {
+    "name": "Persiana Plus",
+    "logo": null,
+    "url": "http://51.210.199.21/hls/stream.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Iran",
+        "code": "IR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Persian",
+        "code": "fas"
+      }
+    ],
+    "tvg": {
+      "id": "PersianaPlus.fr",
+      "name": "Persiana Plus",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV 70s Cinema",
+    "logo": "http://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTV70sCinema.us",
+      "name": "Pluto TV 70s Cinema",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV 80s Rewind",
+    "logo": "http://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTV80sRewind.us",
+      "name": "Pluto TV 80s Rewind",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV 90s Throwback",
+    "logo": "http://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTV90sThrowback.us",
+      "name": "Pluto TV 90s Throwback",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Action",
+    "logo": "https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVAction.us",
+      "name": "Pluto TV Action",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Black Cinema",
+    "logo": "http://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVBlackCinema.us",
+      "name": "Pluto TV Black Cinema",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine",
+    "logo": "http://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96b1c4f1ca3f0629f4bf0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=902&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCine.us",
+      "name": "Pluto TV Cine",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Acción",
+    "logo": "https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineAccion.us",
+      "name": "Pluto TV Cine Acción",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Clásico",
+    "logo": "https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineClasico.us",
+      "name": "Pluto TV Cine Clásico",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Clássicos",
+    "logo": "https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineClassicos",
+      "name": "Pluto TV Cine Clássicos",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Comédia",
+    "logo": "https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineComedia.br",
+      "name": "Pluto TV Cine Comédia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Drama",
+    "logo": "https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineDrama.br",
+      "name": "Pluto TV Cine Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Drama",
+    "logo": "https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineDrama.us",
+      "name": "Pluto TV Cine Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Estelar",
+    "logo": "https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineEstelar.us",
+      "name": "Pluto TV Cine Estelar",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Família",
+    "logo": "https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineFamilia.br",
+      "name": "Pluto TV Cine Família",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Ciné Rétro",
+    "logo": "https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineRetro.us",
+      "name": "Pluto TV Ciné Rétro",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Romance",
+    "logo": "https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineRomance.br",
+      "name": "Pluto TV Cine Romance",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Sucessos",
+    "logo": "https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineSucessos.br",
+      "name": "Pluto TV Cine Sucessos",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Terror",
+    "logo": "https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineTerror.br",
+      "name": "Pluto TV Cine Terror",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cine Terror",
+    "logo": "https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCineTerror.us",
+      "name": "Pluto TV Cine Terror",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Ciné+",
+    "logo": "http://images.pluto.tv/channels/5ff5eb810e2996000768c0e2/solidLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5eb810e2996000768c0e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89a930-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7d7d33d-5784-4dee-a799-d09bd30b065a",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCinePlus.us",
+      "name": "Pluto TV Ciné+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cinéma",
+    "logo": null,
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?appVersion=5.4.0&deviceDNT=0&deviceId=071492b1-cafd-427b-81d4-f532808c8397_d6a39913ac3adbd2&deviceMake=samsung&deviceModel=SM-N976N&deviceType=android,samsung,mobile&deviceVersion=7.1.2_25&marketingRegion=FR&sid=b90a2c1a-a2ce-4601-a02d-abe73477534",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCinema.us",
+      "name": "Pluto TV Cinéma",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV CMT Westerns",
+    "logo": "http://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCMTWesterns.us",
+      "name": "Pluto TV CMT Westerns",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Crime Drama",
+    "logo": "http://images.pluto.tv/channels/5f31fd1b4c510e00071c3103/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCrimeDrama.us",
+      "name": "Pluto TV Crime Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Crime Movies",
+    "logo": "http://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCrimeMovies.us",
+      "name": "Pluto TV Crime Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Cult Films",
+    "logo": "https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c31f2f21b553c1f673fb0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVCultFilms.us",
+      "name": "Pluto TV Cult Films",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Drama",
+    "logo": "https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e92e4694c027be6ecece1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=60&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDrama.us",
+      "name": "Pluto TV Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Drama (England)",
+    "logo": "https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf91149880d60009d35d27/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf91149880d60009d35d27&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=402&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDramaEngland.us",
+      "name": "Pluto TV Drama (England)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Drama (Germany)",
+    "logo": "https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc190f7bfed110009d934c3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc190f7bfed110009d934c3&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=200&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDramaGermany.us",
+      "name": "Pluto TV Drama (Germany)",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Drama Life",
+    "logo": "http://images.pluto.tv/channels/5f24662bebe0f0000767de32/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f24662bebe0f0000767de32&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=332&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDramaLife.us",
+      "name": "Pluto TV Drama Life",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Drama+",
+    "logo": "https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a9390-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7eed86a2-2fee-402b-9978-ecaffe0235c0",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVDramaPlus.us",
+      "name": "Pluto TV Drama+",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Filmes Ação",
+    "logo": "https://images.pluto.tv/channels/5f120f41b7d403000783a6d6/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFilmesAcao.br",
+      "name": "Pluto TV Filmes Ação",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Filmes Nacionais",
+    "logo": "https://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png",
+    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Brazil",
+        "code": "BR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Portuguese",
+        "code": "por"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFilmesNacionais.br",
+      "name": "Pluto TV Filmes Nacionais",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Flicks of Fury",
+    "logo": "http://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVFlicksofFury.us",
+      "name": "Pluto TV Flicks of Fury",
+      "url": ""
+    }
+  },
+  {
+    "name": "Pluto TV Horror",
+    "logo": "http://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "PlutoTVHorror.us",
+      "name": "Pluto TV Horror",
+      "url": ""
+    }
+  },{
+  "name": "TV1000 Action Russia",
+  "logo": "https://i.imgur.com/dzOFwC0.png",
+  "url": "https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8",
+  "categories": [
+    {
+      "name": "Movies",
+      "slug": "movies"
+    }
+  ],
+  "countries": [
+    {
+      "name": "Russia",
+      "code": "RU"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Russian",
+      "code": "rus"
+    }
+  ],
+  "tvg": {
+    "id": "TV1000ActionRussia.se",
+    "name": "TV1000 Action Russia",
+    "url": ""
+  }
+},
+  {
+    "name": "TV1000 Russia",
+    "logo": "https://i.imgur.com/7s3v0on.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "TV1000HDRussia.se",
+      "name": "TV1000 Russia",
+      "url": ""
+    }
+  },
+  {
+    "name": "TV1000 Русское кино",
+    "logo": "https://i.imgur.com/iCUmr4k.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "TV1000RusskoeKino.se",
+      "name": "TV1000 Русское кино",
+      "url": "https://iptv-org.github.io/epg/guides/ee-en/teliatv.ee.epg.xml"
+    }
+  },
+  {
+    "name": "СТРК",
+    "logo": null,
+    "url": "http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "STRK.ru",
+      "name": "СТРК",
+      "url": ""
+    }
+  },
+  {
+    "name": "Феникс Кино",
+    "logo": "https://i.imgur.com/JHPnrqe.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "FeniksKino.ru",
+      "name": "Феникс Кино",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Drive In Movie",
+    "logo": "https://i.imgur.com/RhKSIGQ.jpg",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSDriveInMovie.us",
+      "name": "TVS Drive In Movie",
+      "url": ""
+    }
+  },
+  {
+    "name": "TVS Film Noir Network",
+    "logo": "https://i.imgur.com/pXOyNEy.png",
+    "url": "https://rpn1.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "TVSFilmNoirNetwork.us",
+      "name": "TVS Film Noir Network",
+      "url": ""
+    }
+  },
+  {
+    "name": "Дом Кино Премиум",
+    "logo": "https://www.domkino-premium.tv/im/logo3d.png",
+    "url": "https://sc.id-tv.kz/domkino_hd.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "DomKinoPremium.ru",
+      "name": "Дом Кино Премиум",
+      "url": "https://iptv-org.github.io/epg/guides/ge/magticom.ge.epg.xml"
+    }
+  },
+  {
+    "name": "Дорама",
+    "logo": "https://i.imgur.com/lHn6OlM.png",
+    "url": "http://ott-cdn.ucom.am/s95/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Dorama.ru",
+      "name": "Дорама",
+      "url": ""
+    }
+  },
+  {
+    "name": "Ел Арна",
+    "logo": null,
+    "url": "https://sc.id-tv.kz/ElArna.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Kazakh",
+        "code": "kaz"
+      }
+    ],
+    "tvg": {
+      "id": "ElArna.kz",
+      "name": "Ел Арна",
+      "url": ""
+    }
+  },
+  {
+    "name": "Киномикс",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a0000015bb472ae3ff1dedcb38b4b362388/160x160",
+    "url": "https://sc.id-tv.kz/Kinomix_hd.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Kinomiks.ru",
+      "name": "Киномикс",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Кинопремьера",
+    "logo": null,
+    "url": "https://sc.id-tv.kz/Kinopremiera_hd.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Kinopremera.ru",
+      "name": "Кинопремьера",
+      "url": ""
+    }
+  },
+  {
+    "name": "Киносвидание",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a0000015bb474d235c58fbb8b79da50b038/160x120",
+    "url": "https://sc.id-tv.kz/Kinosvidanie_hd.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Kinosvidanie.ru",
+      "name": "Киносвидание",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Киносемья",
+    "logo": null,
+    "url": "https://sc.id-tv.kz/Kinosemiya_hd.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Kinosemya.ru",
+      "name": "Киносемья",
+      "url": ""
+    }
+  },
+  {
+    "name": "Кинохит",
+    "logo": "https://avatars.mds.yandex.net/get-tv-channel-logos/28884/2a0000015bb478064785642d83eab5025536/160x160",
+    "url": "https://sc.id-tv.kz/Kinohit_hd.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Kinohit.ru",
+      "name": "Кинохит",
+      "url": "https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.epg.xml"
+    }
+  },
+  {
+    "name": "Классика Кино",
+    "logo": null,
+    "url": "https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "KlassikaKino.ru",
+      "name": "Классика Кино",
+      "url": ""
+    }
+  },
+  {
+    "name": "Мир сериала",
+    "logo": null,
+    "url": "http://188.40.68.167/russia/mir_seriala/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Mirseriala.ru",
+      "name": "Мир сериала",
+      "url": ""
+    }
+  },
+  {
+    "name": "Премьера",
+    "logo": null,
+    "url": "https://v3.catcast.tv/content/39161/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Andorra",
+        "code": "AD"
+      },
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      },
+      {
+        "name": "Afghanistan",
+        "code": "AF"
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "code": "AG"
+      },
+      {
+        "name": "Anguilla",
+        "code": "AI"
+      },
+      {
+        "name": "Albania",
+        "code": "AL"
+      },
+      {
+        "name": "Armenia",
+        "code": "AM"
+      },
+      {
+        "name": "Angola",
+        "code": "AO"
+      },
+      {
+        "name": "Antarctica",
+        "code": "AQ"
+      },
+      {
+        "name": "Argentina",
+        "code": "AR"
+      },
+      {
+        "name": "American Samoa",
+        "code": "AS"
+      },
+      {
+        "name": "Austria",
+        "code": "AT"
+      },
+      {
+        "name": "Australia",
+        "code": "AU"
+      },
+      {
+        "name": "Aruba",
+        "code": "AW"
+      },
+      {
+        "name": "Åland",
+        "code": "AX"
+      },
+      {
+        "name": "Azerbaijan",
+        "code": "AZ"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "code": "BA"
+      },
+      {
+        "name": "Barbados",
+        "code": "BB"
+      },
+      {
+        "name": "Bangladesh",
+        "code": "BD"
+      },
+      {
+        "name": "Belgium",
+        "code": "BE"
+      },
+      {
+        "name": "Burkina Faso",
+        "code": "BF"
+      },
+      {
+        "name": "Bulgaria",
+        "code": "BG"
+      },
+      {
+        "name": "Bahrain",
+        "code": "BH"
+      },
+      {
+        "name": "Burundi",
+        "code": "BI"
+      },
+      {
+        "name": "Benin",
+        "code": "BJ"
+      },
+      {
+        "name": "Saint Barthélemy",
+        "code": "BL"
+      },
+      {
+        "name": "Bermuda",
+        "code": "BM"
+      },
+      {
+        "name": "Brunei",
+        "code": "BN"
+      },
+      {
+        "name": "Bolivia",
+        "code": "BO"
+      },
+      {
+        "name": "Bonaire",
+        "code": "BQ"
+      },
+      {
+        "name": "Brazil",
+        "code": "BR"
+      },
+      {
+        "name": "Bahamas",
+        "code": "BS"
+      },
+      {
+        "name": "Bhutan",
+        "code": "BT"
+      },
+      {
+        "name": "Bouvet Island",
+        "code": "BV"
+      },
+      {
+        "name": "Botswana",
+        "code": "BW"
+      },
+      {
+        "name": "Belarus",
+        "code": "BY"
+      },
+      {
+        "name": "Belize",
+        "code": "BZ"
+      },
+      {
+        "name": "Canada",
+        "code": "CA"
+      },
+      {
+        "name": "Cocos [Keeling] Islands",
+        "code": "CC"
+      },
+      {
+        "name": "Democratic Republic of the Congo",
+        "code": "CD"
+      },
+      {
+        "name": "Central African Republic",
+        "code": "CF"
+      },
+      {
+        "name": "Republic of the Congo",
+        "code": "CG"
+      },
+      {
+        "name": "Switzerland",
+        "code": "CH"
+      },
+      {
+        "name": "Ivory Coast",
+        "code": "CI"
+      },
+      {
+        "name": "Cook Islands",
+        "code": "CK"
+      },
+      {
+        "name": "Chile",
+        "code": "CL"
+      },
+      {
+        "name": "Cameroon",
+        "code": "CM"
+      },
+      {
+        "name": "China",
+        "code": "CN"
+      },
+      {
+        "name": "Colombia",
+        "code": "CO"
+      },
+      {
+        "name": "Costa Rica",
+        "code": "CR"
+      },
+      {
+        "name": "Cuba",
+        "code": "CU"
+      },
+      {
+        "name": "Cape Verde",
+        "code": "CV"
+      },
+      {
+        "name": "Curacao",
+        "code": "CW"
+      },
+      {
+        "name": "Christmas Island",
+        "code": "CX"
+      },
+      {
+        "name": "Cyprus",
+        "code": "CY"
+      },
+      {
+        "name": "Czech Republic",
+        "code": "CZ"
+      },
+      {
+        "name": "Germany",
+        "code": "DE"
+      },
+      {
+        "name": "Djibouti",
+        "code": "DJ"
+      },
+      {
+        "name": "Denmark",
+        "code": "DK"
+      },
+      {
+        "name": "Dominica",
+        "code": "DM"
+      },
+      {
+        "name": "Dominican Republic",
+        "code": "DO"
+      },
+      {
+        "name": "Algeria",
+        "code": "DZ"
+      },
+      {
+        "name": "Ecuador",
+        "code": "EC"
+      },
+      {
+        "name": "Estonia",
+        "code": "EE"
+      },
+      {
+        "name": "Egypt",
+        "code": "EG"
+      },
+      {
+        "name": "Western Sahara",
+        "code": "EH"
+      },
+      {
+        "name": "Eritrea",
+        "code": "ER"
+      },
+      {
+        "name": "Spain",
+        "code": "ES"
+      },
+      {
+        "name": "Ethiopia",
+        "code": "ET"
+      },
+      {
+        "name": "Finland",
+        "code": "FI"
+      },
+      {
+        "name": "Fiji",
+        "code": "FJ"
+      },
+      {
+        "name": "Falkland Islands",
+        "code": "FK"
+      },
+      {
+        "name": "Micronesia",
+        "code": "FM"
+      },
+      {
+        "name": "Faroe Islands",
+        "code": "FO"
+      },
+      {
+        "name": "France",
+        "code": "FR"
+      },
+      {
+        "name": "Gabon",
+        "code": "GA"
+      },
+      {
+        "name": "United Kingdom",
+        "code": "UK"
+      },
+      {
+        "name": "Grenada",
+        "code": "GD"
+      },
+      {
+        "name": "Georgia",
+        "code": "GE"
+      },
+      {
+        "name": "French Guiana",
+        "code": "GF"
+      },
+      {
+        "name": "Guernsey",
+        "code": "GG"
+      },
+      {
+        "name": "Ghana",
+        "code": "GH"
+      },
+      {
+        "name": "Gibraltar",
+        "code": "GI"
+      },
+      {
+        "name": "Greenland",
+        "code": "GL"
+      },
+      {
+        "name": "Gambia",
+        "code": "GM"
+      },
+      {
+        "name": "Guinea",
+        "code": "GN"
+      },
+      {
+        "name": "Guadeloupe",
+        "code": "GP"
+      },
+      {
+        "name": "Equatorial Guinea",
+        "code": "GQ"
+      },
+      {
+        "name": "Greece",
+        "code": "GR"
+      },
+      {
+        "name": "South Georgia and the South Sandwich Islands",
+        "code": "GS"
+      },
+      {
+        "name": "Guatemala",
+        "code": "GT"
+      },
+      {
+        "name": "Guam",
+        "code": "GU"
+      },
+      {
+        "name": "Guinea-Bissau",
+        "code": "GW"
+      },
+      {
+        "name": "Guyana",
+        "code": "GY"
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK"
+      },
+      {
+        "name": "Heard Island and McDonald Islands",
+        "code": "HM"
+      },
+      {
+        "name": "Honduras",
+        "code": "HN"
+      },
+      {
+        "name": "Croatia",
+        "code": "HR"
+      },
+      {
+        "name": "Haiti",
+        "code": "HT"
+      },
+      {
+        "name": "Hungary",
+        "code": "HU"
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID"
+      },
+      {
+        "name": "Ireland",
+        "code": "IE"
+      },
+      {
+        "name": "Israel",
+        "code": "IL"
+      },
+      {
+        "name": "Isle of Man",
+        "code": "IM"
+      },
+      {
+        "name": "India",
+        "code": "IN"
+      },
+      {
+        "name": "British Indian Ocean Territory",
+        "code": "IO"
+      },
+      {
+        "name": "Iraq",
+        "code": "IQ"
+      },
+      {
+        "name": "Iran",
+        "code": "IR"
+      },
+      {
+        "name": "Iceland",
+        "code": "IS"
+      },
+      {
+        "name": "Italy",
+        "code": "IT"
+      },
+      {
+        "name": "Jersey",
+        "code": "JE"
+      },
+      {
+        "name": "Jamaica",
+        "code": "JM"
+      },
+      {
+        "name": "Jordan",
+        "code": "JO"
+      },
+      {
+        "name": "Japan",
+        "code": "JP"
+      },
+      {
+        "name": "Kenya",
+        "code": "KE"
+      },
+      {
+        "name": "Kyrgyzstan",
+        "code": "KG"
+      },
+      {
+        "name": "Cambodia",
+        "code": "KH"
+      },
+      {
+        "name": "Kiribati",
+        "code": "KI"
+      },
+      {
+        "name": "Comoros",
+        "code": "KM"
+      },
+      {
+        "name": "Saint Kitts and Nevis",
+        "code": "KN"
+      },
+      {
+        "name": "North Korea",
+        "code": "KP"
+      },
+      {
+        "name": "South Korea",
+        "code": "KR"
+      },
+      {
+        "name": "Kuwait",
+        "code": "KW"
+      },
+      {
+        "name": "Cayman Islands",
+        "code": "KY"
+      },
+      {
+        "name": "Kazakhstan",
+        "code": "KZ"
+      },
+      {
+        "name": "Laos",
+        "code": "LA"
+      },
+      {
+        "name": "Lebanon",
+        "code": "LB"
+      },
+      {
+        "name": "Saint Lucia",
+        "code": "LC"
+      },
+      {
+        "name": "Liechtenstein",
+        "code": "LI"
+      },
+      {
+        "name": "Sri Lanka",
+        "code": "LK"
+      },
+      {
+        "name": "Liberia",
+        "code": "LR"
+      },
+      {
+        "name": "Lesotho",
+        "code": "LS"
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "LU"
+      },
+      {
+        "name": "Latvia",
+        "code": "LV"
+      },
+      {
+        "name": "Libya",
+        "code": "LY"
+      },
+      {
+        "name": "Morocco",
+        "code": "MA"
+      },
+      {
+        "name": "Monaco",
+        "code": "MC"
+      },
+      {
+        "name": "Moldova",
+        "code": "MD"
+      },
+      {
+        "name": "Montenegro",
+        "code": "ME"
+      },
+      {
+        "name": "Saint Martin",
+        "code": "MF"
+      },
+      {
+        "name": "Madagascar",
+        "code": "MG"
+      },
+      {
+        "name": "Marshall Islands",
+        "code": "MH"
+      },
+      {
+        "name": "North Macedonia",
+        "code": "MK"
+      },
+      {
+        "name": "Mali",
+        "code": "ML"
+      },
+      {
+        "name": "Myanmar [Burma]",
+        "code": "MM"
+      },
+      {
+        "name": "Mongolia",
+        "code": "MN"
+      },
+      {
+        "name": "Macao",
+        "code": "MO"
+      },
+      {
+        "name": "Northern Mariana Islands",
+        "code": "MP"
+      },
+      {
+        "name": "Martinique",
+        "code": "MQ"
+      },
+      {
+        "name": "Mauritania",
+        "code": "MR"
+      },
+      {
+        "name": "Montserrat",
+        "code": "MS"
+      },
+      {
+        "name": "Malta",
+        "code": "MT"
+      },
+      {
+        "name": "Mauritius",
+        "code": "MU"
+      },
+      {
+        "name": "Maldives",
+        "code": "MV"
+      },
+      {
+        "name": "Malawi",
+        "code": "MW"
+      },
+      {
+        "name": "Mexico",
+        "code": "MX"
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY"
+      },
+      {
+        "name": "Mozambique",
+        "code": "MZ"
+      },
+      {
+        "name": "Namibia",
+        "code": "NA"
+      },
+      {
+        "name": "New Caledonia",
+        "code": "NC"
+      },
+      {
+        "name": "Niger",
+        "code": "NE"
+      },
+      {
+        "name": "Norfolk Island",
+        "code": "NF"
+      },
+      {
+        "name": "Nigeria",
+        "code": "NG"
+      },
+      {
+        "name": "Nicaragua",
+        "code": "NI"
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL"
+      },
+      {
+        "name": "Norway",
+        "code": "NO"
+      },
+      {
+        "name": "Nepal",
+        "code": "NP"
+      },
+      {
+        "name": "Nauru",
+        "code": "NR"
+      },
+      {
+        "name": "Niue",
+        "code": "NU"
+      },
+      {
+        "name": "New Zealand",
+        "code": "NZ"
+      },
+      {
+        "name": "Oman",
+        "code": "OM"
+      },
+      {
+        "name": "Panama",
+        "code": "PA"
+      },
+      {
+        "name": "Peru",
+        "code": "PE"
+      },
+      {
+        "name": "French Polynesia",
+        "code": "PF"
+      },
+      {
+        "name": "Papua New Guinea",
+        "code": "PG"
+      },
+      {
+        "name": "Philippines",
+        "code": "PH"
+      },
+      {
+        "name": "Pakistan",
+        "code": "PK"
+      },
+      {
+        "name": "Poland",
+        "code": "PL"
+      },
+      {
+        "name": "Saint Pierre and Miquelon",
+        "code": "PM"
+      },
+      {
+        "name": "Pitcairn Islands",
+        "code": "PN"
+      },
+      {
+        "name": "Puerto Rico",
+        "code": "PR"
+      },
+      {
+        "name": "Palestine",
+        "code": "PS"
+      },
+      {
+        "name": "Portugal",
+        "code": "PT"
+      },
+      {
+        "name": "Palau",
+        "code": "PW"
+      },
+      {
+        "name": "Paraguay",
+        "code": "PY"
+      },
+      {
+        "name": "Qatar",
+        "code": "QA"
+      },
+      {
+        "name": "Réunion",
+        "code": "RE"
+      },
+      {
+        "name": "Romania",
+        "code": "RO"
+      },
+      {
+        "name": "Serbia",
+        "code": "RS"
+      },
+      {
+        "name": "Russia",
+        "code": "RU"
+      },
+      {
+        "name": "Rwanda",
+        "code": "RW"
+      },
+      {
+        "name": "Saudi Arabia",
+        "code": "SA"
+      },
+      {
+        "name": "Solomon Islands",
+        "code": "SB"
+      },
+      {
+        "name": "Seychelles",
+        "code": "SC"
+      },
+      {
+        "name": "Sudan",
+        "code": "SD"
+      },
+      {
+        "name": "Sweden",
+        "code": "SE"
+      },
+      {
+        "name": "Singapore",
+        "code": "SG"
+      },
+      {
+        "name": "Saint Helena",
+        "code": "SH"
+      },
+      {
+        "name": "Slovenia",
+        "code": "SI"
+      },
+      {
+        "name": "Svalbard and Jan Mayen",
+        "code": "SJ"
+      },
+      {
+        "name": "Slovakia",
+        "code": "SK"
+      },
+      {
+        "name": "Sierra Leone",
+        "code": "SL"
+      },
+      {
+        "name": "San Marino",
+        "code": "SM"
+      },
+      {
+        "name": "Senegal",
+        "code": "SN"
+      },
+      {
+        "name": "Somalia",
+        "code": "SO"
+      },
+      {
+        "name": "Suriname",
+        "code": "SR"
+      },
+      {
+        "name": "South Sudan",
+        "code": "SS"
+      },
+      {
+        "name": "São Tomé and Príncipe",
+        "code": "ST"
+      },
+      {
+        "name": "El Salvador",
+        "code": "SV"
+      },
+      {
+        "name": "Sint Maarten",
+        "code": "SX"
+      },
+      {
+        "name": "Syria",
+        "code": "SY"
+      },
+      {
+        "name": "Swaziland",
+        "code": "SZ"
+      },
+      {
+        "name": "Turks and Caicos Islands",
+        "code": "TC"
+      },
+      {
+        "name": "Chad",
+        "code": "TD"
+      },
+      {
+        "name": "French Southern Territories",
+        "code": "TF"
+      },
+      {
+        "name": "Togo",
+        "code": "TG"
+      },
+      {
+        "name": "Thailand",
+        "code": "TH"
+      },
+      {
+        "name": "Tajikistan",
+        "code": "TJ"
+      },
+      {
+        "name": "Tokelau",
+        "code": "TK"
+      },
+      {
+        "name": "East Timor",
+        "code": "TL"
+      },
+      {
+        "name": "Turkmenistan",
+        "code": "TM"
+      },
+      {
+        "name": "Tunisia",
+        "code": "TN"
+      },
+      {
+        "name": "Tonga",
+        "code": "TO"
+      },
+      {
+        "name": "Turkey",
+        "code": "TR"
+      },
+      {
+        "name": "Trinidad and Tobago",
+        "code": "TT"
+      },
+      {
+        "name": "Tuvalu",
+        "code": "TV"
+      },
+      {
+        "name": "Taiwan",
+        "code": "TW"
+      },
+      {
+        "name": "Tanzania",
+        "code": "TZ"
+      },
+      {
+        "name": "Ukraine",
+        "code": "UA"
+      },
+      {
+        "name": "Uganda",
+        "code": "UG"
+      },
+      {
+        "name": "U.S. Minor Outlying Islands",
+        "code": "UM"
+      },
+      {
+        "name": "United States",
+        "code": "US"
+      },
+      {
+        "name": "Uruguay",
+        "code": "UY"
+      },
+      {
+        "name": "Uzbekistan",
+        "code": "UZ"
+      },
+      {
+        "name": "Vatican City",
+        "code": "VA"
+      },
+      {
+        "name": "Saint Vincent and the Grenadines",
+        "code": "VC"
+      },
+      {
+        "name": "Venezuela",
+        "code": "VE"
+      },
+      {
+        "name": "British Virgin Islands",
+        "code": "VG"
+      },
+      {
+        "name": "U.S. Virgin Islands",
+        "code": "VI"
+      },
+      {
+        "name": "Vietnam",
+        "code": "VN"
+      },
+      {
+        "name": "Vanuatu",
+        "code": "VU"
+      },
+      {
+        "name": "Wallis and Futuna",
+        "code": "WF"
+      },
+      {
+        "name": "Samoa",
+        "code": "WS"
+      },
+      {
+        "name": "Kosovo",
+        "code": "XK"
+      },
+      {
+        "name": "Yemen",
+        "code": "YE"
+      },
+      {
+        "name": "Mayotte",
+        "code": "YT"
+      },
+      {
+        "name": "South Africa",
+        "code": "ZA"
+      },
+      {
+        "name": "Zambia",
+        "code": "ZM"
+      },
+      {
+        "name": "Zimbabwe",
+        "code": "ZW"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "Premera.ru",
+      "name": "Премьера",
+      "url": ""
+    }
+  },
+  {
+    "name": "Uthradam Movies",
+    "logo": "https://i.imgur.com/KdsS0g5.png",
+    "url": "http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Malayalam",
+        "code": "mal"
+      }
+    ],
+    "tvg": {
+      "id": "UthradamMovies.in",
+      "name": "Uthradam Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Utsav Gold",
+    "logo": "https://i.imgur.com/FYym7gH.png",
+    "url": "http://208.115.215.42/Utsav_Gold_HD/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "UtsavGold.in",
+      "name": "Utsav Gold",
+      "url": ""
+    }
+  },
+  {
+    "name": "Victor Valley Movies",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/VictorValleyMovies_229x229.png?raw=true",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "VictorValleyMovies.us",
+      "name": "Victor Valley Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "VIP Megahit Russia",
+    "logo": "https://i.imgur.com/KIy4kdc.png",
+    "url": "https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Russia",
+        "code": "RU"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Russian",
+        "code": "rus"
+      }
+    ],
+    "tvg": {
+      "id": "VIPMegahitRussia.se",
+      "name": "VIP Megahit Russia",
+      "url": ""
+    }
+  },
+  {
+    "name": "Warner TV",
+    "logo": "http://static.epg.best/fr/WarnerTV.fr.png",
+    "url": "http://203.154.243.89:11205",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WarnerTV.us",
+      "name": "Warner TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Watch It Scream!",
+    "logo": "https://i.imgur.com/ylPU4Uf.jpg",
+    "url": "https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WatchItScream.us",
+      "name": "Watch It Scream!",
+      "url": ""
+    }
+  },
+  {
+    "name": "Weyyak Drama",
+    "logo": "https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image",
+    "url": "https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United Arab Emirates",
+        "code": "AE"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Arabic",
+        "code": "ara"
+      }
+    ],
+    "tvg": {
+      "id": "WeyyakDrama.ae",
+      "name": "Weyyak Drama",
+      "url": ""
+    }
+  },
+  {
+    "name": "Wild West",
+    "logo": "https://i.imgur.com/4wl6dzq.png",
+    "url": "https://localnowwildwest-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60bf9392e4f3185ab165fcc4_localnowwildwest-live/4c446ad0-cba9-41ba-81a7-f127d2ede93a/0.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "WildWest.us",
+      "name": "Wild West",
+      "url": ""
+    }
+  },
+  {
+    "name": "Wildside TV",
+    "logo": "https://i.postimg.cc/mZJXXMkp/wildside.png",
+    "url": "https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "France",
+        "code": "FR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "French",
+        "code": "fra"
+      }
+    ],
+    "tvg": {
+      "id": "WildsideTV.fr",
+      "name": "Wildside TV",
+      "url": ""
+    }
+  },
+  {
+    "name": "Wixlar",
+    "logo": "https://i.imgur.com/hfia0wN.png",
+    "url": "http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "Greece",
+        "code": "GR"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Greek",
+        "code": "ell"
+      }
+    ],
+    "tvg": {
+      "id": "Wixlar.gr",
+      "name": "Wixlar",
+      "url": ""
+    }
+  },
+  {
+    "name": "Wow Cinema One",
+    "logo": "https://i.imgur.com/s690F67.png",
+    "url": "http://14.199.164.20:4001/play/a0n3/index.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "WowCinemaOne.in",
+      "name": "Wow Cinema One",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Xumo Free Movies",
+    "logo": "https://i.imgur.com/Sx10tvQ.png",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "XumoFreeMovies.us",
+      "name": "Xumo Free Movies",
+      "url": ""
+    }
+  },
+  {
+    "name": "Xumo Free Westerns",
+    "logo": "https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "code": "eng"
+      }
+    ],
+    "tvg": {
+      "id": "XumoFreeWesterns.us",
+      "name": "Xumo Free Westerns",
+      "url": ""
+    }
+  },
+  {
+    "name": "Yupp Thirai",
+    "logo": "https://i.imgur.com/6E8SbCf.png",
+    "url": "http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Tamil",
+        "code": "tam"
+      }
+    ],
+    "tvg": {
+      "id": "YuppThirai.in",
+      "name": "Yupp Thirai",
+      "url": ""
+    }
+  },
+  {
+    "name": "Zee Action",
+    "logo": "https://i.imgur.com/BvAXCNf.png",
+    "url": "https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "ZeeAction.in",
+      "name": "Zee Action",
+      "url": ""
+    }
+  },
+  {
+    "name": "Zee Bangla",
+    "logo": "http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/USKY2MD6.png",
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-zeebangla",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "ZeeBangla.in",
+      "name": "Zee Bangla",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Zee Bangla Cinema",
+    "logo": "https://i.imgur.com/QFqJax5.png",
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-zeebanglacinema",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "ZeeBanglaCinema.in",
+      "name": "Zee Bangla Cinema",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Zee Bollywood",
+    "logo": "http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/gq8mpPvf.png",
+    "url": "https://sneh-z5api.herokuapp.com/?c=0-9-zeeclassic",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Hindi",
+        "code": "hin"
+      }
+    ],
+    "tvg": {
+      "id": "ZeeBollywood.in",
+      "name": "Zee Bollywood",
+      "url": "https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml"
+    }
+  },
+  {
+    "name": "Zee Mundo",
+    "logo": "https://zeemundo.com/wp-content/uploads/2018/06/logo-120.png",
+    "url": "https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8",
+    "categories": [
+      {
+        "name": "Movies",
+        "slug": "movies"
+      }
+    ],
+    "countries": [
+      {
+        "name": "India",
+        "code": "IN"
+      }
+    ],
+    "languages": [
+      {
+        "name": "Spanish",
+        "code": "spa"
+      }
+    ],
+    "tvg": {
+      "id": "ZeeMundo.in",
+      "name": "Zee Mundo",
+      "url": ""
+    }
+  }
+]
